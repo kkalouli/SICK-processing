@@ -1,0 +1,10 @@
+There were 1424 pairs of AcBBcA.
+There were 327 pairs of AcBBnA.
+There were 0 pairs of AcBBeA.
+There were 1300 pairs of AeBBeA.
+There were 1513 pairs of AeBBnA.
+There were 8 pairs of AeBBcA.
+There were 276 pairs of AnBBcA.
+There were 0 pairs of AnBBeA.
+There were 4992 pairs of AnBBnA.
+There were 19680 unique sentences.
