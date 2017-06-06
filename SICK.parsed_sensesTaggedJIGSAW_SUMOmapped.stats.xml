@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>6095</sentences><tokens>66483</tokens><words>66483</words><fused>0</fused></total>
+  </size>
+  <lemmas unique="1875" /><!-- a, be, Definite=Ind, the, man, in, and, on, woman, dog, of, with, play, no, there -->
+  <forms unique="2313" /><!-- a, ., is, the, in, man, and, are, on, woman, of, dog, with, playing, no -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <tags unique="2">
+    <tag name="">1</tag><!--  -->
+    <tag name="_">66474</tag><!-- a, be, Definite=Ind, the, _, man, in, and, on, woman -->
+  </tags>
+  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <feats unique="11">
+    <feat name="Definite" value="Def" upos="_">3325</feat><!-- the -->
+    <feat name="Definite" value="Ind" upos="_">8136</feat><!-- a -->
+    <feat name="Degree" value="Cmp" upos="_">8</feat><!-- older, cleaner, elder -->
+    <feat name="Number" value="Plur" upos="_">2476</feat><!-- people, men, dogs, children, boys, women, kids, eggs, pieces, girls -->
+    <feat name="Number" value="Sing" upos="_">15182</feat><!-- man, woman, dog, person, girl, boy, water, ball, grass, guitar -->
+    <feat name="Person" value="3" upos="_">5655</feat><!-- is, has, looks, floats, does, makes, muzzles, plays, contains, flips -->
+    <feat name="Poss" value="Yes" upos="_">281</feat><!-- its, his, her, their -->
+    <feat name="PronType" value="Int" upos="_">98</feat><!-- who -->
+    <feat name="PronType" value="Prs" upos="_">86</feat><!-- it, them, her, him, himself, she, they, he, themselves, you -->
+    <feat name="Tense" value="Past" upos="_">731</feat><!-- played, made, dressed, colored, covered, ridden, sliced, cut, held, surrounded -->
+    <feat name="Tense" value="Pres" upos="_">6903</feat><!-- is, are, has, looks, swim, have, floats, chop, does, makes -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="35">
+    <dep name="">1</dep>
+    <dep name="acl">629</dep>
+    <dep name="acl:relcl">321</dep>
+    <dep name="advcl">45</dep>
+    <dep name="advmod">674</dep>
+    <dep name="amod">3410</dep>
+    <dep name="appos">11</dep>
+    <dep name="aux">5571</dep>
+    <dep name="auxpass">478</dep>
+    <dep name="case">6593</dep>
+    <dep name="cc">1429</dep>
+    <dep name="ccomp">45</dep>
+    <dep name="compound">1129</dep>
+    <dep name="compound:prt">396</dep>
+    <dep name="conj">1458</dep>
+    <dep name="cop">599</dep>
+    <dep name="csubj">39</dep>
+    <dep name="dep">131</dep>
+    <dep name="det">12140</dep>
+    <dep name="dobj">3293</dep>
+    <dep name="expl">539</dep>
+    <dep name="iobj">1</dep>
+    <dep name="mark">51</dep>
+    <dep name="neg">1007</dep>
+    <dep name="nmod">6312</dep>
+    <dep name="nmod:npmod">11</dep>
+    <dep name="nmod:poss">322</dep>
+    <dep name="nmod:tmod">1</dep>
+    <dep name="nsubj">6074</dep>
+    <dep name="nsubjpass">453</dep>
+    <dep name="nummod">739</dep>
+    <dep name="parataxis">2</dep>
+    <dep name="punct">6385</dep>
+    <dep name="root">6096</dep>
+    <dep name="xcomp">90</dep>
+  </deps>
+</treebank>
