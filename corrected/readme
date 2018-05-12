@@ -1,3 +1,8 @@
 This folder contains the files of the corrected pairs.
-The file AeBBnA.xlsx contains the 1513 single-side entailment pairs, which were re-annotated and when needed corrected. You can find the corrected label and a comment for the correction in the file.
-The file oneWordDifference.xlsx contains three different sheet: the 1st sheet contains all one-word difference pairs, the 2nd one contains only the pairs which did not get an automatic label from PWN and the 3rd sheet contains only those pairs that got a label from PWN. In the second and third sheet you can also find the corrections and comments that were made to those pairs.
+The file AeBBnA.xlsx contains the 1513 single-side entailment pairs, which were re-annotated and, when needed, corrected. 
+You can find the corrected label and a comment for the correction in the file.
+
+The file oneWordDifference.xlsx contains three different sheets: the 1st sheet contains all one-word difference pairs, 
+the 2nd one contains only the pairs which did not get an automatic label from PWN and 
+the 3rd sheet contains only those pairs that got a label from PWN. 
+In the second and third sheets you can also find the corrections and comments that were made to those pairs.
