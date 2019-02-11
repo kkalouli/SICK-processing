@@ -1,0 +1,2278 @@
+# A baby elephant is eating a small tree . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A baby elephant is not eating a small tree . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A baby is splashing inside a blue paddling pool . 
+8	paddling	paddling	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A baby rhino and its mother are standing in a pen . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A baby rhino is following an adult rhino . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A baby rhino is shunning an adult rhino . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A baby rhino is walking around a pen with its mother . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A baby tiger is playing with a ball . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A basketball player is on the court floor and another one is grabbing the ball . 
+7	court	court	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A basketball player is on the court floor and the ball is being grabbed by another one . 
+7	court	court	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A bearded man is sitting by a shopping cart and is dropping a cardboard sign . 
+14	cardboard	cardboard	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A bearded man is standing by a shopping cart and is holding a cardboard sign . 
+14	cardboard	cardboard	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A big city is begging for men and money holders . 
+9	money	money	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A bike is being ridden by a woman wearing paint and costume pieces on a busy street . 
+10	paint	paint	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A bike rider in a black and red uniform is jumping down off a dirt bike . 
+12	down	down	_	RP	_	11	compound:prt	11:compound:prt	_
+
+# A bike rider in a black and red uniform is standing on a dirt bike . 
+2	bike	bike	_	NN	Number=Sing	3	compound	3:compound	_
+15	bike	bike	_	NN	Number=Sing	11	nmod	3:compound	_
+
+# A biker on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up . 
+6	sport	sport	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A black bike rider in a red bike uniform is standing in the dirt . 
+3	bike	bike	_	NN	Number=Sing	4	compound	4:compound	_
+8	bike	bike	_	NN	Number=Sing	9	compound	4:compound	_
+
+# A black cat and a small white and black cat are looking up at a kitchen countertop . 
+16	kitchen	kitchen	_	NN	Number=Sing	17	compound	17:compound	_
+
+# A black cat is jumping from a hay ball to another hay ball . 
+8	hay	hay	_	NN	Number=Sing	9	compound	9:compound	_
+12	hay	hay	_	NN	Number=Sing	13	compound	9:compound	_
+
+# A black dog and a small white and black dog are looking up at a kitchen countertop . 
+16	kitchen	kitchen	_	NN	Number=Sing	17	compound	17:compound	_
+
+# A black dog and a tan dog are fighting . 
+6	tan	tan	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A black dog and a tan dog are sleeping . 
+6	tan	tan	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A black dog in the snow is leaping off the ground and catching a stick . 
+9	off	off	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# A black dog is jumping from n hay ball to another hay ball . 
+7	n	n	_	NN	Number=Sing	9	compound	9:compound	_
+8	hay	hay	_	NN	Number=Sing	9	compound	9:compound	_
+12	hay	hay	_	NN	Number=Sing	13	compound	9:compound	_
+
+# A black dog is leaping from a hay ball to another hay ball . 
+8	hay	hay	_	NN	Number=Sing	9	compound	9:compound	_
+12	hay	hay	_	NN	Number=Sing	13	compound	9:compound	_
+
+# A black rally car is throwing mud into the air and is approaching a bend in the track . 
+3	rally	rally	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A blond boy is walking up a sand dune with a skateboard . 
+6	up	up	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A blond girl waves while she is riding . 
+3	girl	girl	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A blonds girl is surfing . 
+2	blonds	blond	_	NNS	Number=Plur	3	compound	3:compound	_
+
+# A boy in a striped shirt is jumping behind a water fountain . 
+9	behind	behind	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# A boy is jumping off the side of a stone water fountain in front of a building . 
+10	stone	stone	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A boy is jumping on the side of a stone water fountain in front of a building . 
+10	stone	stone	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A boy is jumping rope on a sidewalk near a parking garage . 
+11	parking	parking	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A boy is looking down and wearing a wedding veil . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+9	wedding	wedding	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A boy is playing a game with steel blocks . 
+8	steel	steel	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A boy is sitting in a room and playing a piano by lamp light . 
+13	lamp	lamp	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A boy is speeding down a steep slide . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A boy is standing in a room by a lamp light . 
+10	lamp	lamp	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A boy is wearing a yellow jacket and is jumping down from a rock . 
+11	down	down	_	RP	_	10	compound:prt	10:compound:prt	_
+
+# A boy is wearing all black and is sliding down a blow up slide . 
+13	up	up	_	RP	_	12	compound:prt	12:compound:prt	_
+
+# A boy, who looks young and is wearing a red swimsuit, is jumping into a blue kiddies pool . 
+19	kiddies	kiddie	_	NNS	Number=Plur	20	compound	20:compound	_
+
+# A bride with a black veil is looking down . 
+9	down	down	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# A bride with a white dress is looking down . 
+9	down	down	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# A bride with a white veil is looking down . 
+9	down	down	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# A brown and black dog is pointing the nose downwards . 
+9	nose	nose	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A brown and black dog is pointing the nose upwards . 
+9	nose	nose	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A brown and white dog is biting a dirty tennis ball in a dirt field . 
+14	dirt	dirt	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A brown and white dog is catching a dirty golf ball in a dirt field . 
+14	dirt	dirt	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A brown and white dog is catching a dirty tennis ball in a dirt field . 
+14	dirt	dirt	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A brown and white dog is jumping over a red, yellow and white barrier . 
+8	over	over	_	RP	_	7	compound:prt	7:compound:prt	_
+
+# A brown and white dog is jumping over a red, yellow and white hurdle . 
+8	over	over	_	RP	_	7	compound:prt	7:compound:prt	_
+
+# A bubble blew, dyeing the girl's shirt red . 
+9	shirt	shirt	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A bull dog is being brushed by the monkey . 
+2	bull	bull	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A bull dog is brushing the monkey . 
+2	bull	bull	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A car is riskily jumping over a girl . 
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A cardboard box is being touched by a man in a black hat . 
+2	cardboard	cardboard	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A cartoon airplane is landing . 
+2	cartoon	cartoon	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A cat is looking at a store counter . 
+7	store	store	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A cat is playing on a moving ceiling fan . 
+8	ceiling	ceiling	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A cat is stuck on a ceiling fan that is moving . 
+7	ceiling	ceiling	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A cat is stuck on a moving ceiling fan . 
+8	ceiling	ceiling	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A cat is walking on a hardwood floor . 
+7	hardwood	hardwood	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A cat song is being played on a piano . 
+2	cat	cat	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A child in a green and white sports uniform is resting on the grass . 
+8	sports	sport	_	NNS	Number=Plur	9	compound	9:compound	_
+
+# A child in a green and white sports uniform is running over the grass . 
+8	sports	sport	_	NNS	Number=Plur	9	compound	9:compound	_
+
+# A child is indoors watching a program about some young climbers on a rock wall . 
+14	rock	rock	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A child is making a snow ball . 
+6	snow	snow	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A child is running in and out of the ocean waves . 
+10	ocean	ocean	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A child is smashing a snow ball . 
+6	snow	snow	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A child is staring at the ocean waves . 
+7	ocean	ocean	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A child is walking down the street and a jeep is not pulling up . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A child is walking down the street and a jeep is pulling up . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A child is walking down the street and a jeep is stopping . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A child is watching someone playing outdoors and is spouting water over the rest of his family . 
+5	someone	someone	_	NN	Number=Sing	7	compound	7:compound	_
+6	playing	playing	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A child is wearing a yellow jacket and is jumping down from a rock . 
+11	down	down	_	RP	_	10	compound:prt	10:compound:prt	_
+
+# A child with a gun that sprays water is laughing and getting hit by other boys . 
+7	sprays	spray	_	NNS	Number=Plur	8	compound	8:compound	_
+
+# A child, who is young, is riding a bike on a rough dirt path . 
+15	dirt	dirt	_	NN	Number=Sing	16	compound	16:compound	_
+
+# A classroom full of students is looking attentively in the same direction inside a bamboo structure . 
+15	bamboo	bamboo	_	NN	Number=Sing	16	compound	16:compound	_
+
+# A classroom full of students is looking in the same direction inside a bamboo structure . 
+14	bamboo	bamboo	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A cook is rapidly slicing some bell peppers . 
+7	bell	bell	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A cook is slicing some bell peppers . 
+6	bell	bell	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A couple is looking at a street guide . 
+7	street	street	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A couple of white dogs are running and jumping along a beach . 
+10	along	along	_	RP	_	9	compound:prt	9:compound:prt	_
+
+# A crowd is posing for a large camera man in heavy clothing . 
+8	camera	camera	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A deer is jumping over a cyclone fence . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+7	cyclone	cyclone	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A deer is jumping over a fence . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A deer is jumping over a wall . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A deer is jumping over the enclosure . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A deer isn't jumping over the fence . 
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A dirty soccer ball is rolling into a goal net . 
+9	goal	goal	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A dirty tan dog is rolling in the dirt and looking right at the camera . 
+3	tan	tan	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A dirty tan dog is rolling in the water and looking right at the camera . 
+3	tan	tan	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A dog has its head inside a red and green gift bag . 
+11	gift	gift	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A dog has its head outside a red and green gift bag . 
+11	gift	gift	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A dog is jumping at dry leaves in a field of shiny blue soccer balls . 
+14	soccer	soccer	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A dog is looking at a store counter . 
+7	store	store	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A dog is pulling a toddler out of a rain puddle . 
+10	rain	rain	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A dog is pushing a toddler into a rain puddle . 
+9	rain	rain	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A dog is running on the sea shore . 
+7	sea	sea	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A dog with a blue collar is not playing with the ball outside . 
+12	ball	ball	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A dog with a blue collar is playing with the ball outside . 
+11	ball	ball	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A dog with a tan coat is jumping up and catching a tennis ball . 
+5	tan	tan	_	NN	Number=Sing	6	compound	6:compound	_
+9	up	up	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# A father is in the swimming pool during his daughters launch . 
+10	daughters	daughter	_	NNS	Number=Plur	11	compound	11:compound	_
+
+# A few people are sitting on a bench under some palm trees . 
+11	palm	palm	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A funny crowd of people is doing a skit of two boxing men . 
+12	boxing	boxing	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A fur scarf is being held by an Asian woman . 
+2	fur	fur	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A girl from Asia, in front of a brick window, doesn't look surprised . 
+10	brick	brick	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A girl from Asia, in front of a brick window, looks surprised . 
+10	brick	brick	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A girl in an orange shirt and clown makeup is standing in a park and others are looking on . 
+8	clown	clown	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A girl in an orange shirt and clown makeup is walking in a park and others are looking on . 
+8	clown	clown	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A girl in gold and purple is holding a rainbow afghan . 
+10	rainbow	rainbow	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A girl is jumping rope on a sidewalk near a parking garage . 
+11	parking	parking	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A girl is looking on surprised from a front window in a house in Asia . 
+9	front	front	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A girl is speeding down a steep slide . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A grey dog is bouncing a soccer ball on its head in a grass field . 
+14	grass	grass	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A grey dog is bouncing a tennis ball on its head in a grass field . 
+14	grass	grass	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A group of children in a church basement is playing guitars and tambourines . 
+7	church	church	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A group of children in a church basement is playing maracas and tambourines . 
+7	church	church	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A group of football players is running in the field . 
+4	football	football	_	NN	Number=Sing	5	compound	5:compound	_
+
+# A group of football players is standing still in the field . 
+4	football	football	_	NN	Number=Sing	5	compound	5:compound	_
+
+# A group of people is not walking down the street and a person in a green hat is on the phone . 
+8	down	down	_	RP	_	7	compound:prt	7:compound:prt	_
+
+# A group of people is sitting on both sides of a red stone structure . 
+13	stone	stone	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A group of people is sitting relaxed on both sides of a red stone monument . 
+14	stone	stone	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A group of people is standing on both sides of a red stone structure . 
+13	stone	stone	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A group of people is walking down the street and a person in a green hat is on the phone . 
+7	down	down	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A group of people is walking down the street and a person in a hat is on the phone . 
+7	down	down	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A group of women are wearing pink bunny ears and are pointing to the right . 
+8	bunny	bunny	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A horse is riding over a man . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A karate practitioner is kicking at another man who is wearing protective boxing gloves . 
+13	boxing	boxing	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A kid is speeding down a steep slide . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A kid swimming in the ocean is tossing a coin into the pool, near the man . 
+2	kid	kid	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A kitten is playing with a blue rope toy . 
+8	rope	rope	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A lady is mixing a meat mixture in a bowl . 
+6	meat	meat	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A lady is standing on the street and is surrounded by school children . 
+12	school	school	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A large brown cat is jumping over a red hurdle . 
+7	over	over	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A large brown dog is jumping over a red hurdle . 
+7	over	over	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A large dog and a small dog are standing next to the kitchen counter and are investigating . 
+13	kitchen	kitchen	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A large dog and a small dog are standing next to the kitchen counter and are sniffing . 
+13	kitchen	kitchen	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A large dog and a small dog is standing on the kitchen counter and investigate . 
+12	kitchen	kitchen	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A large duck is perching over a rocky stream . 
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A large man is sitting in a military accessories shop . 
+9	accessories	accessory	_	NNS	Number=Plur	10	compound	10:compound	_
+
+# A large man is sitting in a military accessories store . 
+9	accessories	accessory	_	NNS	Number=Plur	10	compound	10:compound	_
+
+# A large white animal is jumping up in the snow . 
+7	up	up	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A large white dog is jumping up in the snow . 
+7	up	up	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A lick of milk sauce is being given to the cat . 
+4	milk	milk	_	NN	Number=Sing	5	compound	5:compound	_
+
+# A little boy and a woman wearing a yellow shirt are getting splashed by a city fountain . 
+16	city	city	_	NN	Number=Sing	17	compound	17:compound	_
+
+# A little boy is proudly wearing a green soccer strip and is running on the grass . 
+9	soccer	soccer	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A little boy is wearing a green soccer strip and is running on the grass . 
+8	soccer	soccer	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain . 
+16	city	city	_	NN	Number=Sing	17	compound	17:compound	_
+
+# A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head . 
+21	swimming	swimming	_	NN	Number=Sing	22	compound	22:compound	_
+
+# A lot of people are in an ice skating park . 
+8	ice	ice	_	NN	Number=Sing	10	compound	10:compound	_
+9	skating	skating	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A man and a woman are idling in a city street . 
+10	city	city	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man and a woman are not driving down the street in a jeep . 
+9	down	down	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# A man and a woman are walking down a city street . 
+8	down	down	_	RP	_	7	compound:prt	7:compound:prt	_
+10	city	city	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man and a woman are walking through a desert area . 
+10	desert	desert	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man by a brick wall is wearing a mask around his mouth and a hair net . 
+5	brick	brick	_	NN	Number=Sing	6	compound	6:compound	_
+16	hair	hair	_	NN	Number=Sing	17	compound	17:compound	_
+
+# A man by a wall made of bricks is wearing a mask around his mouth and a hair net . 
+18	hair	hair	_	NN	Number=Sing	19	compound	19:compound	_
+
+# A man in a black hat is touching a cardboard box . 
+10	cardboard	cardboard	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man in a motocross uniform is wearing a helmet and rides a red motorcycle . 
+5	motocross	motocross	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A man in a red jacket and khaki pants is walking through an American state . 
+8	khaki	khaki	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A man in a red jacket and khaki pants is walking through an European state . 
+8	khaki	khaki	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A man in a red uniform is making a jump in a dirt bike race . 
+13	dirt	dirt	_	NN	Number=Sing	15	compound	15:compound	_
+14	bike	bike	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A man in a red uniform is swiftly making a jump in a dirt bike race . 
+14	dirt	dirt	_	NN	Number=Sing	16	compound	16:compound	_
+15	bike	bike	_	NN	Number=Sing	16	compound	16:compound	_
+
+# A man in a small city is doing charity work . 
+9	charity	charity	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A man in a white hat is touching a cardboard box . 
+10	cardboard	cardboard	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man in a white shirt and sunglasses and a man in a black shirt and sunglasses are sitting at a table with four beer bottles . 
+25	beer	beer	_	NN	Number=Sing	26	compound	26:compound	_
+
+# A man in blue is riding a animal on a dirt road . 
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A man in blue is riding a horse on a dirt road . 
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A man in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle . 
+11	sponsor	sponsor	_	NN	Number=Sing	12	compound	12:compound	_
+18	sport	sport	_	NN	Number=Sing	19	compound	19:compound	_
+
+# A man in gold and purple is holding a rainbow afghan . 
+10	rainbow	rainbow	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man is breaking a block of concrete with a sledge hammer . 
+11	sledge	sledge	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A man is breaking a slab of concrete with a sledge hammer . 
+11	sledge	sledge	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A man is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is dancing upside-down on the ceiling . 
+5	upside-down	upside-down	_	NN	Number=Sing	4	dobj	4:dobj	down
+
+# A man is doing a skateboard trick on a park porch . 
+6	skateboard	skateboard	_	NN	Number=Sing	7	compound	7:compound	_
+10	park	park	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man is doing a skateboard trick on an outdoor park porch . 
+6	skateboard	skateboard	_	NN	Number=Sing	7	compound	7:compound	_
+11	park	park	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A man is drawing on a digital dry erase board . 
+9	erase	erase	_	VB	_	10	compound	10:compound	_
+
+# A man is failing to perform a bicycle trick in midair . 
+8	bicycle	bicycle	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A man is jumping rope outside . 
+5	rope	rope	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A man is lazily walking down a road . 
+6	down	down	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A man is leaning on a racing motorcycle . 
+7	racing	racing	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is making a call on a cell phone . 
+9	cell	cell	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A man is not drawing on a digital dry erase board . 
+10	erase	erase	_	VB	_	11	compound	11:compound	_
+
+# A man is not participating in a bmx race . 
+8	bmx	bmx	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A man is not wearing a clear plastic cap and a face mask . 
+8	plastic	plastic	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A man is not wearing a purple shirt and black leather chaps and is posing for the camera . 
+11	leather	leather	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A man is outside close to a target for blade throwing . 
+10	blade	blade	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man is packing away an acoustic guitar . 
+5	away	away	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is packing away the guitar . 
+5	away	away	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is participating in a bmx race . 
+7	bmx	bmx	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is petting a dog near a stone path . 
+9	stone	stone	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A man is playing a bamboo flute . 
+6	bamboo	bamboo	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A man is playing the guitar owner . 
+6	guitar	guitar	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A man is putting away a stenograph machine . 
+7	stenograph	stenograph	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is putting garlic on some bread slices . 
+8	bread	bread	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A man is riding a rodeo bull . 
+6	rodeo	rodeo	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A man is riding a water toy in the water . 
+6	water	water	_	NN	Number=Sing	7	compound	7:compound	_
+10	water	water	_	NN	Number=Sing	7	nmod	7:compound	_
+
+# A man is severing the toe of an empty leather boot with a sword . 
+10	leather	leather	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man is singing and walking down the road . 
+7	down	down	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A man is singing and walking down the sidewalk . 
+7	down	down	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A man is skiing down a hill and jumping a red obstacle . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is skiing down a hill and over a red obstacle . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is skiing down a snowy hill . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is skiing down a snowy mountain . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is snowboarding down a railing in the snow . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is spilling orange juice and standing still . 
+4	spilling	spilling	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A man is standing near a bike and is writing on a piece paper . 
+13	piece	piece	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A man is standing on a black jeep on a dirt hill . 
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A man is standing on a dirt hill next to a black car . 
+7	dirt	dirt	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is standing on a dirt hill next to a black jeep . 
+7	dirt	dirt	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is standing on a roof top and playing a violin . 
+7	roof	roof	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is talking on a cell phone . 
+7	cell	cell	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is taping a cut box . 
+6	cut	cut	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A man is walking down a road . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A man is walking in a city street . 
+7	city	city	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is wearing a beret and is riding the bicycle on a recreation trail . 
+14	recreation	recreation	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A man is wearing a clear plastic cap and a face mask . 
+7	plastic	plastic	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is wearing a clear plastic cap and a mask . 
+7	plastic	plastic	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A man is wearing a purple shirt and black leather chaps and is posing for the camera . 
+10	leather	leather	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man is wearing a sports uniform and is running down the field . 
+6	sports	sport	_	NNS	Number=Plur	7	compound	7:compound	_
+
+# A man on a green bike is performing tricks on a dirt ramp . 
+12	dirt	dirt	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A man on a green car is performing tricks on a dirt ramp . 
+12	dirt	dirt	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A man on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up . 
+6	sport	sport	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A man on a yellow sport bike is doing a wheelie and a friend on a white bike is catching up . 
+6	sport	sport	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A man on inline skates is resting at a skate park . 
+10	skate	skate	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man on inline skates is skating at a skate park . 
+10	skate	skate	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A man with no shirt is jumping over a log . 
+8	over	over	_	RP	_	7	compound:prt	7:compound:prt	_
+
+# A married couple is walking down the aisle . 
+6	down	down	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A married couple is walking up the aisle . 
+6	up	up	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A middle eastern man is standing against a lamp post near to other people . 
+9	lamp	lamp	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A middle eastern man is standing with the back against a lamp post near to other people . 
+12	lamp	lamp	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A middle eastern woman is standing with her back against a lamp post near to other people . 
+12	lamp	lamp	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A model is wearing a purple shirt and black leather chaps and is posing for the camera . 
+10	leather	leather	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A motocross rider is giving a motorbike to a person at an event . 
+2	motocross	motocross	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A motorbike rider is jumping over a person on a sandy track . 
+2	motorbike	motorbike	_	NN	Number=Sing	3	compound	3:compound	_
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A motorbike rider is running over a man . 
+2	motorbike	motorbike	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A motorcycle racer is riding a red and black bike . 
+2	motorcycle	motorcycle	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A motorcycle rider is standing up on the seat of a white motorcycle . 
+2	motorcycle	motorcycle	_	NN	Number=Sing	3	compound	3:compound	_
+13	motorcycle	motorcycle	_	NN	Number=Sing	9	nmod	3:compound	_
+
+# A motorcyclist is sitting by a police man . 
+7	police	police	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A nude crowd in body paint is walking in front of a lady . 
+5	body	body	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A nude lady is walking in front of a crowd in body paint . 
+12	body	body	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A nude lady is walking in front of many people in body paint . 
+12	body	body	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A person by some cameras is blowing on a burning torch . 
+10	burning	burning	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A person in a blue colored jacket is jumping off of a tall cement wall . 
+14	cement	cement	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A person in a blue jacket is jumping off of a tall cement wall . 
+13	cement	cement	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A person in a blue jacket is jumping onto a tall cement wall . 
+12	cement	cement	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A person in a motocross uniform is not wearing a helmet and riding a red motorcycle . 
+5	motocross	motocross	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A person in a motocross uniform is wearing a helmet and rides a red motorcycle . 
+5	motocross	motocross	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A person in a red jacket and khaki pants is walking through an American state . 
+8	khaki	khaki	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A person in biking gear is standing steadily in front of some mountains . 
+4	biking	biking	_	NN	Number=Sing	5	compound	5:compound	_
+
+# A person is burning some cameras with a blow torch . 
+9	blow	blow	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A person is eating a cut onion . 
+6	cut	cut	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A person is ignoring the motocross bike that is lying on its side and there is no one is racing by . 
+6	motocross	motocross	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A person is kicking a ball for a soccer game between somebody's feet . 
+9	soccer	soccer	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A person is listening to a trumpet playing . 
+7	trumpet	trumpet	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A person is looking at a motocross bike that is lying on its side and another is racing by . 
+7	motocross	motocross	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A person is repairing some cameras with a blow torch . 
+9	blow	blow	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A person is severing the toe of an empty leather boot with a sword . 
+10	leather	leather	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A person is sitting and wearing a grass hat . 
+8	grass	grass	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A person is sitting on a mountain top . 
+7	mountain	mountain	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A person is snowboarding down a railing in the snow . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A person is standing on a mountain top . 
+7	mountain	mountain	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A person wearing jeans is sitting happily on the top of a horse saddle . 
+13	horse	horse	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A person wearing jeans is sitting on top of a horse saddle . 
+11	horse	horse	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A pet dog is standing on the bank and is looking at another brown dog in the pond . 
+2	pet	pet	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A pet dog is standing on the bank and is looking at another dog, which is brown, in the pond . 
+2	pet	pet	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A piece of bread, which is big, is having butter spread upon it by a man OR A piece of bread, which is big, is being spread with butter by a man . 
+12	butter	butter	_	NN	Number=Sing	13	compound	13:compound	_
+18	man	man	_	NN	Number=Sing	21	compound	21:compound	_
+19	OR	or	_	NN	Number=Sing	21	compound	21:compound	_
+20	A	a	_	NN	Number=Sing	21	compound	21:compound	_
+33	butter	butter	_	NN	Number=Sing	31	nmod	13:compound	_
+36	man	man	_	NN	Number=Sing	31	nmod	21:compound	_
+
+# A ping pong player is meeting with two people . 
+2	ping	ping	_	NN	Number=Sing	4	compound	4:compound	_
+3	pong	pong	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A purple crowd of people is eating on various red lit restaurant tables . 
+12	restaurant	restaurant	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A race car driver is sitting down and is motionless . 
+3	car	car	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A race car driver is standing up and is fiercely pointing his hand at the sky . 
+3	car	car	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A race car driver is standing up and pointing his hand at the sky . 
+3	car	car	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A racer in full gear is wearing a helmet with sponsor logos and is riding a red sport motorcycle . 
+11	sponsor	sponsor	_	NN	Number=Sing	12	compound	12:compound	_
+18	sport	sport	_	NN	Number=Sing	19	compound	19:compound	_
+
+# A racer in full gear wears a helmet with sponsor logos and is riding a blue sport motorcycle . 
+10	sponsor	sponsor	_	NN	Number=Sing	11	compound	11:compound	_
+17	sport	sport	_	NN	Number=Sing	18	compound	18:compound	_
+
+# A racer is leaning on a racing motorcycle . 
+7	racing	racing	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A rainbow afghan is being held by a girl in gold and purple . 
+2	rainbow	rainbow	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A red and brown dog is digging its nose inside the holiday gift bag . 
+12	holiday	holiday	_	NN	Number=Sing	14	compound	14:compound	_
+13	gift	gift	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A red dog is excitedly jumping up and catching a tennis ball in its mouth . 
+7	up	up	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A shirtless man is jumping over a log . 
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A shirtless woman is jumping over a log . 
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A shoeless woman is sitting on a blanket under a lavender umbrella . 
+11	lavender	lavender	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A shoeless woman is standing over a blanket near a lavender umbrella . 
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+11	lavender	lavender	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A small man is sitting in a military accessories store . 
+9	accessories	accessory	_	NNS	Number=Plur	10	compound	10:compound	_
+
+# A small tree is being eaten by a baby elephant . 
+9	baby	baby	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A small white dog is jumping up in the snow . 
+7	up	up	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# A smiling boy in summer clothes is standing still outside a building . 
+5	summer	summer	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A smiling boy in winter clothes is waving his mittened hands outside a building in the snow . 
+5	winter	winter	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A snow ball is being made by a child . 
+2	snow	snow	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A snow slide is full of kids . 
+2	snow	snow	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A snowboarding woman is jumping through the air . 
+2	snowboarding	snowboarding	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A soccer ball is not rolling into a goal net . 
+9	goal	goal	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A soccer ball is rolling into a goal net . 
+8	goal	goal	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A soccer man is playing piano . 
+2	soccer	soccer	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A sports uniform is being worn by a man who is running down the field . 
+2	sports	sport	_	NNS	Number=Plur	3	compound	3:compound	_
+
+# A stone woman and bicycle are on top of two purple columns, between which people are walking . 
+2	stone	stone	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog is jumping up and catching a tennis ball . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+6	up	up	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A tan dog is playing in the water on the bank of a pond . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog is resting in the snow . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog is resting near a brush . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog is running through the brush . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog is running through the snow . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog is splashing in the water on the bank of a pond . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog is splashing in the water on the bank of a river . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A tan dog which is dirty is rolling in the dirt and looking right at the camera . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# A thin lady is piecing together oriental carrot cuts . 
+8	carrot	carrot	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A tiger is strolling around . 
+5	around	around	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A toddler is making a splash inside a blue paddling pool . 
+10	paddling	paddling	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A toddler is making a splash outside a blue paddling pool . 
+10	paddling	paddling	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A toddler is not riding a plastic scooter toy . 
+8	scooter	scooter	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A toddler is playing with a plastic scooter toy . 
+8	scooter	scooter	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A toddler is riding a plastic scooter toy . 
+7	scooter	scooter	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A top violin player is standing on the roof over a man . 
+3	violin	violin	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A walker is in a hat store for men . 
+6	hat	hat	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A white dog is wearing a Christmas reindeer headband and is playing with a brown dog in the grass . 
+7	Christmas	Christmas	_	NNP	Number=Sing	9	compound	9:compound	_
+8	reindeer	reindeer	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A white dog is wearing a Christmas reindeer headband and is playing with a dog with a brown coat in the grass . 
+7	Christmas	Christmas	_	NNP	Number=Sing	9	compound	9:compound	_
+8	reindeer	reindeer	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A white man is staging a hat and a playing guitar . 
+10	playing	playing	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A white racing vehicle is driving through a puddle . 
+3	racing	racing	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A white rally car is throwing mud into the air and is approaching a bend in the track . 
+3	rally	rally	_	NN	Number=Sing	4	compound	4:compound	_
+
+# A woman by a brick wall is wearing a mask around her mouth and a hair net . 
+5	brick	brick	_	NN	Number=Sing	6	compound	6:compound	_
+16	hair	hair	_	NN	Number=Sing	17	compound	17:compound	_
+
+# A woman dressed in elegant clothing is inside a crowd of people and is looking down . 
+16	down	down	_	RP	_	15	compound:prt	15:compound:prt	_
+
+# A woman in a purple top is walking a bicycle between two stone columns . 
+13	stone	stone	_	NN	Number=Sing	14	compound	14:compound	_
+
+# A woman in a top which is purple is walking a bicycle between two stone columns . 
+15	stone	stone	_	NN	Number=Sing	16	compound	16:compound	_
+
+# A woman in an orange shirt and clown makeup is standing in a park and others are looking on . 
+8	clown	clown	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A woman in blue is riding a horse on a dirt road . 
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A woman is beating the man that is keeping two eggs in the bowl, using a wire whisk . 
+18	wire	wire	_	NN	Number=Sing	19	compound	19:compound	_
+
+# A woman is bowling two eggs to a break dancer . 
+9	break	break	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A woman is crouching down next to a dog and is smiling at a young girl sitting on the sidewalk . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A woman is doing a skateboard trick on an outdoor park porch . 
+6	skateboard	skateboard	_	NN	Number=Sing	7	compound	7:compound	_
+11	park	park	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A woman is dropping a baby kangaroo from her arms . 
+6	baby	baby	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A woman is jumping rope outside . 
+5	rope	rope	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A woman is leaning on a racing motorcycle . 
+7	racing	racing	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A woman is looking down and is wearing a wedding dress . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A woman is looking down and is wearing a wedding veil . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+10	wedding	wedding	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A woman is petting a dog near a stone path . 
+9	stone	stone	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A woman is petting a dog near a stone trail . 
+9	stone	stone	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A woman is picking up and holding a baby kangaroo in her arms . 
+9	baby	baby	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A woman is playing with a brown cat on a garden path . 
+11	garden	garden	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A woman is playing with a brown dog on a garden path . 
+11	garden	garden	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A woman is putting a baby in a waste bin . 
+9	waste	waste	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A woman is putting a child in a waste bin . 
+9	waste	waste	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A woman is rocking over a blanket lying on someone reading a book . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A woman is scrubbing a zucchini with a vegetable brush . 
+9	vegetable	vegetable	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A woman is severing the toe of an empty leather boot with a sword . 
+10	leather	leather	_	NN	Number=Sing	11	compound	11:compound	_
+
+# A woman is skiing down a hill and over a red obstacle . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A woman is snowboarding down a railing in the snow . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A woman is snowboarding down an incline and another woman is standing behind her . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# A woman is speaking from a ledge and is keeping her cell phone inside a purse that is inside a yellow bag . 
+12	cell	cell	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A woman is speaking loudly on her cell phone and is keeping a purse and a yellow bag on the near ledge . 
+8	cell	cell	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A woman is speaking on her cell phone and is keeping a purse and a yellow bag on the near ledge . 
+7	cell	cell	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A woman is swiftly snowboarding down an incline and another woman is standing behind her . 
+6	down	down	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# A woman is using a pencil for eyes and is applying eye liner to her eyelid . 
+12	eye	eye	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A woman is using an eye pencil and is applying eye liner to her eyelid . 
+6	eye	eye	_	NN	Number=Sing	7	compound	7:compound	_
+11	eye	eye	_	NN	Number=Sing	12	compound	7:compound	_
+
+# A woman is walking in a city street . 
+7	city	city	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A woman is wearing a beret and is riding the bicycle on a recreation trail . 
+14	recreation	recreation	_	NN	Number=Sing	15	compound	15:compound	_
+
+# A woman is wearing ear protection and is firing a gun at an indoor shooting range . 
+5	ear	ear	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A woman is wearing ear protection and is firing a gun at an outdoor shooting range . 
+5	ear	ear	_	NN	Number=Sing	6	compound	6:compound	_
+
+# A woman is wearing paint and costume pieces and is riding a bike on a busy street . 
+5	paint	paint	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A woman is wearing paint and costume pieces and is riding a bike on a empty street . 
+5	paint	paint	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A woman with pigtails is climbing a rock wall . 
+8	rock	rock	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A woman, who is shoeless, is sitting on a blanket under a lavender umbrella . 
+15	lavender	lavender	_	NN	Number=Sing	16	compound	16:compound	_
+
+# A young boy wearing a red swimsuit is jumping into a blue kiddies pool . 
+13	kiddies	kiddie	_	NNS	Number=Plur	14	compound	14:compound	_
+
+# A young boy wearing a red swimsuit is jumping out of a blue kiddies pool . 
+14	kiddies	kiddie	_	NNS	Number=Plur	15	compound	15:compound	_
+
+# A young boy with a heart tank top is raising his hands as he is sliding . 
+6	heart	heart	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A young child is lying down on a gravel road that is covered with dead leaves . 
+9	gravel	gravel	_	NN	Number=Sing	10	compound	10:compound	_
+
+# A young child is riding a bike on a rough dirt path . 
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A young child is running down a gravel road that is covered with dead leaves . 
+8	gravel	gravel	_	NN	Number=Sing	9	compound	9:compound	_
+
+# A young child is walking with a bike on a rough dirt path . 
+12	dirt	dirt	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A young climber is making a rock wall for the boys . 
+7	rock	rock	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A young girl in a winter coat is jumping off a boulder into the sand at a beach . 
+6	winter	winter	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A young girl is jumping rope on a sidewalk near a parking garage . 
+12	parking	parking	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A young girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on her head . 
+21	swimming	swimming	_	NN	Number=Sing	22	compound	22:compound	_
+
+# A young girl with a heart tank top is raising her hands as she is playing on a slide . 
+6	heart	heart	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A young girl with a heart tank top is raising her hands as she is sliding . 
+6	heart	heart	_	NN	Number=Sing	8	compound	8:compound	_
+
+# A young man is getting a motocross bike up a dirt hill . 
+7	motocross	motocross	_	NN	Number=Sing	8	compound	8:compound	_
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A young man is pushing a motocross bike down a dirt hill . 
+7	motocross	motocross	_	NN	Number=Sing	8	compound	8:compound	_
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A young man is pushing a motocross bike up a dirt hill . 
+7	motocross	motocross	_	NN	Number=Sing	8	compound	8:compound	_
+11	dirt	dirt	_	NN	Number=Sing	12	compound	12:compound	_
+
+# A young man on a bmx bicycle is jumping off a masonry pyramid . 
+6	bmx	bmx	_	NN	Number=Sing	7	compound	7:compound	_
+12	masonry	masonry	_	NN	Number=Sing	13	compound	13:compound	_
+
+# A young man on a bmx bicycle is jumping off a pyramid . 
+6	bmx	bmx	_	NN	Number=Sing	7	compound	7:compound	_
+
+# A young man on a bmx bicycle is jumping on a masonry pyramid . 
+6	bmx	bmx	_	NN	Number=Sing	7	compound	7:compound	_
+12	masonry	masonry	_	NN	Number=Sing	13	compound	13:compound	_
+
+# Adults and children are standing and playing in front of steps near a desert area . 
+14	desert	desert	_	NN	Number=Sing	15	compound	15:compound	_
+
+# An Asian woman is holding a fur scarf . 
+7	fur	fur	_	NN	Number=Sing	8	compound	8:compound	_
+
+# An elegant woman is inside a crowd of people and is looking down . 
+13	down	down	_	RP	_	12	compound:prt	12:compound:prt	_
+
+# An ice skater is outdoors performing on a rink full of people . 
+2	ice	ice	_	NN	Number=Sing	3	compound	3:compound	_
+
+# An old woman is wearing a shirt with a rose pattern upon it and is clumsily carrying two newspapers . 
+10	rose	rose	_	NN	Number=Sing	11	compound	11:compound	_
+
+# An orange pepper is being diced up by a person . 
+7	up	up	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# Animals are playing in fountains that spray water from the ground . 
+7	spray	spray	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Blue and black pants are being worn by the motocross rider . 
+10	motocross	motocross	_	NN	Number=Sing	11	compound	11:compound	_
+
+# Children are playing in ground fountains . 
+5	ground	ground	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Different football players are teaming on a field . 
+2	football	football	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Dirt bikers are not riding on a trail . 
+1	Dirt	dirt	_	NN	Number=Sing	2	compound	2:compound	_
+
+# Dirt bikers are riding on a trail . 
+1	Dirt	dirt	_	NN	Number=Sing	2	compound	2:compound	_
+
+# Five adults are sitting on stone steps . 
+6	stone	stone	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Football players in red and white are jumping and hugging each other . 
+1	Football	football	_	NN	Number=Sing	2	compound	2:compound	_
+
+# Four people are performing music outdoors . 
+5	music	music	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Four people are sitting on a low cement ledge . 
+8	cement	cement	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Four people are standing on a low cement ledge . 
+8	cement	cement	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Four people are walking along a city sidewalk and the one in the green hat is not talking on a cell phone . 
+7	city	city	_	NN	Number=Sing	8	compound	8:compound	_
+21	cell	cell	_	NN	Number=Sing	22	compound	22:compound	_
+
+# Four people are walking along a city sidewalk and the one in the green hat is phoning someone . 
+7	city	city	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Four people are walking along a city sidewalk and the one in the green hat is talking on a cell phone . 
+7	city	city	_	NN	Number=Sing	8	compound	8:compound	_
+20	cell	cell	_	NN	Number=Sing	21	compound	21:compound	_
+
+# Many people are skating in an ice park . 
+7	ice	ice	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Mud is being thrown to the playing boy . 
+7	playing	playing	_	NN	Number=Sing	8	compound	8:compound	_
+
+# No lady is standing on the street and is surrounded by school children . 
+12	school	school	_	NN	Number=Sing	13	compound	13:compound	_
+
+# No motorcycle racer is riding a red and black bike . 
+2	motorcycle	motorcycle	_	NN	Number=Sing	3	compound	3:compound	_
+
+# No motorcycle rider is standing up on the seat of a motorcycle . 
+2	motorcycle	motorcycle	_	NN	Number=Sing	3	compound	3:compound	_
+12	motorcycle	motorcycle	_	NN	Number=Sing	9	nmod	3:compound	_
+
+# Nobody is fist fighting in a ring . 
+3	fist	fist	_	NN	Number=Sing	4	compound	4:compound	_
+
+# Nobody is playing ping pong . 
+4	ping	ping	_	NN	Number=Sing	5	compound	5:compound	_
+
+# Nobody is practicing water safety and wearing preservers . 
+4	water	water	_	NN	Number=Sing	5	compound	5:compound	_
+
+# Not a lot of people are in an ice skating park . 
+9	ice	ice	_	NN	Number=Sing	11	compound	11:compound	_
+10	skating	skating	_	NN	Number=Sing	11	compound	11:compound	_
+
+# One bearded man is standing by a shopping cart and is holding a cardboard sign . 
+14	cardboard	cardboard	_	NN	Number=Sing	15	compound	15:compound	_
+
+# One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is diving into the water . 
+10	rock	rock	_	NN	Number=Sing	11	compound	11:compound	_
+
+# One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water . 
+10	rock	rock	_	NN	Number=Sing	11	compound	11:compound	_
+
+# One girl in orange shorts is standing on a rock cliff over the water and the other girl in black shorts is jumping off into the water . 
+10	rock	rock	_	NN	Number=Sing	11	compound	11:compound	_
+
+# One man is climbing a rock wall and another man is holding a rope . 
+6	rock	rock	_	NN	Number=Sing	7	compound	7:compound	_
+
+# One man is doing a bicycle trick in midair . 
+6	bicycle	bicycle	_	NN	Number=Sing	7	compound	7:compound	_
+
+# One man is doing floor exercises . 
+5	floor	floor	_	NN	Number=Sing	6	compound	6:compound	_
+
+# One man is jumping off a rock wall and another man is dropping a rope . 
+7	rock	rock	_	NN	Number=Sing	8	compound	8:compound	_
+
+# One panda is eating a bamboo cane . 
+6	bamboo	bamboo	_	NN	Number=Sing	7	compound	7:compound	_
+
+# People at a drag race are looking at the flames that are coming out of the cars . 
+4	drag	drag	_	NN	Number=Sing	5	compound	5:compound	_
+
+# People at a drag race are running away from the flames that are coming out of the cars . 
+4	drag	drag	_	NN	Number=Sing	5	compound	5:compound	_
+
+# Pieces of butter are being added to the stand mixer . 
+9	stand	stand	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people . 
+1	Pink	Pink	_	NNP	Number=Sing	2	compound	2:compound	_
+18	bike	bike	_	NN	Number=Sing	20	compound	20:compound	_
+
+# Preservers are being worn by a group of people who are practicing water safety . 
+13	water	water	_	NN	Number=Sing	14	compound	14:compound	_
+
+# Runners are racing down a track . 
+4	down	down	_	RP	_	3	compound:prt	3:compound:prt	_
+
+# Several women are taking off pink bunny ears and are pointing to the left . 
+7	bunny	bunny	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Several women are wearing pink bunny ears and are pointing to the right . 
+6	bunny	bunny	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Soccer players are kicking a soccer ball into the goal . 
+1	Soccer	soccer	_	NN	Number=Sing	2	compound	2:compound	_
+
+# Some boys are in front of dancing people . 
+7	dancing	dancing	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Some cameras are being burned by a person with a blow torch . 
+11	blow	blow	_	NN	Number=Sing	12	compound	12:compound	_
+
+# Some football players in red and white are jumping and hugging . 
+2	football	football	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Some people are sitting in lawn chairs and are reading books . 
+6	lawn	lawn	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Some people are sitting on a low cement ledge . 
+8	cement	cement	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Some people at a drag race are looking at the flames that are coming out of the cars . 
+5	drag	drag	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Some pieces of butter are being added to the stand mixer . 
+10	stand	stand	_	NN	Number=Sing	11	compound	11:compound	_
+
+# Some young dirt bikers are getting a dirt bike up a sandy hill . 
+3	dirt	dirt	_	NN	Number=Sing	4	compound	4:compound	_
+8	dirt	dirt	_	NN	Number=Sing	9	compound	4:compound	_
+
+# Somebody is standing on a mountain top . 
+6	mountain	mountain	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The adults and children are being gathered near an outdoor seating arrangement . 
+11	seating	seating	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The adults and children are being grouped near an outdoor seating arrangement . 
+11	seating	seating	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The adults and children are not gathered near an outdoor seating arrangement . 
+11	seating	seating	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The backyard light is playing tricks in the dark on the brown and black dog . 
+2	backyard	backyard	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The bicycle is being ridden by a man wearing a beret on a recreation trail . 
+14	recreation	recreation	_	NN	Number=Sing	15	compound	15:compound	_
+
+# The bicyclist is not riding on a city street . 
+8	city	city	_	NN	Number=Sing	9	compound	9:compound	_
+
+# The bicyclist is riding on a city street . 
+7	city	city	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The bicyclist is speeding on a city street . 
+7	city	city	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The bike rider is looking at an accident of another bike rider . 
+2	bike	bike	_	NN	Number=Sing	3	compound	12:compound	_
+11	bike	bike	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The bike rider is not looking at the accident of another bike rider . 
+2	bike	bike	_	NN	Number=Sing	3	compound	13:compound	_
+12	bike	bike	_	NN	Number=Sing	13	compound	13:compound	_
+
+# The black dog is not walking along a tree trunk bridge over water . 
+9	tree	tree	_	NN	Number=Sing	11	compound	11:compound	_
+10	trunk	trunk	_	NN	Number=Sing	11	compound	11:compound	_
+
+# The black dog is walking along a tree trunk bridge over water . 
+8	tree	tree	_	NN	Number=Sing	10	compound	10:compound	_
+9	trunk	trunk	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The boy is not riding a bike on the top of a metal fence . 
+13	metal	metal	_	NN	Number=Sing	14	compound	14:compound	_
+
+# The boy is riding a bike on the top of a metal fence . 
+12	metal	metal	_	NN	Number=Sing	13	compound	13:compound	_
+
+# The boy, who is young, is running through the ocean waves . 
+12	ocean	ocean	_	NN	Number=Sing	13	compound	13:compound	_
+
+# The boys are not standing in front of the burning car . 
+10	burning	burning	_	NN	Number=Sing	11	compound	11:compound	_
+
+# The boys are standing in front of the burning car . 
+9	burning	burning	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The boys are wearing bathing suits and water is splashing around . 
+5	bathing	bathing	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The camera man is nailing a hammer to the wall . 
+2	camera	camera	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The cop is not sitting on a police bike . 
+8	police	police	_	NN	Number=Sing	9	compound	9:compound	_
+
+# The cop is sitting on a police bicycle . 
+7	police	police	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The cop is sitting on a police bike . 
+7	police	police	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The deer is jumping over the fence . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# The deer is jumping over the low fence . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# The deer is not jumping over the fence . 
+6	over	over	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# The dog has its head inside a red and green gift bag . 
+11	gift	gift	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The dog with the black coat is walking along a tree trunk bridge over water . 
+11	tree	tree	_	NN	Number=Sing	13	compound	13:compound	_
+12	trunk	trunk	_	NN	Number=Sing	13	compound	13:compound	_
+
+# The equipment in front of the blond dancing girl is sound . 
+8	dancing	dancing	_	NN	Number=Sing	9	compound	9:compound	_
+
+# The girl is not using an eye pencil on her eyelid . 
+7	eye	eye	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The girl is painting a coverall blue . 
+6	coverall	coverall	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The girl is using an eye pencil on her eyelid . 
+6	eye	eye	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The girl, who is little, is carefully combing her hair into a pony tail . 
+15	pony	pony	_	NN	Number=Sing	16	compound	16:compound	_
+
+# The girl, who is little, is combing her hair into a pony tail . 
+14	pony	pony	_	NN	Number=Sing	15	compound	15:compound	_
+
+# The green field for horse races is completely full of Jockeys . 
+5	horse	horse	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The guitar is being played by the man, who has the guitar case open for donations . 
+2	guitar	guitar	_	NN	Number=Sing	5	nsubjpass	14:compound	_
+13	guitar	guitar	_	NN	Number=Sing	14	compound	14:compound	_
+
+# The ice hockey goalkeeper is not wearing a yellow jersey and is not defending the goal . 
+2	ice	ice	_	NN	Number=Sing	4	compound	4:compound	_
+3	hockey	hockey	_	NN	Number=Sing	4	compound	4:compound	_
+
+# The ice hockey goalkeeper is wearing a yellow jersey and is defending the goal . 
+2	ice	ice	_	NN	Number=Sing	4	compound	4:compound	_
+3	hockey	hockey	_	NN	Number=Sing	4	compound	4:compound	_
+
+# The kids are wearing bathing suits and water is splashing around . 
+5	bathing	bathing	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The little dog is dropping the bedroom slipper from its mouth . 
+7	bedroom	bedroom	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The little dog is grabbing the bedroom slipper with its mouth . 
+7	bedroom	bedroom	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The little dog is grabbing the bedroom slipper with its mouth funnily . 
+7	bedroom	bedroom	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The man dressed in leather chaps and a purple shirt is standing in front of someone lookers . 
+5	leather	leather	_	NN	Number=Sing	6	compound	6:compound	_
+16	someone	someone	_	NN	Number=Sing	17	compound	17:compound	_
+
+# The man in the hat is smoking a straw cigarette . 
+9	straw	straw	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The man is dancing upside-down on the ceiling . 
+5	upside-down	upside-down	_	NN	Number=Sing	4	dobj	4:dobj	down
+
+# The man is doing floor exercises . 
+5	floor	floor	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The man is eating potato slices . 
+5	potato	potato	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The man is kick boxing with a trainer . 
+4	kick	kick	_	NN	Number=Sing	5	compound	5:compound	_
+
+# The man is kicking a boxing trainer . 
+6	boxing	boxing	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The man is not doing floor exercises . 
+6	floor	floor	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The man is standing next to a bird cage . 
+8	bird	bird	_	NN	Number=Sing	9	compound	9:compound	_
+
+# The man on a green bike is performing tricks on the dirt ramp . 
+12	dirt	dirt	_	NN	Number=Sing	13	compound	13:compound	_
+
+# The men are fist fighting in a ring . 
+4	fist	fist	_	NN	Number=Sing	5	compound	5:compound	_
+
+# The men are not fist fighting in a ring . 
+5	fist	fist	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The monkey is brushing a bull dog . 
+6	bull	bull	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The monkey is not brushing a bull dog . 
+7	bull	bull	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The motocross rider is standing naked . 
+2	motocross	motocross	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The motocross rider is wearing blue and black pants . 
+2	motocross	motocross	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The motorcycle racer is riding a red and black bike . 
+2	motorcycle	motorcycle	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The mountain gear is steadily placed in front of the standing biker . 
+2	mountain	mountain	_	NN	Number=Sing	3	compound	3:compound	_
+11	standing	standing	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The orange rescue boat is not rushing across the water . 
+3	rescue	rescue	_	NN	Number=Sing	4	compound	4:compound	_
+
+# The orange rescue boat is rushing across the water . 
+3	rescue	rescue	_	NN	Number=Sing	4	compound	4:compound	_
+
+# The person is dicing up a pepper which is orange . 
+5	up	up	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# The person isn't dicing up an orange pepper . 
+6	up	up	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# The person who rides bikes is looking at an accident of another bike rider . 
+4	rides	ride	_	NNS	Number=Plur	5	compound	5:compound	_
+13	bike	bike	_	NN	Number=Sing	14	compound	14:compound	_
+
+# The players is maneuvering for the basket ball . 
+7	basket	basket	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The priest is walking down the aisle to marry a couple . 
+5	down	down	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# The red and brown dog is digging its nose inside a holiday gift bag . 
+12	holiday	holiday	_	NN	Number=Sing	14	compound	14:compound	_
+13	gift	gift	_	NN	Number=Sing	14	compound	14:compound	_
+
+# The red and brown dog is not digging its nose inside a holiday gift bag . 
+13	holiday	holiday	_	NN	Number=Sing	15	compound	15:compound	_
+14	gift	gift	_	NN	Number=Sing	15	compound	15:compound	_
+
+# The rescue boat, which is orange, is rushing across the water . 
+2	rescue	rescue	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The rider on the blue and black motocross bike is not wearing the pants . 
+8	motocross	motocross	_	NN	Number=Sing	9	compound	9:compound	_
+
+# The riders are fencing in a boy's metal bike . 
+9	metal	metal	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The smiling boy in winter clothes is waving his mittened hands outside the building in the snow . 
+5	winter	winter	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The snowboarder is leaping over white snow . 
+5	over	over	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# The south African plane is flying in a blue sky . 
+3	African	African	_	NNP	Number=Sing	4	compound	4:compound	_
+
+# The south African plane is not flying in a blue sky . 
+3	African	African	_	NNP	Number=Sing	4	compound	4:compound	_
+
+# The study subject is a camera man . 
+2	study	study	_	NN	Number=Sing	3	compound	3:compound	_
+6	camera	camera	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The tan dog is not watching a brown dog that is swimming in a pond . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The tan dog is watching a brown dog that is swimming in a pond . 
+2	tan	tan	_	NN	Number=Sing	3	compound	3:compound	_
+
+# The white dog is not wearing reindeer ears and isn't near a brown dog . 
+7	reindeer	reindeer	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The white dog wearing reindeer ears is close to a brown dog . 
+5	reindeer	reindeer	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The white dog wearing reindeer ears is near a brown dog . 
+5	reindeer	reindeer	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The white rally car is throwing mud into the air and is approaching a bend in the track . 
+3	rally	rally	_	NN	Number=Sing	4	compound	4:compound	_
+
+# The white reindeer wearing dog ears is near a brown reindeer . 
+5	dog	dog	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The woman dressed in leather chaps and a purple shirt is standing in front of onlookers . 
+5	leather	leather	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The woman in a red costume is leaning against a brick wall and playing an instrument . 
+11	brick	brick	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The woman in a red costume is not leaning against a brick wall and is not playing an instrument . 
+12	brick	brick	_	NN	Number=Sing	13	compound	13:compound	_
+
+# The woman is cracking two eggs into a glass bowl . 
+9	glass	glass	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The woman is eating some cut pieces of raw meat . 
+6	cut	cut	_	NN	Number=Sing	7	compound	7:compound	_
+
+# The woman is not cracking two eggs into a glass bowl . 
+10	glass	glass	_	NN	Number=Sing	11	compound	11:compound	_
+
+# The woman is not picking up a baby kangaroo . 
+8	baby	baby	_	NN	Number=Sing	9	compound	9:compound	_
+
+# The woman is not picking up and holding a baby kangaroo . 
+10	baby	baby	_	NN	Number=Sing	11	compound	11:compound	_
+
+# The woman is picking up a baby kangaroo . 
+7	baby	baby	_	NN	Number=Sing	8	compound	8:compound	_
+
+# The woman is picking up and holding a baby kangaroo . 
+9	baby	baby	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The woman is storing away the eggs . 
+5	away	away	_	RP	_	4	compound:prt	4:compound:prt	_
+
+# The woman is taking up and holding a baby kangaroo . 
+9	baby	baby	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The woman is wearing ear protection and is firing a gun at an indoor shooting range . 
+5	ear	ear	_	NN	Number=Sing	6	compound	6:compound	_
+
+# The woman wearing silver pants, pink bellbottoms and a pink scarf is happily riding a bike . 
+4	silver	silver	_	NN	Number=Sing	5	compound	5:compound	_
+
+# The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike . 
+4	silver	silver	_	NN	Number=Sing	5	compound	5:compound	_
+
+# The woman wearing silver pants, pink bellbottoms and a pink scarf isn't riding a bike . 
+4	silver	silver	_	NN	Number=Sing	5	compound	5:compound	_
+
+# The women are wearing something right and pointing at several bunny ears . 
+5	something	something	_	NN	Number=Sing	6	compound	6:compound	_
+11	bunny	bunny	_	NN	Number=Sing	12	compound	12:compound	_
+
+# The young boy is not running through the ocean waves . 
+9	ocean	ocean	_	NN	Number=Sing	10	compound	10:compound	_
+
+# The young boy is running through the ocean waves . 
+8	ocean	ocean	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There are no football players in red and white jumping and hugging each other . 
+4	football	football	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There are no men sitting at the table with four beer bottles . 
+11	beer	beer	_	NN	Number=Sing	12	compound	12:compound	_
+
+# There are no soccer players kicking a soccer ball into the goal . 
+4	soccer	soccer	_	NN	Number=Sing	5	compound	5:compound	_
+8	soccer	soccer	_	NN	Number=Sing	9	compound	5:compound	_
+
+# There are no white dogs running and jumping along a beach . 
+9	along	along	_	RP	_	8	compound:prt	8:compound:prt	_
+
+# There aren't many people in the ice skating park . 
+8	ice	ice	_	NN	Number=Sing	10	compound	10:compound	_
+9	skating	skating	_	NN	Number=Sing	10	compound	10:compound	_
+
+# There is no Asian woman holding a fur scarf . 
+8	fur	fur	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There is no baby playing with a dog . 
+4	baby	baby	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no baby talking . 
+4	baby	baby	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no baby tiger playing with a ball . 
+4	baby	baby	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no band playing . 
+4	band	band	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no basketball player on the court floor and no one is grabbing the ball . 
+8	court	court	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There is no bmx biker jumping dirt ramps in front of a body of water . 
+4	bmx	bmx	_	NN	Number=Sing	5	compound	5:compound	_
+7	dirt	dirt	_	NN	Number=Sing	8	compound	8:compound	_
+
+# There is no boy in a white t-shirt splashing in shallow water . 
+8	t-shirt	t-shirt	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There is no boy standing in front of the blue building in the space reserved for handicapped people . 
+4	boy	boy	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no brown dog standing in the water . 
+5	dog	dog	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no bunny playing with a stuffed bunny . 
+4	bunny	bunny	_	NN	Number=Sing	5	compound	5:compound	_
+9	bunny	bunny	_	NN	Number=Sing	5	nmod	5:compound	_
+
+# There is no butter being added to the stand mixer . 
+9	stand	stand	_	NN	Number=Sing	10	compound	10:compound	_
+
+# There is no cat playing with a device . 
+4	cat	cat	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no cat playing with a watermelon . 
+4	cat	cat	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no cat walking on a hardwood floor . 
+8	hardwood	hardwood	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There is no child playing with a water spout outdoors with the rest of his family watching . 
+4	child	child	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no classroom full of students looking in the same direction inside a bamboo structure . 
+15	bamboo	bamboo	_	NN	Number=Sing	16	compound	16:compound	_
+
+# There is no clown singing . 
+4	clown	clown	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no clown singing and people are not dancing . 
+4	clown	clown	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no cook slicing some bell peppers . 
+7	bell	bell	_	NN	Number=Sing	8	compound	8:compound	_
+
+# There is no dog standing on one leg and is waiting for a soccer ball . 
+4	dog	dog	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no dog standing on the side of a mountain . 
+4	dog	dog	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no dog standing with its two front paws on a rock in the field . 
+4	dog	dog	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no dog swimming in a lake with sunshine shining on him . 
+4	dog	dog	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no dog wrestling and hugging . 
+4	dog	dog	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no famous singer dancing on the ceiling . 
+5	singer	singer	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no girl brushing her hair . 
+4	girl	girl	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no girl laughing and there is no other girl watching . 
+4	girl	girl	_	NN	Number=Sing	5	compound	5:compound	_
+11	girl	girl	_	NN	Number=Sing	8	nsubj	5:compound	_
+
+# There is no hamster singing . 
+4	hamster	hamster	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no hiker dancing on top of the mountain . 
+4	hiker	hiker	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no karate practitioner kicking at another man who is wearing protective boxing gloves . 
+14	boxing	boxing	_	NN	Number=Sing	15	compound	15:compound	_
+
+# There is no kid playing guitar . 
+4	kid	kid	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no kitten drinking milk . 
+4	kitten	kitten	_	NN	Number=Sing	6	compound	6:compound	_
+5	drinking	drinking	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no lady mixing a meat mixture in a bowl . 
+7	meat	meat	_	NN	Number=Sing	8	compound	8:compound	_
+
+# There is no lady walking in body paint in front of a crowd . 
+7	body	body	_	NN	Number=Sing	8	compound	8:compound	_
+
+# There is no lemur eating . 
+4	lemur	lemur	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no lion pacing tiredly in a pen . 
+4	lion	lion	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no lion walking . 
+4	lion	lion	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no little boy wearing a green soccer strip and running on the grass . 
+9	soccer	soccer	_	NN	Number=Sing	10	compound	10:compound	_
+
+# There is no man breaking a slab of concrete with a sledge hammer . 
+12	sledge	sledge	_	NN	Number=Sing	13	compound	13:compound	_
+
+# There is no man dancing . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man dancing on the road . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man dancing upside-down on the ceiling . 
+4	man	man	_	NN	Number=Sing	6	compound	6:compound	_
+5	dancing	dancing	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no man diving off a cliff . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man drawing . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man drinking orange juice and walking on a sunny day . 
+4	man	man	_	NN	Number=Sing	7	compound	7:compound	_
+5	drinking	drinking	_	NN	Number=Sing	7	compound	7:compound	_
+
+# There is no man eating cereal . 
+4	man	man	_	NN	Number=Sing	6	compound	6:compound	_
+5	eating	eating	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no man fishing in the river . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man in a red uniform making a jump in a dirt bike race . 
+14	dirt	dirt	_	NN	Number=Sing	16	compound	16:compound	_
+15	bike	bike	_	NN	Number=Sing	16	compound	16:compound	_
+
+# There is no man playing a bamboo flute . 
+7	bamboo	bamboo	_	NN	Number=Sing	8	compound	8:compound	_
+
+# There is no man running, jumping and kicking near a vending machine . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man shooting guns . 
+4	man	man	_	NN	Number=Sing	6	compound	6:compound	_
+5	shooting	shooting	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no man singing and playing a guitar . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man singing and playing the guitar . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man singing to a woman . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man skiing down a snowy hill . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man speaking . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man speaking on a podium . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man speaking on a stage . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man standing near the water and holding fishing poles . 
+11	fishing	fishing	_	NN	Number=Sing	12	compound	12:compound	_
+
+# There is no man standing on a roof top and playing a violin . 
+8	roof	roof	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There is no man thinking . 
+4	man	man	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no man with a hard hat dancing . 
+8	hat	hat	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There is no monkey brushing the dog . 
+4	monkey	monkey	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no one sitting in lawn chairs and reading books . 
+7	lawn	lawn	_	NN	Number=Sing	8	compound	8:compound	_
+
+# There is no one typing . 
+4	one	one	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no panda climbing . 
+4	panda	panda	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no parrot speaking . 
+4	parrot	parrot	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no person in bike gear standing steadily in front of the mountains . 
+6	bike	bike	_	NN	Number=Sing	8	compound	8:compound	_
+7	gear	gear	_	NN	Number=Sing	8	compound	8:compound	_
+
+# There is no person on a bike jumping through the air with the sun flaring through the bike frame . 
+7	bike	bike	_	NN	Number=Sing	4	nmod	19:compound	_
+18	bike	bike	_	NN	Number=Sing	19	compound	19:compound	_
+
+# There is no person singing and playing the guitar . 
+4	person	person	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no person wearing jeans sitting on top of a horse saddle . 
+12	horse	horse	_	NN	Number=Sing	13	compound	13:compound	_
+
+# There is no pet dog standing on the bank and looking at another brown dog in the pond . 
+4	pet	pet	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no policewoman singing at karaoke . 
+4	policewoman	policewoman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no puppy rolling . 
+4	puppy	puppy	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no rabbit playing with a toy rabbit . 
+4	rabbit	rabbit	_	NN	Number=Sing	5	compound	5:compound	_
+9	rabbit	rabbit	_	NN	Number=Sing	5	nmod	5:compound	_
+
+# There is no rhino grazing in a field . 
+4	rhino	rhino	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no rhino grazing on the grass . 
+4	rhino	rhino	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no seated woman singing a song and playing the guitar . 
+5	woman	woman	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no small bee landing on a bunch of yellow flowers . 
+5	bee	bee	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no small boy in a yellow shirt laughing on the beach . 
+9	shirt	shirt	_	NN	Number=Sing	10	compound	10:compound	_
+
+# There is no small guinea pig gnawing and eating a piece of carrot on the floor . 
+5	guinea	guinea	_	NN	Number=Sing	7	compound	7:compound	_
+6	pig	pig	_	NN	Number=Sing	7	compound	7:compound	_
+
+# There is no tan dog jumping up and catching a tennis ball . 
+4	tan	tan	_	NN	Number=Sing	5	compound	5:compound	_
+7	up	up	_	RP	_	6	compound:prt	6:compound:prt	_
+
+# There is no white and brown dog pacing with through the water difficulty . 
+7	dog	dog	_	NN	Number=Sing	8	compound	8:compound	_
+12	water	water	_	NN	Number=Sing	13	compound	13:compound	_
+
+# There is no white dog wearing a Christmas reindeer headband and playing with a brown dog in the grass . 
+8	Christmas	Christmas	_	NNP	Number=Sing	10	compound	10:compound	_
+9	reindeer	reindeer	_	NN	Number=Sing	10	compound	10:compound	_
+
+# There is no woman coating a pork chop . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman cooking a breaded pork chop . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman cooking eggs . 
+4	woman	woman	_	NN	Number=Sing	6	compound	6:compound	_
+5	cooking	cooking	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no woman cooking fish . 
+4	woman	woman	_	NN	Number=Sing	6	compound	6:compound	_
+5	cooking	cooking	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no woman dancing . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman dancing and singing in the rain . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman dancing in a cage . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman dancing near a fire . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman deep frying food . 
+4	woman	woman	_	NN	Number=Sing	7	compound	7:compound	_
+
+# There is no woman firing a rifle . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman frying something . 
+4	woman	woman	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no woman frying something in a pan . 
+4	woman	woman	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no woman in a purple top walking a bicycle between two stone columns . 
+14	stone	stone	_	NN	Number=Sing	15	compound	15:compound	_
+
+# There is no woman in a yellow shirt surfing on a pink surfboard . 
+8	shirt	shirt	_	NN	Number=Sing	9	compound	9:compound	_
+
+# There is no woman mixing eggs . 
+4	woman	woman	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no woman putting a child in a waste bin . 
+10	waste	waste	_	NN	Number=Sing	11	compound	11:compound	_
+
+# There is no woman scrubbing a zucchini with a vegetable brush . 
+10	vegetable	vegetable	_	NN	Number=Sing	11	compound	11:compound	_
+
+# There is no woman snowboarding down an incline and there is no other woman standing behind her . 
+6	down	down	_	RP	_	5	compound:prt	5:compound:prt	_
+
+# There is no woman standing near three children . 
+4	woman	woman	_	NN	Number=Sing	5	compound	5:compound	_
+
+# There is no woman using an eye pencil and applying eye liner to her eyelid . 
+7	eye	eye	_	NN	Number=Sing	8	compound	8:compound	_
+11	eye	eye	_	NN	Number=Sing	12	compound	8:compound	_
+
+# There is no woman with black hair standing in front of a plywood wall . 
+13	plywood	plywood	_	NN	Number=Sing	14	compound	14:compound	_
+
+# There is no young boy playing in the park with his mother . 
+5	boy	boy	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no young boy singing and playing a guitar . 
+5	boy	boy	_	NN	Number=Sing	6	compound	6:compound	_
+
+# There is no young child dressed for cold weather standing outside . 
+9	weather	weather	_	NN	Number=Sing	10	compound	10:compound	_
+
+# There is no young girl in a winter coat jumping off a boulder into the sand at a beach . 
+8	winter	winter	_	NN	Number=Sing	9	compound	9:compound	_
+
+# This group of people is practicing water safety and wearing preservers . 
+7	water	water	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Three men are practicing karate outdoors . 
+5	karate	karate	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Three people are driving four wheel ATVs in a field . 
+6	wheel	wheel	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Three people are driving four wheel ATVs in a street . 
+6	wheel	wheel	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Three people are driving four wheel vehicles in a field . 
+6	wheel	wheel	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Three people are sitting on a bench under some palm trees . 
+10	palm	palm	_	NN	Number=Sing	11	compound	11:compound	_
+
+# Three people are standing by a bench under some palm trees . 
+10	palm	palm	_	NN	Number=Sing	11	compound	11:compound	_
+
+# Three people are standing next to a tree limb . 
+8	tree	tree	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two baby pandas are playing . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two baby pandas are sleeping . 
+2	baby	baby	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two basketball players are scrambling for the ball on the court . 
+2	basketball	basketball	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two bmx bikers are jumping dirt ramps in front of a body of water . 
+2	bmx	bmx	_	NN	Number=Sing	3	compound	3:compound	_
+6	dirt	dirt	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Two bmx bikers are jumping dirt ramps in front of the water . 
+2	bmx	bmx	_	NN	Number=Sing	3	compound	3:compound	_
+6	dirt	dirt	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Two boys on a couch are playing video games . 
+8	video	video	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two children and an adult are not standing next to a tree limb . 
+12	tree	tree	_	NN	Number=Sing	13	compound	13:compound	_
+
+# Two children and an adult are standing next to a tree limb . 
+11	tree	tree	_	NN	Number=Sing	12	compound	12:compound	_
+
+# Two children are crouching under some metal bars . 
+7	metal	metal	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two children are stretching over some metal bars . 
+7	metal	metal	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two construction workers are sitting up on the side of a building . 
+2	construction	construction	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two construction workers are sitting up on the side of a palace . 
+2	construction	construction	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two construction workers are sitting up on the top of a building . 
+2	construction	construction	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two crocodiles are floating in a green colored swimming pool near some playing kids . 
+13	playing	playing	_	NN	Number=Sing	14	compound	14:compound	_
+
+# Two dogs are looking up at a kitchen countertop . 
+8	kitchen	kitchen	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two football players are scrambling for the ball on the court . 
+2	football	football	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two girl with dogs are walking on a forest path . 
+9	forest	forest	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Two girls are happily playing inside a jumper house . 
+8	jumper	jumper	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two girls are not playing inside the jumper house . 
+8	jumper	jumper	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two girls are playing inside a jumper house . 
+7	jumper	jumper	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two kids are playing in a swimming pool with a crocodile float that is green . 
+11	crocodile	crocodile	_	NN	Number=Sing	12	compound	12:compound	_
+
+# Two kids are playing in a swimming pool with a green colored crocodile float . 
+13	crocodile	crocodile	_	NN	Number=Sing	14	compound	14:compound	_
+
+# Two kids are taking out a green colored crocodile float from a swimming pool . 
+9	crocodile	crocodile	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Two large park benches have a person sitting and a bottle of soda between them . 
+3	park	park	_	NN	Number=Sing	4	compound	4:compound	_
+
+# Two males are standing on a cliff edge and no one is jumping into the water . 
+7	cliff	cliff	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two males are standing on a cliff edge and one is jumping into the sea . 
+7	cliff	cliff	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two males are standing on a cliff edge and one is jumping into the water . 
+7	cliff	cliff	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two men and a girl in behind of a wood panel wall are posing with funny faces . 
+10	wood	wood	_	NN	Number=Sing	12	compound	12:compound	_
+11	panel	panel	_	NN	Number=Sing	12	compound	12:compound	_
+
+# Two men and a girl in front of a wood panel wall are making funny faces . 
+10	wood	wood	_	NN	Number=Sing	12	compound	12:compound	_
+11	panel	panel	_	NN	Number=Sing	12	compound	12:compound	_
+
+# Two men and a girl in front of a wood panel wall are posing with funny faces . 
+10	wood	wood	_	NN	Number=Sing	12	compound	12:compound	_
+11	panel	panel	_	NN	Number=Sing	12	compound	12:compound	_
+
+# Two men are competing in a tire rolling race . 
+7	tire	tire	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two men are fist fighting in a ring . 
+4	fist	fist	_	NN	Number=Sing	5	compound	5:compound	_
+
+# Two men are holding fishing poles . 
+5	fishing	fishing	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Two men are holding fishing poles and fishing tackle . 
+5	fishing	fishing	_	NN	Number=Sing	6	compound	6:compound	_
+8	fishing	fishing	_	NN	Number=Sing	6	conj	6:compound	_
+
+# Two men are holding some water standing near fishing poles . 
+6	water	water	_	NN	Number=Sing	7	compound	7:compound	_
+9	fishing	fishing	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Two men are not holding fishing poles . 
+6	fishing	fishing	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Two men are playing ping pong . 
+5	ping	ping	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Two men are playing table football . 
+5	table	table	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Two men are racing in a tire rolling competition . 
+7	tire	tire	_	NN	Number=Sing	9	compound	9:compound	_
+8	rolling	rolling	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two men are standing near the water and are holding fishing poles . 
+11	fishing	fishing	_	NN	Number=Sing	12	compound	12:compound	_
+
+# Two men with dogs are walking on a forest path . 
+9	forest	forest	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Two panda bears are lying together . 
+2	panda	panda	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two people are fist fighting in a ring . 
+4	fist	fist	_	NN	Number=Sing	5	compound	5:compound	_
+
+# Two people are ignoring the nearby gold statue . 
+7	gold	gold	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two people are looking at a gold statue . 
+7	gold	gold	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two people are playing ping pong . 
+5	ping	ping	_	NN	Number=Sing	6	compound	6:compound	_
+
+# Two people are sitting in lawn chairs and are reading books . 
+6	lawn	lawn	_	NN	Number=Sing	7	compound	7:compound	_
+
+# Two people in snowsuits are lying in the snow and making snow angels . 
+9	snow	snow	_	NN	Number=Sing	6	nmod	13:compound	_
+12	snow	snow	_	NN	Number=Sing	13	compound	13:compound	_
+
+# Two people wearing snowsuits are on the ground making snow angels . 
+10	snow	snow	_	NN	Number=Sing	11	compound	11:compound	_
+
+# Two race cars are on a road in front of a grassy parking area . 
+2	race	race	_	NN	Number=Sing	3	compound	3:compound	_
+
+# Two tall basketball players are scrambling for the ball on the court . 
+3	basketball	basketball	_	NN	Number=Sing	4	compound	4:compound	_
+
+# Two teams are competing in a football match . 
+7	football	football	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two white dogs are running and jumping along a beach . 
+8	along	along	_	RP	_	7	compound:prt	7:compound:prt	_
+
+# Two women are competing in a tire rolling race . 
+7	tire	tire	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Two women are sparring in a kickboxing match . 
+7	kickboxing	kickboxing	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Two women with black hair are standing in front of a plywood wall . 
+12	plywood	plywood	_	NN	Number=Sing	13	compound	13:compound	_
+
+# Two women with black hair are standing steadily in front of a plywood wall . 
+13	plywood	plywood	_	NN	Number=Sing	14	compound	14:compound	_
+
+# Two women with dogs are walking on a forest path . 
+9	forest	forest	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Two young kids are playing with a man eating corndogs . 
+8	man	man	_	NN	Number=Sing	10	compound	10:compound	_
+9	eating	eating	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Two young women are not sparring in a kickboxing fight . 
+9	kickboxing	kickboxing	_	NN	Number=Sing	10	compound	10:compound	_
+
+# Two young women are sparring in a kickboxing fight . 
+8	kickboxing	kickboxing	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Video games of two playing boys are on a couch . 
+1	Video	Video	_	NNP	Number=Sing	2	compound	2:compound	_
+
+# Women are not wearing bunny ears and race numbers and are not pointing at something in the distance . 
+5	bunny	bunny	_	NN	Number=Sing	6	compound	6:compound	_
+8	race	race	_	NN	Number=Sing	9	compound	9:compound	_
+
+# Women are wearing bunny ears and race numbers and are curiously pointing at something in the distance . 
+4	bunny	bunny	_	NN	Number=Sing	5	compound	5:compound	_
+7	race	race	_	NN	Number=Sing	8	compound	8:compound	_
+
+# Women are wearing bunny ears and race numbers and are pointing at something in the distance . 
+4	bunny	bunny	_	NN	Number=Sing	5	compound	5:compound	_
+7	race	race	_	NN	Number=Sing	8	compound	8:compound	_
