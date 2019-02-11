@@ -1,8 +1,14 @@
 This folder contains the files of the corrected pairs.
 The file AeBBnA.xlsx contains the 1513 single-side entailment pairs, which were re-annotated and, when needed, corrected. 
-You can find the corrected label and a comment for the correction in the file.
+You can find the corrected label and a comment for the correction in the file. You can see the following papers for more discussion
+and details: http://www.aclweb.org/anthology/W/W17/W17-6915.pdf and http://www.aclweb.org/anthology/W/W17/W17-7205.pdf 
 
 The file oneWordDifference.xlsx contains three different sheets: the 1st sheet contains all one-word difference pairs, 
 the 2nd one contains only the pairs which did not get an automatic label from PWN and 
 the 3rd sheet contains only those pairs that got a label from PWN. 
-In the second and third sheets you can also find the corrections and comments that were made to those pairs.
+In the second and third sheets you can also find the corrections and comments that were made to those pairs. You can see the following
+paper for more discussion and details of the correction approach used: http://lrec-conf.org/workshops/lrec2018/W33/summaries/18_W33.html
+
+The file SICK_subset_corrected.csv contains a merged version of the two above files with all pairs that have been corrected so far
+(as of 11.02.2019). The file is tab separated with the following format: original id of the pair, sentence A, sentence B, original SICK 
+label (from the original annotation of SICK of Marelli et al, 2013) and the last column with our (corrected) label of the pair.
