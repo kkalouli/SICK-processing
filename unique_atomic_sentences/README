@@ -1,0 +1,9 @@
+The file SICK_unique_sent.txt contains all unique sentences of SICK.
+
+The file SICK_sentences_by_tokens.csv contains all unique sentences of SICK and the number of tokens each of them contains. 
+It is a csv file with two columns. The first one is the sentence and the second one the number of the tokens. 
+It was created with the script ICK_sentences_by_tokens.py.
+
+The rest of the files contain the pairs of SICK split with different criteria: atomic vs non-atomic sentences (they are atomic
+if they dont contain verbal coordination), neutral vs non-neutral (neutral concerns their inference annotation label, neutral means
+AnBBnA), etc.
