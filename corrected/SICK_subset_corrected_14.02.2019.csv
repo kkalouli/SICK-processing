@@ -1,3 +1,4 @@
+Pair_ID Sentence_A  Sentence_B  SICK_original_label corrected_label
 10	A brown dog is attacking another animal in front of the tall man in pants	A brown dog is attacking another animal in front of the man in pants	AeBBnA	AeBBnA
 19	A person in a black jacket is doing tricks on a motorbike	A man in a black jacket is doing tricks on a motorbike	AeBBeA	AnBBeA
 20	There is no man in a black jacket doing tricks on a motorbike	A person in a black jacket is doing tricks on a motorbike	AcBBcA	AcBBcA
