@@ -1,10 +1,14 @@
 This folder contains the data used for the annotation experiment described in 
 Kalouli, A.-L., A. Buis, L. Real, M. Palmer and V. de Paiva. 2019 (to appear). Explaining Simple Natural Language Inference. Proceedings of the ACL Linguistic Annotation Workshop (LAW 2019). Florence, Italy. 
 
-Briefly, the experiment concerns the re-annotation of a part of the SICK corpus. The SICK corpus is a dataset for Natural Language Inference containing pairs annotated for their inference relation (entailment, contradiction or neutrality) and their relatedness score. The re-annotation was done based on improved guidelines adressing issues discussed in relevant literature and also contained the annotators' justifications for their decisions and the so-called **Computational Feasibility** score (CF) representing the estimation of the annotators about how hard each pair would be for an automatic system to process. The file *SICK_subcorpus_reannotated_with_justifications* contains all pairs that 
-were reannotated as part of this experiment, with the detailed annotation, justification and CF score of each annotator. The excel file contains
-4 sheets, one for each group of annotators annotating the same instances (3 annotators per group). The annotators are matched to numbers to preserve anonymity.
-The file *calibration_pairs_annotated_for_upload* contains the 48 calibration pairs used for the experiment. Here, each pair is assigned a general agreement rate
-but also lists the exact annotation given by each annotator. Finally, the file *SICK_subcorpus_annotated_with_special_features* contains the second experiment we conducted
-based on the first one (as explained in our paper above). For this experiment, each pair of our subcorpus is annotated for the 6 distinct linguistic categories explained in the paper.
+Briefly, the experiment concerns the re-annotation of a part of the SICK corpus. The SICK corpus is a dataset for Natural Language Inference containing pairs annotated for their inference relation (entailment, contradiction or neutrality) and their relatedness score. 
+
+The re-annotation was done based on improved guidelines adressing issues discussed in relevant literature and also contained the annotators' justifications for their decisions and the so-called *Computational Feasibility* score (CF) representing the estimation of the annotators about how hard each pair would be for an automatic system to process. 
+
+The file *SICK_subcorpus_reannotated_with_justifications* contains all pairs that were reannotated as part of this experiment, with the detailed annotation, justification and CF score of each annotator. The (Excel) file contains 4 sheets, one for each group of annotators annotating the same instances (3 annotators per group). The annotators' names are replaced by numbers to preserve anonymity.
+
+The file *calibration_pairs_annotated_for_upload* contains the 48 calibration pairs used for the experiment. Here, each pair is assigned a general agreement rate but the file also lists the exact annotation label given by each annotator. 
+
+The file *SICK_subcorpus_annotated_with_special_features* contains the second experiment we conducted
+based on the first one (as explained in our paper above). For this experiment, each pair of our subcorpus is annotated for the 6 distinct linguistic categories explained in the paper (atomicity, negation, quantification, coreference, looseness, directionality).
 
