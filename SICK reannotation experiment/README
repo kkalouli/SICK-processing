@@ -8,4 +8,6 @@ how hard each pair can be processed by an automatic system. The file *SICK_subco
 were reannotated as part of this experiment, with the detailed annotation, justification and CF score of each annotator. The excel file contains
 4 sheets, one for each group of annotators annotating the same instances (3 annotators per group). The annotators are matched to numbers to preserve anonymity.
 The file *calibration_pairs_annotated_for_upload* contains the 48 calibration pairs used for the experiment. Here, each pair is assigned a general agreement rate
-but also lists the exact annotation given by each annotator.
+but also lists the exact annotation given by each annotator. Finally, the file *SICK_subcorpus_annotated_with_special_features* contains the second experiment we conducted
+based on the first one (as explained in our paper above). For this experiment, each pair of our subcorpus is annotated for the 6 distinct linguistic categories explained in the paper.
+
