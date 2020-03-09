@@ -4,8 +4,7 @@ This repository contains the SICK corpus (Marelli et al, 2014) processed in diff
 
 Following papers have been published based on this work:
 
-Kalouli, A.-L., A. Buis, L. Real, V. de Paiva and M. Palmer. 2019. Explaining Simple Natural Language Inference. Proceedings of the 13th Linguistic Annotation Workshop @ACL 2019. Florence - Italy (https://www.aclweb.org/anthology/W19-4016/)
-
+Kalouli, A.-L., A. Buis, L. Real, V. de Paiva and M. Palmer. 2019. Explaining Simple Natural Language Inference. Proceedings of the 13th Linguistic Annotation Workshop @ACL 2019. Florence - Italy (https://www.aclweb.org/anthology/W19-4016/) 
 --> If you are looking for the data used in this work, look in the folder SICK_reannotation_experiment.
 
 Kalouli, A.-L., L. Real, and V. de Paiva. 2018b. WordNet for "Easy" Textual Inferences. Proceedings of the Globalex Workshop of the Language Resources and Evaluation Conference (LREC 2018). Miyazaki - Japan (http://lrec-conf.org/workshops/lrec2018/W33/summaries/18_W33.html)
