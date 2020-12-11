@@ -12,3 +12,6 @@ paper for more discussion and details of the correction approach used: http://lr
 The file SICK_subset_corrected.csv contains a merged version of the two above files with all pairs that have been corrected so far
 (as of 11.02.2019). The file is tab separated with the following format: original id of the pair, sentence A, sentence B, original SICK 
 label (from the original annotation of SICK of Marelli et al, 2013) and the last column with our (corrected) label of the pair.
+
+The file SICK_whole_corpus_reannotated.csv contains the whole SICK corpus in its reannotated version. The pairs which were corrected during the annotation efforts have their new
+(corrected) label and the rest of the pairs have their original SICK label.
