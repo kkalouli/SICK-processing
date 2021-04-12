@@ -1,0 +1,144 @@
+Id	Sentence A	Sentence B	SICK Label	GKR4NLI Label
+8	A baby is cheering another baby.	A baby is cheering another baby.	E	CONTRADICTION
+27	A baby rhino is following an adult rhino.	A baby rhino is following an adult rhino.	E	CONTRADICTION
+28	A baby rhino is shunning an adult rhino.	A baby rhino is shunning an adult rhino.	E	CONTRADICTION
+74	A big city is begging for men and money holders.	A big city is begging for men and money holders.	E	NEUTRAL
+153	A black dog is approaching a golden dog on pebbly beach.	A black dog is approaching a golden dog on pebbly beach.	E	CONTRADICTION
+154	A black dog is attacking a brown dog on the sand.	A black dog is attacking a brown dog on the sand.	E	CONTRADICTION
+244	A boy in blue are sliding down a green slide.	A boy in blue are sliding down a green slide.	E	NEUTRAL
+256	A boy is coming down a wall artificially built for climbing and isn't attached to the rope.	A boy is coming down a wall artificially built for climbing and isn't attached to the rope.	E	Exception found:null
+268	A boy is jumping off a platform and two other boys are standing and staring at him.	A boy is jumping off a platform and two other boys are standing and staring at him.	E	NEUTRAL
+269	A boy is jumping off a platform and two other boys are standing and watching.	A boy is jumping off a platform and two other boys are standing and watching.	E	NEUTRAL
+272	A boy is jumping on a platform and two other boys are sitting absentmindedly.	A boy is jumping on a platform and two other boys are sitting absentmindedly.	E	NEUTRAL
+334	A boy is wearing all black and is sliding down a blow up slide.	A boy is wearing all black and is sliding down a blow up slide.	E	NEUTRAL
+521	A child is splashing in a pool for children and no other children are playing in the background.	A child is splashing in a pool for children and no other children are playing in the background.	E	CONTRADICTION
+586	A couple standing on the curb.	A couple standing on the curb.	E	NEUTRAL
+680	A dog is in the sand that is blowing in the air.	A dog is in the sand that is blowing in the air.	E	NEUTRAL
+681	A dog is in the sand that is blowing in the wind.	A dog is in the sand that is blowing in the wind.	E	NEUTRAL
+708	A dog is opening a can of food.	A dog is opening a can of food.	E	Exception found:null
+823	A dog, which is little and black, is chasing a little brown dog.	A dog, which is little and black, is chasing a little brown dog.	E	CONTRADICTION
+933	A girl in blue is sliding down a green slide.	A girl in blue is sliding down a green slide.	E	NEUTRAL
+934	A girl in blue is sliding down a slide.	A girl in blue is sliding down a slide.	E	NEUTRAL
+1094	A group of people is on a beach.	A group of people is on a beach.	E	NEUTRAL
+1275	A little black dog is chasing a little brown dog.	A little black dog is chasing a little brown dog.	E	CONTRADICTION
+1336	A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head.	A little girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on the head.	E	NEUTRAL
+1399	A man doing a pose is being watched by another man.	A man doing a pose is being watched by another man.	E	CONTRADICTION
+1410	A man in a black dress is pulling a cart and is standing in front of two men who are seated on a park bench.	A man in a black dress is pulling a cart and is standing in front of two men who are seated on a park bench.	E	NEUTRAL
+1541	A man is cutting himself with a piece of paper.	A man is cutting himself with a piece of paper.	E	CONTRADICTION
+1984	A man is squirting water into the mouth of a white dog with a squirt gun.	A man is squirting water into the mouth of a white dog with a squirt gun.	E	NEUTRAL
+2098	A man on inline skates is resting at a skate park.	A man on inline skates is resting at a skate park.	E	NEUTRAL
+2099	A man on inline skates is skating at a park built for skating.	A man on inline skates is skating at a park built for skating.	E	NEUTRAL
+2100	A man on inline skates is skating at a skate park.	A man on inline skates is skating at a skate park.	E	NEUTRAL
+2260	A person is jotting something with a pencil.	A person is jotting something with a pencil.	E	Exception found:sem.graph.vetypes.ContextNode cannot be cast to sem.graph.vetypes.SkolemNode
+2404	A person who is practicing snowboarding jumps into the air.	A person who is practicing snowboarding jumps into the air.	E	NEUTRAL
+2480	A rhino, which is little, is following an adult rhino.	A rhino, which is little, is following an adult rhino.	E	CONTRADICTION
+2714	A white dog is approaching a golden dog on pebbly beach.	A white dog is approaching a golden dog on pebbly beach.	E	CONTRADICTION
+2791	A woman is beating the man that is keeping two eggs in the bowl, using a wire whisk.	A woman is beating the man that is keeping two eggs in the bowl, using a wire whisk.	E	NEUTRAL
+2795	A woman is being handed volleyballs by another woman.	A woman is being handed volleyballs by another woman.	E	CONTRADICTION
+2798	A woman is being measured by another woman.	A woman is being measured by another woman.	E	CONTRADICTION
+3005	A woman is putting the baby into a trash can.	A woman is putting the baby into a trash can.	E	NEUTRAL
+3116	A woman is using a pencil for eyes and is applying eye liner to her eyelid.	A woman is using a pencil for eyes and is applying eye liner to her eyelid.	E	NEUTRAL
+3153	A woman wearing casual clothing is keeping her mouth closed and is near other people dressed differently.	A woman wearing casual clothing is keeping her mouth closed and is near other people dressed differently.	E	NEUTRAL
+3162	A woman, who is old, is near a dog that has a white coat.	A woman, who is old, is near a dog that has a white coat.	E	Exception found:null
+3255	A young girl is playing on the edge of a fountain and an older woman is not watching her.	A young girl is playing on the edge of a fountain and an older woman is not watching her.	E	CONTRADICTION
+3256	A young girl is playing on the edge of a fountain and an older woman is watching her.	A young girl is playing on the edge of a fountain and an older woman is watching her.	E	CONTRADICTION
+3265	A young girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on her head.	A young girl is wearing a blue patterned swim suit, a black and yellow swim cap and has blue swimming goggles on her head.	E	NEUTRAL
+3374	An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers.	An old woman is wearing a rose patterned shirt and is clumsily carrying two newspapers.	E	NEUTRAL
+3439	Few men like pouring tomato oil.	Few men like pouring tomato oil.	E	Exception found:null
+3449	Five kids are standing close together and none of the kids has a gun.	Five kids are standing close together and none of the kids has a gun.	E	Exception found:null
+3450	Five kids are standing close together and one kid has a gun.	Five kids are standing close together and one kid has a gun.	E	CONTRADICTION
+3451	Five kids are standing close together and one kid has a weapon.	Five kids are standing close together and one kid has a weapon.	E	CONTRADICTION
+3475	Four middle eastern children, three girls and one boy, are climbing on the grotto with a pink interior.	Four middle eastern children, three girls and one boy, are climbing on the grotto with a pink interior.	E	CONTRADICTION
+3526	No dog is in the sand that is blowing in the wind.	No dog is in the sand that is blowing in the wind.	E	NEUTRAL
+3544	No young child is riding a three wheeled scooter down the sidewalk.	No young child is riding a three wheeled scooter down the sidewalk.	E	Exception found:null
+3551	Nobody is drilling a hole in a strip of wood with a power drill.	Nobody is drilling a hole in a strip of wood with a power drill.	E	Exception found:null
+3564	Nobody is playing ping pong.	Nobody is playing ping pong.	E	Exception found:null
+3578	Nobody is stirring a pot of chili with a spoon.	Nobody is stirring a pot of chili with a spoon.	E	Exception found:null
+3579	Nobody is stirring noodles in the water.	Nobody is stirring noodles in the water.	E	Exception found:null
+3583	Not everyone is able to walk a lion.	Not everyone is able to walk a lion.	E	CONTRADICTION
+3589	One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is diving into the water.	One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is diving into the water.	E	NEUTRAL
+3590	One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water.	One boy in orange shorts is standing on a rock cliff over the water and the other boy in black shorts is jumping of it into the water.	E	NEUTRAL
+3592	One brown and black dog is running through the leaves.	One brown and black dog is running through the leaves.	E	NEUTRAL
+3597	One girl in orange shorts is standing on a rock cliff over the water and the other girl in black shorts is jumping off into the water.	One girl in orange shorts is standing on a rock cliff over the water and the other girl in black shorts is jumping off into the water.	E	NEUTRAL
+3606	One man is climbing a rock wall and another man is holding a rope.	One man is climbing a rock wall and another man is holding a rope.	E	CONTRADICTION
+3607	One man is climbing a wall made of rock and another man is holding a rope.	One man is climbing a wall made of rock and another man is holding a rope.	E	CONTRADICTION
+3618	One man is jumping off a rock wall and another man is dropping a rope.	One man is jumping off a rock wall and another man is dropping a rope.	E	CONTRADICTION
+3652	One woman is denying the volleyballs to another woman.	One woman is denying the volleyballs to another woman.	E	CONTRADICTION
+3653	One woman is handing volleyballs to another woman.	One woman is handing volleyballs to another woman.	E	CONTRADICTION
+3665	Paper and scissors both cut.	Paper and scissors both cut.	E	NEUTRAL
+3712	Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people.	Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people.	E	Exception found:null
+3740	Several people are in front of a building which is covered by colors.	Several people are in front of a building which is covered by colors.	E	NEUTRAL
+3767	Some bikers are not getting airborne on a track near water and a skyline.	Some bikers are not getting airborne on a track near water and a skyline.	E	CONTRADICTION
+3869	Somebody is beating an egg.	Somebody is beating an egg.	E	NEUTRAL
+3884	Someone is beating an egg.	Someone is beating an egg.	E	NEUTRAL
+3896	Someone is drawing a person.	Someone is drawing a person.	E	Exception found:null
+3983	The bike rider is looking at an accident of another bike rider.	The bike rider is looking at an accident of another bike rider.	E	NEUTRAL
+3984	The bike rider is not looking at the accident of another bike rider.	The bike rider is not looking at the accident of another bike rider.	E	NEUTRAL
+4011	The black player is making the white player a play near the end of a purple field.	The black player is making the white player a play near the end of a purple field.	E	CONTRADICTION
+4016	The blonde girl with the pink top is not smiling and not wearing funny glasses with a large nose attached.	The blonde girl with the pink top is not smiling and not wearing funny glasses with a large nose attached.	E	Exception found:null
+4022	The boy and the girl are not playing and wearing arm floats.	The boy and the girl are not playing and wearing arm floats.	E	Exception found:null
+4073	The brown dog is spotting a black dog lying in the dry field.	The brown dog is spotting a black dog lying in the dry field.	E	CONTRADICTION
+4074	The brown dog is spotting a black dog lying in the dry grass.	The brown dog is spotting a black dog lying in the dry grass.	E	CONTRADICTION
+4225	The girl has red hair and eyebrows, several piercings in a ear and no tattoo on the back.	The girl has red hair and eyebrows, several piercings in a ear and no tattoo on the back.	E	CONTRADICTION
+4365	The little boy is sticking his tongue out for the camera and another boy is looking on.	The little boy is sticking his tongue out for the camera and another boy is looking on.	E	NEUTRAL
+4407	The man in not playing the flute.	The man in not playing the flute.	E	NEUTRAL
+4526	The man is on ground which is mostly barren, filming a wheelie done with a motorcycle..	The man is on ground which is mostly barren, filming a wheelie done with a motorcycle..	E	NEUTRAL
+4616	The man is using a sledgehammer to break a concrete block that is on another man.	The man is using a sledgehammer to break a concrete block that is on another man.	E	NEUTRAL
+4633	The man needs a stenograph to operate.	The man needs a stenograph to operate.	E	Exception found:null
+4654	The men are in the suitcases that are being packed in the trunk of a car.	The men are in the suitcases that are being packed in the trunk of a car.	E	NEUTRAL
+4721	The performer is tricking a person on a motorcycle.	The performer is tricking a person on a motorcycle.	E	Exception found:null
+4777	The person who rides bikes is looking at an accident of another bike rider.	The person who rides bikes is looking at an accident of another bike rider.	E	NEUTRAL
+4791	The play is about a happy boy playing the piano.	The play is about a happy boy playing the piano.	E	NEUTRAL
+4872	The tan dog is not watching a brown dog that is swimming in a pond.	The tan dog is not watching a brown dog that is swimming in a pond.	E	CONTRADICTION
+4873	The tan dog is watching a brown dog that is swimming in a pond.	The tan dog is watching a brown dog that is swimming in a pond.	E	CONTRADICTION
+4886	The white dog is not wearing reindeer ears and isn't near a brown dog.	The white dog is not wearing reindeer ears and isn't near a brown dog.	E	CONTRADICTION
+4940	The woman is measuring the other woman.	The woman is measuring the other woman.	E	CONTRADICTION
+4943	The woman is not cooking something.	The woman is not cooking something.	E	Exception found:null
+4967	The woman is not wearing glasses or a headdress.	The woman is not wearing glasses or a headdress.	E	CONTRADICTION
+5059	The young girl is playing on the edge of a fountain and an older woman is watching her.	The young girl is playing on the edge of a fountain and an older woman is watching her.	E	CONTRADICTION
+5123	There is no brown dog and black dog playing in the sand.	There is no brown dog and black dog playing in the sand.	E	NEUTRAL
+5128	There is no brown dog staring attentively at a brown and white dog.	There is no brown dog staring attentively at a brown and white dog.	E	CONTRADICTION
+5141	There is no cheetah quickly running behind its prey.	There is no cheetah quickly running behind its prey.	E	NEUTRAL
+5192	There is no dog standing on one leg and is waiting for a soccer ball.	There is no dog standing on one leg and is waiting for a soccer ball.	E	Exception found:null
+5198	There is no dog which is furry and black in a back yard carrying a basket in its mouth..	There is no dog which is furry and black in a back yard carrying a basket in its mouth..	E	CONTRADICTION
+5213	There is no girl laughing and there is no other girl watching.	There is no girl laughing and there is no other girl watching.	E	CONTRADICTION
+5218	There is no girl wearing a t-shirt and keeping her mouth open.	There is no girl wearing a t-shirt and keeping her mouth open.	E	CONTRADICTION
+5241	There is no large brown dog and small grey dog standing on a rocky surface.	There is no large brown dog and small grey dog standing on a rocky surface.	E	CONTRADICTION
+5249	There is no little black dog chasing a little brown dog.	There is no little black dog chasing a little brown dog.	E	CONTRADICTION
+5258	There is no man and child kayaking through gentle waters.	There is no man and child kayaking through gentle waters.	E	NEUTRAL
+5287	There is no man drinking orange juice and walking on a sunny day.	There is no man drinking orange juice and walking on a sunny day.	E	NEUTRAL
+5303	There is no man holding a mask in his raised hand.	There is no man holding a mask in his raised hand.	E	CONTRADICTION
+5308	There is no man in a pose being watched by another man.	There is no man in a pose being watched by another man.	E	CONTRADICTION
+5323	There is no man on a rock high above some trees standing in a strange position.	There is no man on a rock high above some trees standing in a strange position.	E	NEUTRAL
+5358	There is no man rapidly chopping some mushrooms with a knife.	There is no man rapidly chopping some mushrooms with a knife.	E	NEUTRAL
+5380	There is no man sitting on a chair and rubbing his eyes.	There is no man sitting on a chair and rubbing his eyes.	E	CONTRADICTION
+5400	There is no man squirting water into the mouth of a white dog with a squirt gun.	There is no man squirting water into the mouth of a white dog with a squirt gun.	E	CONTRADICTION
+5402	There is no man standing in the middle of a gym and is wearing a jersey.	There is no man standing in the middle of a gym and is wearing a jersey.	E	Exception found:null
+5415	There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something.	There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something.	E	CONTRADICTION
+5473	There is no pet dog standing on the bank and looking at another brown dog in the pond.	There is no pet dog standing on the bank and looking at another brown dog in the pond.	E	CONTRADICTION
+5486	There is no small guinea pig gnawing and eating a piece of carrot on the floor.	There is no small guinea pig gnawing and eating a piece of carrot on the floor.	E	NEUTRAL
+5503	There is no white and brown dog pacing with through the water difficulty.	There is no white and brown dog pacing with through the water difficulty.	E	NEUTRAL
+5507	There is no white dog wearing a Christmas reindeer headband and playing with a brown dog in the grass.	There is no white dog wearing a Christmas reindeer headband and playing with a brown dog in the grass.	E	CONTRADICTION
+5530	There is no woman dancing and singing in the rain.	There is no woman dancing and singing in the rain.	E	NEUTRAL
+5535	There is no woman driving a car and talking to the man seated beside her.	There is no woman driving a car and talking to the man seated beside her.	E	CONTRADICTION
+5572	There is no woman snowboarding down an incline and there is no other woman standing behind her.	There is no woman snowboarding down an incline and there is no other woman standing behind her.	E	CONTRADICTION
+5578	There is no woman using an eye pencil and applying eye liner to her eyelid.	There is no woman using an eye pencil and applying eye liner to her eyelid.	E	CONTRADICTION
+5580	There is no woman wearing a blue shirt with a white vest and a white cap, talking and marching.	There is no woman wearing a blue shirt with a white vest and a white cap, talking and marching.	E	CONTRADICTION
+5589	There is no young boy singing and playing a guitar.	There is no young boy singing and playing a guitar.	E	NEUTRAL
+5597	There is no young lady with light brown hair wearing a red necklace, a sweatshirt and earrings and smiling.	There is no young lady with light brown hair wearing a red necklace, a sweatshirt and earrings and smiling.	E	CONTRADICTION
+5712	Two brown and white dogs are fighting on a grassy area behind a tree.	Two brown and white dogs are fighting on a grassy area behind a tree.	E	NEUTRAL
+5713	Two brown and white dogs are fighting on a grassy area in front of a plant.	Two brown and white dogs are fighting on a grassy area in front of a plant.	E	NEUTRAL
+5714	Two brown and white dogs are fighting on a grassy area in front of a tree.	Two brown and white dogs are fighting on a grassy area in front of a tree.	E	NEUTRAL
+5817	Two girls are laughing and other girls are watching them.	Two girls are laughing and other girls are watching them.	E	NEUTRAL
+5818	Two girls are laughing breathlessly and other girls are watching them.	Two girls are laughing breathlessly and other girls are watching them.	E	CONTRADICTION
+5856	Two males are standing on a cliff edge and no one is jumping into the water.	Two males are standing on a cliff edge and no one is jumping into the water.	E	CONTRADICTION
+5941	Two people are in the snow not wearing clothes, which provides camouflage..	Two people are in the snow not wearing clothes, which provides camouflage..	E	CONTRADICTION
+5989	Two poodles are in the snow and one is jumping.	Two poodles are in the snow and one is jumping.	E	NEUTRAL
+5990	Two poodles are in the snow and one is jumping high.	Two poodles are in the snow and one is jumping high.	E	NEUTRAL
+5991	Two poodles are in the snow and one is lying down.	Two poodles are in the snow and one is lying down.	E	NEUTRAL
+6015	Two white dogs and one brown dog are chasing a ball.	Two white dogs and one brown dog are chasing a ball.	E	CONTRADICTION
+6016	Two white dogs and one brown dog are chasing a toy.	Two white dogs and one brown dog are chasing a toy.	E	CONTRADICTION
+6017	Two white dogs and one brown dog are not chasing a ball.	Two white dogs and one brown dog are not chasing a ball.	E	CONTRADICTION
+6019	Two white dogs are playing with a brown dog and a ball.	Two white dogs are playing with a brown dog and a ball.	E	NEUTRAL
+6020	Two white dogs are playing with a brown dog and a tennis ball.	Two white dogs are playing with a brown dog and a tennis ball.	E	NEUTRAL
+6070	Water is being squirted by a man into the mouth of a white dog with a squirt gun.	Water is being squirted by a man into the mouth of a white dog with a squirt gun.	E	NEUTRAL

@@ -1,0 +1,1096 @@
+ID	Sentence A	Sentence B	Predicted BERT	SICK Label
+6	A baby elephant is not eating a small tree.	A baby elephant is not eating a small tree.	C	E
+13	A baby is not crawling happily.	A baby is not crawling happily.	C	E
+14	A baby is not playing a guitar.	A baby is not playing a guitar.	C	E
+15	A baby is not playing with a doll.	A baby is not playing with a doll.	C	E
+43	A band is not performing on a stage.	A band is not performing on a stage.	C	E
+44	A band is not playing some instruments.	A band is not playing some instruments.	C	E
+94	A biker is naked.	A biker is naked.	C	E
+102	A biker with a blue jacket, black pants and a white helmet is parking on dirt and people are not watching.	A biker with a blue jacket, black pants and a white helmet is parking on dirt and people are not watching.	C	E
+111	A black and orange bird is not standing in the grass.	A black and orange bird is not standing in the grass.	C	E
+148	A black dog and a yellow dog are not playing with each other.	A black dog and a yellow dog are not playing with each other.	C	E
+172	A black dog is standing in deep water.	A black dog is standing in deep water.	C	E
+173	A black dog is standing in shallow water.	A black dog is standing in shallow water.	C	E
+180	A black girl with no bikini is wearing a hat at the beach.	A black girl with no bikini is wearing a hat at the beach.	C	E
+234	A boy in a red shirt is behind a long blue wall and is lowering an eyebrow, facing the camera.	A boy in a red shirt is behind a long blue wall and is lowering an eyebrow, facing the camera.	C	E
+238	A boy in a striped shirt is jumping behind a water fountain.	A boy in a striped shirt is jumping behind a water fountain.	C	E
+243	A boy in a white t-shirt is splashing in shallow water.	A boy in a white t-shirt is splashing in shallow water.	C	E
+250	A boy in his teens isn't talking to a girl with a webcam.	A boy in his teens isn't talking to a girl with a webcam.	C	E
+256	A boy is coming down a wall artificially built for climbing and isn't attached to the rope.	A boy is coming down a wall artificially built for climbing and isn't attached to the rope.	C	E
+280	A boy is not playing a guitar.	A boy is not playing a guitar.	C	E
+330	A boy is wearing a hat and is walking in the wet sand.	A boy is wearing a hat and is walking in the wet sand.	C	E
+341	A boy next to some buckets of rags is not holding an object.	A boy next to some buckets of rags is not holding an object.	C	E
+379	A brown and white dog is not running through the river.	A brown and white dog is not running through the river.	C	E
+455	A cat is not crawling under a piece of furniture.	A cat is not crawling under a piece of furniture.	C	E
+508	A child is missing a baseball.	A child is missing a baseball.	C	E
+509	A child is not playing slip and slide in the grass.	A child is not playing slip and slide in the grass.	C	E
+510	A child is not wearing a coat and is carrying a red sled behind a child in a green and black coat.	A child is not wearing a coat and is carrying a red sled behind a child in a green and black coat.	C	E
+521	A child is splashing in a pool for children and no other children are playing in the background.	A child is splashing in a pool for children and no other children are playing in the background.	C	E
+529	A child is walking down the street and a jeep is not pulling up.	A child is walking down the street and a jeep is not pulling up.	C	E
+546	A chimp is missing the target.	A chimp is missing the target.	C	E
+548	A chubby faced boy is not wearing sunglasses.	A chubby faced boy is not wearing sunglasses.	C	E
+554	A classroom is empty.	A classroom is empty.	C	E
+574	A couple is not looking at a map.	A couple is not looking at a map.	C	E
+592	A cow is not eating grass.	A cow is not eating grass.	C	E
+593	A cow is not eating hay.	A cow is not eating hay.	C	E
+601	A crowd of people is far from the water.	A crowd of people is far from the water.	C	E
+606	A cute panda is not lying down.	A cute panda is not lying down.	C	E
+610	A cyclist is biking in a snowy forest at night.	A cyclist is biking in a snowy forest at night.	C	E
+627	A deer isn't jumping over the fence.	A deer isn't jumping over the fence.	C	E
+703	A dog is missing the ball in mid air.	A dog is missing the ball in mid air.	C	E
+706	A dog is not running towards a ball.	A dog is not running towards a ball.	C	E
+707	A dog is not swimming in a body of water.	A dog is not swimming in a body of water.	C	E
+782	A dog that has a brown and white coat is sitting in shallow water.	A dog that has a brown and white coat is sitting in shallow water.	C	E
+783	A dog that has a brown and white coat is trotting through shallow water.	A dog that has a brown and white coat is trotting through shallow water.	C	E
+788	A dog with a black coat is standing in shallow water.	A dog with a black coat is standing in shallow water.	C	E
+791	A dog with a blue collar is not playing with the ball outside.	A dog with a blue collar is not playing with the ball outside.	C	E
+838	A family is not purchasing something at a vending machine.	A family is not purchasing something at a vending machine.	C	E
+843	A family is watching a little boy who is missing a baseball.	A family is watching a little boy who is missing a baseball.	C	E
+856	A female wearing pink gloves and a brown jacket is not smiling in the snow.	A female wearing pink gloves and a brown jacket is not smiling in the snow.	C	E
+869	A few men in a competition are running indoors.	A few men in a competition are running indoors.	C	E
+882	A fish is not swimming.	A fish is not swimming.	C	E
+889	A flute isn't being played by a man.	A flute isn't being played by a man.	C	E
+910	A girl from Asia, in front of a brick window, doesn't look surprised.	A girl from Asia, in front of a brick window, doesn't look surprised.	C	E
+918	A girl in a black hat is standing topless at the beach.	A girl in a black hat is standing topless at the beach.	C	E
+919	A girl in a black hat is wearing a bikini at the beach.	A girl in a black hat is wearing a bikini at the beach.	2	E
+923	A girl in a uniform is not playing the flute with a marching band.	A girl in a uniform is not playing the flute with a marching band.	C	E
+964	A girl is making a flute which is not to be played.	A girl is making a flute which is not to be played.	C	E
+968	A girl is not playing the guitar.	A girl is not playing the guitar.	C	E
+981	A girl is running with a pink shirt and is not wearing jeans.	A girl is running with a pink shirt and is not wearing jeans.	C	E
+1018	A golden retriever is not running.	A golden retriever is not running.	C	E
+1033	A group is not riding the current in a raft.	A group is not riding the current in a raft.	C	E
+1039	A group of boys is not playing soccer on the beach.	A group of boys is not playing soccer on the beach.	C	E
+1046	A group of children in uniforms is standing at a gate and there is no one kissing the mother.	A group of children in uniforms is standing at a gate and there is no one kissing the mother.	C	E
+1047	A group of children is not playing tambourines.	A group of children is not playing tambourines.	C	E
+1048	A group of children is playing in the house and there is no man standing in the background.	A group of children is playing in the house and there is no man standing in the background.	C	E
+1053	A group of dogs are resting without muzzles.	A group of dogs are resting without muzzles.	C	E
+1076	A group of people are not dancing at a concert.	A group of people are not dancing at a concert.	C	E
+1077	A group of people are not looking at sound equipment.	A group of people are not looking at sound equipment.	C	E
+1078	A group of people are not standing around a sound mixing table.	A group of people are not standing around a sound mixing table.	C	E
+1093	A group of people is not walking down the street and a person in a green hat is on the phone.	A group of people is not walking down the street and a person in a green hat is on the phone.	C	E
+1134	A guy is not riding a horse.	A guy is not riding a horse.	C	E
+1154	A horse and its rider are not leaping over a barrier.	A horse and its rider are not leaping over a barrier.	C	E
+1163	A horse is not racing.	A horse is not racing.	C	E
+1169	A horse with no rider is falling over a hurdle.	A horse with no rider is falling over a hurdle.	C	E
+1173	A jet is not flying.	A jet is not flying.	C	E
+1174	A kangaroo is picking up the woman's baby.	A kangaroo is picking up the woman's baby.	C	E
+1179	A kid in a white t-shirt is splashing in shallow water.	A kid in a white t-shirt is splashing in shallow water.	C	E
+1256	A laughing man is dyeing a shirt black on the table which you cannot sit at.	A laughing man is dyeing a shirt black on the table which you cannot sit at.	C	E
+1293	A little boy is sticking his tongue out for the camera and another boy is not looking.	A little boy is sticking his tongue out for the camera and another boy is not looking.	C	E
+1298	A little boy with a bib is not watching the camera.	A little boy with a bib is not watching the camera.	C	E
+1339	A little kid is wearing a hat and is walking in the dry sand.	A little kid is wearing a hat and is walking in the dry sand.	C	E
+1340	A little kid is wearing a hat and is walking in the wet sand.	A little kid is wearing a hat and is walking in the wet sand.	C	E
+1364	A man and a woman are not driving down the street in a jeep.	A man and a woman are not driving down the street in a jeep.	C	E
+1365	A man and a woman are not eating.	A man and a woman are not eating.	C	E
+1366	A man and a woman are not shaking hands.	A man and a woman are not shaking hands.	C	E
+1411	A man in a black hat is not reaching for a box.	A man in a black hat is not reaching for a box.	C	E
+1420	A man in a blue jumpsuit is failing to perform a wheelie on a motorcycle.	A man in a blue jumpsuit is failing to perform a wheelie on a motorcycle.	C	E
+1422	A man in a car is not pulling up beside a woman who is walking along a road.	A man in a car is not pulling up beside a woman who is walking along a road.	C	E
+1437	A man in a purple hat isn't climbing a rocky wall with bare hands.	A man in a purple hat isn't climbing a rocky wall with bare hands.	C	E
+1454	A man in a suit is not being surrounded by photographers.	A man in a suit is not being surrounded by photographers.	C	E
+1607	A man is failing to perform a bicycle trick in midair.	A man is failing to perform a bicycle trick in midair.	C	E
+1657	A man is jumping into an empty pool.	A man is jumping into an empty pool.	C	E
+1658	A man is jumping into an empty swimming pool.	A man is jumping into an empty swimming pool.	C	E
+1691	A man is missing the soccer ball.	A man is missing the soccer ball.	C	E
+1702	A man is not cutting a potato.	A man is not cutting a potato.	C	E
+1703	A man is not cutting an onion.	A man is not cutting an onion.	C	E
+1704	A man is not dancing.	A man is not dancing.	C	E
+1705	A man is not drawing on a digital dry erase board.	A man is not drawing on a digital dry erase board.	C	E
+1706	A man is not mowing a lawn.	A man is not mowing a lawn.	C	E
+1707	A man is not participating in a bmx race.	A man is not participating in a bmx race.	C	E
+1708	A man is not playing a flute.	A man is not playing a flute.	C	E
+1709	A man is not playing a guitar.	A man is not playing a guitar.	C	E
+1710	A man is not playing keyboards.	A man is not playing keyboards.	C	E
+1711	A man is not playing the drums.	A man is not playing the drums.	C	E
+1712	A man is not playing the guitar.	A man is not playing the guitar.	C	E
+1713	A man is not playing with water.	A man is not playing with water.	C	E
+1714	A man is not riding a bicycle.	A man is not riding a bicycle.	C	E
+1715	A man is not riding a scooter.	A man is not riding a scooter.	C	E
+1716	A man is not rinsing a large steak.	A man is not rinsing a large steak.	C	E
+1717	A man is not rock climbing and a city and a bay are in the background.	A man is not rock climbing and a city and a bay are in the background.	C	E
+1718	A man is not talking on the phone.	A man is not talking on the phone.	C	E
+1719	A man is not wearing a clear plastic cap and a face mask.	A man is not wearing a clear plastic cap and a face mask.	C	E
+1720	A man is not wearing a purple shirt and black leather chaps and is posing for the camera.	A man is not wearing a purple shirt and black leather chaps and is posing for the camera.	C	E
+1728	A man is opening a package that doesn't contain headphones.	A man is opening a package that doesn't contain headphones.	C	E
+1764	A man is picking up a tree.	A man is picking up a tree.	C	E
+1834	A man is putting down the flute.	A man is putting down the flute.	C	E
+2078	A man isn't pouring oil on the tomatoes..	A man isn't pouring oil on the tomatoes..	C	E
+2079	A man isn't sitting comfortably at the table.	A man isn't sitting comfortably at the table.	C	E
+2080	A man isn't tossing a kid into the swimming pool that is near the ocean.	A man isn't tossing a kid into the swimming pool that is near the ocean.	C	E
+2090	A man on a motorcycle is not riding on one wheel.	A man on a motorcycle is not riding on one wheel.	C	E
+2122	A man with no hat is sitting on the ground.	A man with no hat is sitting on the ground.	C	E
+2123	A man with no hat is standing outside of a green jeep.	A man with no hat is standing outside of a green jeep.	C	E
+2130	A man without a shirt is posing with the arms spread near a woman.	A man without a shirt is posing with the arms spread near a woman.	C	E
+2131	A man without a shirt is posing with the arms spread next to a woman.	A man without a shirt is posing with the arms spread next to a woman.	C	E
+2157	A monkey isn't walking through water.	A monkey isn't walking through water.	C	E
+2171	A motorcyclist without a helmet is waiting on a blue motorcycle near the road.	A motorcyclist without a helmet is waiting on a blue motorcycle near the road.	C	E
+2200	A person in a motocross uniform is not wearing a helmet and riding a red motorcycle.	A person in a motocross uniform is not wearing a helmet and riding a red motorcycle.	C	E
+2202	A person in a pink jacket is not running onto the field.	A person in a pink jacket is not running onto the field.	C	E
+2259	A person is ignoring the motocross bike that is lying on its side and there is no one is racing by.	A person is ignoring the motocross bike that is lying on its side and there is no one is racing by.	C	E
+2270	A person is not chopping an onion.	A person is not chopping an onion.	C	E
+2271	A person is not cutting garlic into pieces with a knife.	A person is not cutting garlic into pieces with a knife.	C	E
+2272	A person is not doing a trick on a slide.	A person is not doing a trick on a slide.	C	E
+2273	A person is not eating at a table.	A person is not eating at a table.	C	E
+2274	A person is not folding a piece of paper.	A person is not folding a piece of paper.	C	E
+2275	A person is not frying.	A person is not frying.	C	E
+2276	A person is not frying meat in a pan.	A person is not frying meat in a pan.	C	E
+2277	A person is not holding a skunk.	A person is not holding a skunk.	C	E
+2278	A person is not making a bed.	A person is not making a bed.	C	E
+2279	A person is not peeling a banana.	A person is not peeling a banana.	C	E
+2280	A person is not performing tricks on a motorcycle.	A person is not performing tricks on a motorcycle.	C	E
+2281	A person is not playing a keyboard.	A person is not playing a keyboard.	C	E
+2282	A person is not playing the keyboard.	A person is not playing the keyboard.	C	E
+2283	A person is not quickly chopping mushrooms with a knife.	A person is not quickly chopping mushrooms with a knife.	C	E
+2284	A person is not slicing some onions.	A person is not slicing some onions.	C	E
+2285	A person is not stirring vegetables in a pot.	A person is not stirring vegetables in a pot.	C	E
+2286	A person is not tearing paper.	A person is not tearing paper.	C	E
+2392	A person on a bike is not in the air near a body of water.	A person on a bike is not in the air near a body of water.	C	E
+2412	A person with a red hooded jacket and a black backpack is not walking near a rocky wall.	A person with a red hooded jacket and a black backpack is not walking near a rocky wall.	C	E
+2415	A person without shirt is jumping high over the green grass.	A person without shirt is jumping high over the green grass.	C	E
+2424	A piano isn't being played by a man.	A piano isn't being played by a man.	C	E
+2457	A prey is quickly running behind the cheetah.	A prey is quickly running behind the cheetah.	C	E
+2498	A sea turtle is not hunting for fish.	A sea turtle is not hunting for fish.	C	E
+2591	A soccer ball is not rolling into a goal net.	A soccer ball is not rolling into a goal net.	C	E
+2597	A soccer player is missing a goal.	A soccer player is missing a goal.	C	E
+2600	A soccer player is sitting on the field and is drinking water.	A soccer player is sitting on the field and is drinking water.	C	E
+2644	A tennis player in mid game is not holding a racquet.	A tennis player in mid game is not holding a racquet.	C	E
+2648	A tennis player with a green headband is missing the ball.	A tennis player with a green headband is missing the ball.	C	E
+2654	A tiger is not walking around.	A tiger is not walking around.	C	E
+2661	A tiger is walking around with no aim.	A tiger is walking around with no aim.	C	E
+2665	A toddler is not riding a plastic scooter toy.	A toddler is not riding a plastic scooter toy.	C	E
+2678	A topless woman is being smeared with brown substance and a nobody is in the background.	A topless woman is being smeared with brown substance and a nobody is in the background.	C	E
+2682	A toy train is missing a toy car.	A toy train is missing a toy car.	C	E
+2747	A woman and three men are denying a photo.	A woman and three men are denying a photo.	C	E
+2752	A woman dressed in elegant clothing is inside a crowd of people and is looking down.	A woman dressed in elegant clothing is inside a crowd of people and is looking down.	C	E
+2868	A woman is dancing and singing alone.	A woman is dancing and singing alone.	C	E
+2922	A woman is not boiling shrimps.	A woman is not boiling shrimps.	C	E
+2923	A woman is not chopping an onion.	A woman is not chopping an onion.	C	E
+2924	A woman is not chopping garlic.	A woman is not chopping garlic.	C	E
+2925	A woman is not cutting broccoli.	A woman is not cutting broccoli.	C	E
+2926	A woman is not cutting meat.	A woman is not cutting meat.	C	E
+2927	A woman is not cutting shrimps.	A woman is not cutting shrimps.	C	E
+2928	A woman is not cutting tofu.	A woman is not cutting tofu.	C	E
+2929	A woman is not eating a cupcake.	A woman is not eating a cupcake.	C	E
+2930	A woman is not frying fish.	A woman is not frying fish.	C	E
+2931	A woman is not frying meat.	A woman is not frying meat.	C	E
+2932	A woman is not frying some food.	A woman is not frying some food.	C	E
+2933	A woman is not peeling a potato.	A woman is not peeling a potato.	C	E
+2934	A woman is not riding a horse.	A woman is not riding a horse.	C	E
+2935	A woman is not slicing a cucumber.	A woman is not slicing a cucumber.	C	E
+2936	A woman is not slicing an octopus.	A woman is not slicing an octopus.	C	E
+2937	A woman is not slicing an onion.	A woman is not slicing an onion.	C	E
+2938	A woman is not slicing carrots.	A woman is not slicing carrots.	C	E
+2939	A woman is not slicing garlic.	A woman is not slicing garlic.	C	E
+2940	A woman is not talking on a telephone.	A woman is not talking on a telephone.	C	E
+2994	A woman is putting down a flute.	A woman is putting down a flute.	C	E
+3081	A woman is standing and isn't looking at the waterfall.	A woman is standing and isn't looking at the waterfall.	C	E
+3143	A woman is wearing paint and costume pieces and is riding a bike on a empty street.	A woman is wearing paint and costume pieces and is riding a bike on a empty street.	C	E
+3171	A yellow dog is not drinking water from the faucet.	A yellow dog is not drinking water from the faucet.	C	E
+3206	A young boy isn't climbing a wall made of rock.	A young boy isn't climbing a wall made of rock.	C	E
+3236	A young couple is not lying in bed.	A young couple is not lying in bed.	C	E
+3255	A young girl is playing on the edge of a fountain and an older woman is not watching her.	A young girl is playing on the edge of a fountain and an older woman is not watching her.	C	E
+3295	A young white child is not standing on the edge of a body of water near some buckets.	A young white child is not standing on the edge of a body of water near some buckets.	C	E
+3309	An Arabic man isn't wearing a white hat.	An Arabic man isn't wearing a white hat.	C	E
+3312	An Asian woman in a crowd is not carrying a black bag.	An Asian woman in a crowd is not carrying a black bag.	C	E
+3355	An ice skating rink placed outdoors is empty.	An ice skating rink placed outdoors is empty.	C	E
+3368	An old man with a grey beard is not riding a bike.	An old man with a grey beard is not riding a bike.	C	E
+3388	An onion is not being sliced.	An onion is not being sliced.	C	E
+3400	Boys are not dancing in front of some people.	Boys are not dancing in front of some people.	C	E
+3416	Children in swimming suits are not playing in the water.	Children in swimming suits are not playing in the water.	C	E
+3425	Dirt bikers are not riding on a trail.	Dirt bikers are not riding on a trail.	C	E
+3440	Few people are eating at red tables in a restaurant without lights.	Few people are eating at red tables in a restaurant without lights.	C	E
+3449	Five kids are standing close together and none of the kids has a gun.	Five kids are standing close together and none of the kids has a gun.	C	E
+3453	Five people are standing in the grass with no dogs.	Five people are standing in the grass with no dogs.	C	E
+3468	Four dogs are not playing in a grassy area.	Four dogs are not playing in a grassy area.	C	E
+3485	Four people are walking along a city sidewalk and the one in the green hat is not talking on a cell phone.	Four people are walking along a city sidewalk and the one in the green hat is not talking on a cell phone.	C	E
+3504	Kids are not dressed in costumes and playing a game.	Kids are not dressed in costumes and playing a game.	C	E
+3525	No dog is emerging from a lake.	No dog is emerging from a lake.	C	E
+3526	No dog is in the sand that is blowing in the wind.	No dog is in the sand that is blowing in the wind.	C	E
+3527	No dog is jumping in the shade of some trees.	No dog is jumping in the shade of some trees.	C	E
+3528	No dog is running through the snow.	No dog is running through the snow.	C	E
+3529	No girl with a bikini is playing in the dunes.	No girl with a bikini is playing in the dunes.	C	E
+3530	No group of people is gathering at a stand at the fair.	No group of people is gathering at a stand at the fair.	C	E
+3531	No lady is standing on the street and is surrounded by school children.	No lady is standing on the street and is surrounded by school children.	C	E
+3532	No little dog is running on the sand.	No little dog is running on the sand.	C	E
+3533	No motorcycle racer is riding a red and black bike.	No motorcycle racer is riding a red and black bike.	C	E
+3534	No motorcycle rider is standing up on the seat of a motorcycle.	No motorcycle rider is standing up on the seat of a motorcycle.	C	E
+3535	No onion is being cut by a man.	No onion is being cut by a man.	C	E
+3536	No people are riding camels at the beach.	No people are riding camels at the beach.	C	E
+3537	No people is sitting around a fire at night.	No people is sitting around a fire at night.	C	E
+3538	No person is hiking.	No person is hiking.	C	E
+3539	No race car is on a road in front of a grassy parking area.	No race car is on a road in front of a grassy parking area.	C	E
+3540	No skateboarder is jumping in the air.	No skateboarder is jumping in the air.	C	E
+3541	No skateboarder is making a jump off a ramp.	No skateboarder is making a jump off a ramp.	C	E
+3542	No snake is being fed a mouse by a man.	No snake is being fed a mouse by a man.	C	E
+3543	No surfer is riding a big wave across dark green water.	No surfer is riding a big wave across dark green water.	C	E
+3544	No young child is riding a three wheeled scooter down the sidewalk.	No young child is riding a three wheeled scooter down the sidewalk.	C	E
+3545	Nobody in snowsuits is lying in the snow and making snow angels.	Nobody in snowsuits is lying in the snow and making snow angels.	C	E
+3546	Nobody is beating an egg.	Nobody is beating an egg.	C	E
+3547	Nobody is brushing a cat.	Nobody is brushing a cat.	C	E
+3548	Nobody is cooking okra in a pan.	Nobody is cooking okra in a pan.	C	E
+3549	Nobody is cutting a capsicum into pieces.	Nobody is cutting a capsicum into pieces.	C	E
+3550	Nobody is dangling from straps and kicking at each other.	Nobody is dangling from straps and kicking at each other.	C	E
+3551	Nobody is drilling a hole in a strip of wood with a power drill.	Nobody is drilling a hole in a strip of wood with a power drill.	C	E
+3552	Nobody is feeding an animal.	Nobody is feeding an animal.	C	E
+3553	Nobody is fighting in a cow pasture.	Nobody is fighting in a cow pasture.	C	E
+3554	Nobody is fist fighting in a ring.	Nobody is fist fighting in a ring.	C	E
+3555	Nobody is floating on a raft.	Nobody is floating on a raft.	C	E
+3556	Nobody is folding a piece of paper.	Nobody is folding a piece of paper.	C	E
+3557	Nobody is holding a hedgehog.	Nobody is holding a hedgehog.	C	E
+3558	Nobody is in front of the colorful building.	Nobody is in front of the colorful building.	C	E
+3559	Nobody is in the snow wearing clothes that provide camouflage.	Nobody is in the snow wearing clothes that provide camouflage.	C	E
+3560	Nobody is jumping off a platform.	Nobody is jumping off a platform.	C	E
+3561	Nobody is on a motorcycle and is standing on the seat.	Nobody is on a motorcycle and is standing on the seat.	C	E
+3562	Nobody is performing a card trick.	Nobody is performing a card trick.	C	E
+3563	Nobody is playing on a trampoline.	Nobody is playing on a trampoline.	C	E
+3564	Nobody is playing ping pong.	Nobody is playing ping pong.	C	E
+3565	Nobody is playing the guitar.	Nobody is playing the guitar.	C	E
+3566	Nobody is playing the guitar and singing.	Nobody is playing the guitar and singing.	C	E
+3567	Nobody is playing with a toad.	Nobody is playing with a toad.	C	E
+3568	Nobody is pouring ingredients into a pot.	Nobody is pouring ingredients into a pot.	C	E
+3569	Nobody is practicing water safety and wearing preservers.	Nobody is practicing water safety and wearing preservers.	C	E
+3570	Nobody is riding a bike.	Nobody is riding a bike.	C	E
+3571	Nobody is riding the bicycle on one wheel.	Nobody is riding the bicycle on one wheel.	C	E
+3572	Nobody is rinsing a steak with water.	Nobody is rinsing a steak with water.	C	E
+3573	Nobody is sitting comfortably on the bench.	Nobody is sitting comfortably on the bench.	C	E
+3574	Nobody is sitting in the chairs and watching the ocean.	Nobody is sitting in the chairs and watching the ocean.	C	E
+3575	Nobody is slicing a piece of bread.	Nobody is slicing a piece of bread.	C	E
+3576	Nobody is slicing a tomato.	Nobody is slicing a tomato.	C	E
+3577	Nobody is standing in the ocean and watching the sunset.	Nobody is standing in the ocean and watching the sunset.	C	E
+3578	Nobody is stirring a pot of chili with a spoon.	Nobody is stirring a pot of chili with a spoon.	C	E
+3579	Nobody is stirring noodles in the water.	Nobody is stirring noodles in the water.	C	E
+3580	Nobody is treading through the snow of the beautiful snowy landscape.	Nobody is treading through the snow of the beautiful snowy landscape.	C	E
+3582	Not a lot of people are in an ice skating park.	Not a lot of people are in an ice skating park.	C	E
+3583	Not everyone is able to walk a lion.	Not everyone is able to walk a lion.	C	E
+3652	One woman is denying the volleyballs to another woman.	One woman is denying the volleyballs to another woman.	C	E
+3675	People are far from a beach full of sand by the ocean and are suffering from the sunny day.	People are far from a beach full of sand by the ocean and are suffering from the sunny day.	C	E
+3678	People are not playing cricket.	People are not playing cricket.	C	E
+3679	People are not riding and paddling a raft.	People are not riding and paddling a raft.	C	E
+3680	People are not walking across a rope bridge over a rocky stream.	People are not walking across a rope bridge over a rocky stream.	C	E
+3681	People are not walking through a crowded street.	People are not walking through a crowded street.	C	E
+3712	Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people.	Pink bellbottoms and a pink scarf aren't to be worn by women with silver pants or bike riding people.	C	E
+3718	Rollerbladers are not rolling in formation down a hill.	Rollerbladers are not rolling in formation down a hill.	C	E
+3722	Rugby players are not tackling each other.	Rugby players are not tackling each other.	C	E
+3725	Runners are not taking part in the race.	Runners are not taking part in the race.	C	E
+3742	Several people are not walking in line across a bridge.	Several people are not walking in line across a bridge.	C	E
+3767	Some bikers are not getting airborne on a track near water and a skyline.	Some bikers are not getting airborne on a track near water and a skyline.	C	E
+3782	Some children are not playing on a playground.	Some children are not playing on a playground.	C	E
+3788	Some dogs are not playing in a stream.	Some dogs are not playing in a stream.	C	E
+3827	Some people and vehicles are on a almost empty street.	Some people and vehicles are on a almost empty street.	C	E
+3863	Some women are not talking.	Some women are not talking.	C	E
+3908	Someone is not playing piano.	Someone is not playing piano.	C	E
+3909	Someone is not putting ingredients into a wok.	Someone is not putting ingredients into a wok.	C	E
+3910	Someone is not reading the email.	Someone is not reading the email.	C	E
+3911	Someone is not stirring chili in a kettle.	Someone is not stirring chili in a kettle.	C	E
+3948	The American footballer is not wearing a red and white strip.	The American footballer is not wearing a red and white strip.	C	E
+3956	The adults and children are not gathered near an outdoor seating arrangement.	The adults and children are not gathered near an outdoor seating arrangement.	C	E
+3966	The baby is not laughing and crawling.	The baby is not laughing and crawling.	C	E
+3970	The badger isn't burrowing a hole.	The badger isn't burrowing a hole.	C	E
+3974	The band isn't singing.	The band isn't singing.	C	E
+3975	The bearded man is not sitting on a train.	The bearded man is not sitting on a train.	C	E
+3978	The bicyclist is not riding on a city street.	The bicyclist is not riding on a city street.	C	E
+3984	The bike rider is not looking at the accident of another bike rider.	The bike rider is not looking at the accident of another bike rider.	C	E
+3993	The black and white dog isn't running and there is no person standing behind.	The black and white dog isn't running and there is no person standing behind.	C	E
+3994	The black bird is not sitting in a leafless tree.	The black bird is not sitting in a leafless tree.	C	E
+4001	The black dog is not climbing on a rock.	The black dog is not climbing on a rock.	C	E
+4002	The black dog is not running through the grass.	The black dog is not running through the grass.	C	E
+4003	The black dog is not walking along a tree trunk bridge over water.	The black dog is not walking along a tree trunk bridge over water.	C	E
+4004	The black dog is not walking through the tall grass.	The black dog is not walking through the tall grass.	C	E
+4016	The blonde girl with the pink top is not smiling and not wearing funny glasses with a large nose attached.	The blonde girl with the pink top is not smiling and not wearing funny glasses with a large nose attached.	C	E
+4019	The boy and girl are not playing on a playground.	The boy and girl are not playing on a playground.	C	E
+4022	The boy and the girl are not playing and wearing arm floats.	The boy and the girl are not playing and wearing arm floats.	C	E
+4030	The boy is not cutting the grass by the curb with scissors.	The boy is not cutting the grass by the curb with scissors.	C	E
+4031	The boy is not playing the piano.	The boy is not playing the piano.	C	E
+4032	The boy is not riding a bike on the top of a metal fence.	The boy is not riding a bike on the top of a metal fence.	C	E
+4033	The boy is not riding a tricycle.	The boy is not riding a tricycle.	C	E
+4049	The boy isn't playing in the mud.	The boy isn't playing in the mud.	C	E
+4050	The boy isn't playing the piano happily.	The boy isn't playing the piano happily.	C	E
+4053	The boys are not standing in front of the burning car.	The boys are not standing in front of the burning car.	C	E
+4067	The brown dog is not playing outdoors.	The brown dog is not playing outdoors.	C	E
+4068	The brown dog is not sniffing the back of a small black dog.	The brown dog is not sniffing the back of a small black dog.	C	E
+4075	The brown dogs are not playfully fighting on the sandy beach.	The brown dogs are not playfully fighting on the sandy beach.	C	E
+4078	The brown horse is far from a red barrel at the rodeo.	The brown horse is far from a red barrel at the rodeo.	C	E
+4081	The bunch of men are not playing rugby on a muddy field.	The bunch of men are not playing rugby on a muddy field.	C	E
+4100	The cat isn't licking milk from a saucer.	The cat isn't licking milk from a saucer.	C	E
+4101	The cat isn't playing with a watermelon.	The cat isn't playing with a watermelon.	C	E
+4104	The cat perched on the table isn't looking out the window.	The cat perched on the table isn't looking out the window.	C	E
+4105	The cats are not playing with each other.	The cats are not playing with each other.	C	E
+4107	The cheerleaders are not parading and are not wearing black, pink and white uniforms.	The cheerleaders are not parading and are not wearing black, pink and white uniforms.	C	E
+4124	The children are not wearing black tights and are not hopping.	The children are not wearing black tights and are not hopping.	C	E
+4128	The children aren't playing in front of a large door.	The children aren't playing in front of a large door.	C	E
+4134	The cop is not sitting on a police bike.	The cop is not sitting on a police bike.	C	E
+4139	The crowd is not watching a football game.	The crowd is not watching a football game.	C	E
+4140	The crowd is not watching two racing cars that are leaving the starting line.	The crowd is not watching two racing cars that are leaving the starting line.	C	E
+4147	The cyclist isn't performing a trick in the air.	The cyclist isn't performing a trick in the air.	C	E
+4149	The dark skinned male is not standing on one hand in front of a yellow building.	The dark skinned male is not standing on one hand in front of a yellow building.	C	E
+4153	The deer is not jumping over the fence.	The deer is not jumping over the fence.	C	E
+4155	The doctor is not helping the patient.	The doctor is not helping the patient.	C	E
+4157	The doctors are not reviving a man.	The doctors are not reviving a man.	C	E
+4161	The dog in the red vest is not running in the field.	The dog in the red vest is not running in the field.	C	E
+4176	The dog is moving through the wet sand.	The dog is moving through the wet sand.	C	E
+4177	The dog is not catching a blue ball.	The dog is not catching a blue ball.	C	E
+4178	The dog is not knocking the boy into the water.	The dog is not knocking the boy into the water.	C	E
+4179	The dog is not playing with a plastic container.	The dog is not playing with a plastic container.	C	E
+4187	The dog is running through the dry sand.	The dog is running through the dry sand.	C	E
+4188	The dog is running through the wet sand.	The dog is running through the wet sand.	C	E
+4192	The dog isn't snapping at some droplets of water.	The dog isn't snapping at some droplets of water.	C	E
+4200	The elderly lady is not waiting on the sidewalk.	The elderly lady is not waiting on the sidewalk.	C	E
+4205	The elephant isn't being ridden by the woman.	The elephant isn't being ridden by the woman.	C	E
+4215	The food on the trays isn't being eaten by the kittens.	The food on the trays isn't being eaten by the kittens.	C	E
+4217	The football isn't between the feet of a boy who is lying in the grass.	The football isn't between the feet of a boy who is lying in the grass.	C	E
+4220	The furry brown dog is not running through the grassy area.	The furry brown dog is not running through the grassy area.	C	E
+4225	The girl has red hair and eyebrows, several piercings in a ear and no tattoo on the back.	The girl has red hair and eyebrows, several piercings in a ear and no tattoo on the back.	C	E
+4227	The girl in a dyed red shirt isn't blowing a bubble.	The girl in a dyed red shirt isn't blowing a bubble.	C	E
+4232	The girl in the blue and white uniform isn't cheering.	The girl in the blue and white uniform isn't cheering.	C	E
+4242	The girl is not carrying a sign and no group of people is following her.	The girl is not carrying a sign and no group of people is following her.	C	E
+4243	The girl is not using an eye pencil on her eyelid.	The girl is not using an eye pencil on her eyelid.	C	E
+4244	The girl is not wearing a white shirt and a pink skirt, and is not standing in front of a house.	The girl is not wearing a white shirt and a pink skirt, and is not standing in front of a house.	C	E
+4262	The girl isn't jumping onto the car recklessly.	The girl isn't jumping onto the car recklessly.	C	E
+4263	The girl likes red and isn't wearing beads for teenagers.	The girl likes red and isn't wearing beads for teenagers.	C	E
+4276	The group of people is not sitting in a dim room.	The group of people is not sitting in a dim room.	C	E
+4277	The group of people is not sitting on a rocky ledge with a scenic view behind them.	The group of people is not sitting on a rocky ledge with a scenic view behind them.	C	E
+4278	The group of people is not sitting on the ground outside a monument.	The group of people is not sitting on the ground outside a monument.	C	E
+4289	The guitar is being played by nobody.	The guitar is being played by nobody.	C	E
+4300	The herd of caribous is not crossing a road.	The herd of caribous is not crossing a road.	C	E
+4305	The ice hockey goalkeeper is not wearing a yellow jersey and is not defending the goal.	The ice hockey goalkeeper is not wearing a yellow jersey and is not defending the goal.	C	E
+4310	The kangaroo is picking up the woman.	The kangaroo is picking up the woman.	C	E
+4318	The kids are not chasing each other in the sand.	The kids are not chasing each other in the sand.	C	E
+4319	The kids are not wearing suits and water is splashing around.	The kids are not wearing suits and water is splashing around.	C	E
+4323	The kitten is not playing with a toy.	The kitten is not playing with a toy.	C	E
+4325	The kitten isn't eagerly drinking some milk from the bowl.	The kitten isn't eagerly drinking some milk from the bowl.	C	E
+4343	The lady is picking up the kangaroo.	The lady is picking up the kangaroo.	C	E
+4349	The lady isn't breaking raw eggs into a bowl.	The lady isn't breaking raw eggs into a bowl.	C	E
+4350	The lady isn't cracking an egg for the mixer.	The lady isn't cracking an egg for the mixer.	C	E
+4351	The lady isn't measuring the ankle of another woman.	The lady isn't measuring the ankle of another woman.	C	E
+4352	The lady isn't slicing up the meat.	The lady isn't slicing up the meat.	C	E
+4354	The large brown dog is not running outside in the dirt.	The large brown dog is not running outside in the dirt.	C	E
+4361	The little boy is not singing and playing the guitar.	The little boy is not singing and playing the guitar.	C	E
+4373	The little girl is not swinging and the woman is not standing behind her.	The little girl is not swinging and the woman is not standing behind her.	C	E
+4380	The log is lying on the panda bear.	The log is lying on the panda bear.	C	E
+4381	The loud man is not allowed to play the guitar.	The loud man is not allowed to play the guitar.	C	E
+4382	The machine is not shaving a pencil.	The machine is not shaving a pencil.	C	E
+4390	The man and woman are not walking.	The man and woman are not walking.	C	E
+4393	The man at the beach is not doing a handstand on the wet sand at the edge of the water.	The man at the beach is not doing a handstand on the wet sand at the edge of the water.	C	E
+4397	The man in a cowboy hat is not walking through a market and is not putting a hand in his pocket.	The man in a cowboy hat is not walking through a market and is not putting a hand in his pocket.	C	E
+4407	The man in not playing the flute.	The man in not playing the flute.	C	E
+4410	The man in the purple hat isn't operating a camera that makes videos.	The man in the purple hat isn't operating a camera that makes videos.	C	E
+4412	The man in the straw hat is not smoking a cigarette.	The man in the straw hat is not smoking a cigarette.	C	E
+4443	The man is denying an interview.	The man is denying an interview.	C	E
+4488	The man is not adding seasoning to the/some water in a bowl.	The man is not adding seasoning to the/some water in a bowl.	C	E
+4489	The man is not chopping a tree trunk with an axe.	The man is not chopping a tree trunk with an axe.	C	E
+4490	The man is not climbing up a rope.	The man is not climbing up a rope.	C	E
+4491	The man is not cutting a paper plate.	The man is not cutting a paper plate.	C	E
+4492	The man is not cutting the tape on the box.	The man is not cutting the tape on the box.	C	E
+4493	The man is not dancing.	The man is not dancing.	C	E
+4494	The man is not doing a wheelie on a mountain bike.	The man is not doing a wheelie on a mountain bike.	C	E
+4495	The man is not doing exercises.	The man is not doing exercises.	C	E
+4496	The man is not doing floor exercises.	The man is not doing floor exercises.	C	E
+4497	The man is not drawing.	The man is not drawing.	C	E
+4498	The man is not eating a banana by a tree.	The man is not eating a banana by a tree.	C	E
+4499	The man is not exercising.	The man is not exercising.	C	E
+4500	The man is not feeding the snake with a mouse.	The man is not feeding the snake with a mouse.	C	E
+4501	The man is not going into the water.	The man is not going into the water.	C	E
+4502	The man is not hammering a nail with a camera.	The man is not hammering a nail with a camera.	C	E
+4503	The man is not hiking in the woods.	The man is not hiking in the woods.	C	E
+4504	The man is not kick boxing with a trainer.	The man is not kick boxing with a trainer.	C	E
+4505	The man is not knocked off of a horse.	The man is not knocked off of a horse.	C	E
+4506	The man is not performing a large jump.	The man is not performing a large jump.	C	E
+4507	The man is not playing a flute.	The man is not playing a flute.	C	E
+4508	The man is not playing a guitar.	The man is not playing a guitar.	C	E
+4509	The man is not playing the drums.	The man is not playing the drums.	C	E
+4510	The man is not playing the guitar.	The man is not playing the guitar.	C	E
+4511	The man is not putting chicken into the container.	The man is not putting chicken into the container.	C	E
+4512	The man is not riding a horse.	The man is not riding a horse.	C	E
+4513	The man is not riding a horse by a creek.	The man is not riding a horse by a creek.	C	E
+4514	The man is not riding a mechanical bull.	The man is not riding a mechanical bull.	C	E
+4515	The man is not seasoning the sausages.	The man is not seasoning the sausages.	C	E
+4516	The man is not slicing a potato.	The man is not slicing a potato.	C	E
+4517	The man is not slicing potatoes.	The man is not slicing potatoes.	C	E
+4518	The man is not slicing the potato.	The man is not slicing the potato.	C	E
+4519	The man is not slicing vegetables.	The man is not slicing vegetables.	C	E
+4520	The man is not standing on a rocky mountain and gray clouds are not in the background.	The man is not standing on a rocky mountain and gray clouds are not in the background.	C	E
+4521	The man is not stirring oil.	The man is not stirring oil.	C	E
+4522	The man is not stirring the sauce for the chicken.	The man is not stirring the sauce for the chicken.	C	E
+4523	The man is not taking a picture of himself and another guy.	The man is not taking a picture of himself and another guy.	C	E
+4524	The man is not talking on the phone.	The man is not talking on the phone.	C	E
+4525	The man is not walking along a path through the wilderness.	The man is not walking along a path through the wilderness.	C	E
+4623	The man isn't cautiously feeding a mouse to the snake.	The man isn't cautiously feeding a mouse to the snake.	C	E
+4624	The man isn't doing a magic trick.	The man isn't doing a magic trick.	C	E
+4625	The man isn't driving a car.	The man isn't driving a car.	C	E
+4626	The man isn't intensely playing the guitar.	The man isn't intensely playing the guitar.	C	E
+4627	The man isn't lifting weights.	The man isn't lifting weights.	C	E
+4628	The man isn't operating a stenograph.	The man isn't operating a stenograph.	C	E
+4629	The man isn't playing an acoustic guitar.	The man isn't playing an acoustic guitar.	C	E
+4630	The man isn't playing the piano.	The man isn't playing the piano.	C	E
+4631	The man isn't smearing butter on bread.	The man isn't smearing butter on bread.	C	E
+4632	The man isn't talking on the telephone.	The man isn't talking on the telephone.	C	E
+4637	The man on stage isn't singing into the microphone.	The man on stage isn't singing into the microphone.	C	E
+4641	The man with brown hair is not wearing sunglasses and is not sitting at a table with cans of soda and other drinks.	The man with brown hair is not wearing sunglasses and is not sitting at a table with cans of soda and other drinks.	C	E
+4645	The man's jumper is in the empty pool.	The man's jumper is in the empty pool.	C	E
+4647	The meat is not being dropped into a pan.	The meat is not being dropped into a pan.	C	E
+4655	The men are not climbing a mountain.	The men are not climbing a mountain.	C	E
+4656	The men are not dancing.	The men are not dancing.	C	E
+4657	The men are not fist fighting in a ring.	The men are not fist fighting in a ring.	C	E
+4658	The men are not packing suitcases into the trunk of a car.	The men are not packing suitcases into the trunk of a car.	C	E
+4659	The men are not playing soccer.	The men are not playing soccer.	C	E
+4660	The men are not putting suitcases into the trunk of a car.	The men are not putting suitcases into the trunk of a car.	C	E
+4661	The men are not talking.	The men are not talking.	C	E
+4669	The men in brown shorts are not walking on the rocks beside a river.	The men in brown shorts are not walking on the rocks beside a river.	C	E
+4673	The military officer is not barking at the recruits.	The military officer is not barking at the recruits.	C	E
+4679	The monkey is not brushing a bull dog.	The monkey is not brushing a bull dog.	C	E
+4681	The monkey isn't practicing martial arts.	The monkey isn't practicing martial arts.	C	E
+4692	The orange rescue boat is not rushing across the water.	The orange rescue boat is not rushing across the water.	C	E
+4695	The orange rider is not driving a motorcycle on one wheel.	The orange rider is not driving a motorcycle on one wheel.	C	E
+4698	The oriental lady is not cutting a carrot into thin pieces.	The oriental lady is not cutting a carrot into thin pieces.	C	E
+4700	The panda bear is not lying on the logs.	The panda bear is not lying on the logs.	C	E
+4703	The panda is not eating bamboo.	The panda is not eating bamboo.	C	E
+4710	The people are not sitting on a bench in front of a restaurant.	The people are not sitting on a bench in front of a restaurant.	C	E
+4711	The people are not walking on the road beside a beautiful waterfall.	The people are not walking on the road beside a beautiful waterfall.	C	E
+4722	The person in the blue jacket is putting down a colorful helmet.	The person in the blue jacket is putting down a colorful helmet.	C	E
+4736	The person is not drawing.	The person is not drawing.	C	E
+4737	The person is not flying through the air on a bicycle.	The person is not flying through the air on a bicycle.	C	E
+4738	The person is not going into the water.	The person is not going into the water.	C	E
+4739	The person is not riding the horse.	The person is not riding the horse.	C	E
+4740	The person is not slicing a clove of garlic into pieces.	The person is not slicing a clove of garlic into pieces.	C	E
+4741	The person is not slicing onions.	The person is not slicing onions.	C	E
+4742	The person is not standing on white ice.	The person is not standing on white ice.	C	E
+4743	The person is not writing with a pencil.	The person is not writing with a pencil.	C	E
+4769	The person isn't dicing up an orange pepper.	The person isn't dicing up an orange pepper.	C	E
+4770	The person isn't practicing the guitar.	The person isn't practicing the guitar.	C	E
+4771	The person isn't riding a motorbike on a sandy track.	The person isn't riding a motorbike on a sandy track.	C	E
+4772	The person isn't slicing a vegetable.	The person isn't slicing a vegetable.	C	E
+4775	The person on the motorcycle is not holding up an arm.	The person on the motorcycle is not holding up an arm.	C	E
+4782	The piano isn't being played by anyone.	The piano isn't being played by anyone.	C	E
+4787	The piece of paper is not being cut.	The piece of paper is not being cut.	C	E
+4792	The player in purple, white and black is not playing near the end of the field.	The player in purple, white and black is not playing near the end of the field.	C	E
+4795	The player is missing the basket and a crowd is in background.	The player is missing the basket and a crowd is in background.	C	E
+4801	The potato isn't being peeled by a woman.	The potato isn't being peeled by a woman.	C	E
+4802	The practicing person doesn't like the guitar.	The practicing person doesn't like the guitar.	C	E
+4805	The presentation isn't being watched by a classroom of students.	The presentation isn't being watched by a classroom of students.	C	E
+4807	The puppy is not playing with a plastic container.	The puppy is not playing with a plastic container.	C	E
+4812	The red and brown dog is not digging its nose inside a holiday gift bag.	The red and brown dog is not digging its nose inside a holiday gift bag.	C	E
+4816	The rhino is not grazing on the grass.	The rhino is not grazing on the grass.	C	E
+4820	The rider on the blue and black motocross bike is not wearing the pants.	The rider on the blue and black motocross bike is not wearing the pants.	C	E
+4822	The rollerblader is not performing a trick on a ramp.	The rollerblader is not performing a trick on a ramp.	C	E
+4823	The runners are not racing around a track.	The runners are not racing around a track.	C	E
+4827	The shirtless man in striped shorts and sunglasses is not standing near a man in a white shirt and sunglasses.	The shirtless man in striped shorts and sunglasses is not standing near a man in a white shirt and sunglasses.	C	E
+4840	The small child is not wading through the water and is not being guided by another person.	The small child is not wading through the water and is not being guided by another person.	C	E
+4852	The snowboarder is not jumping off a snow covered hill.	The snowboarder is not jumping off a snow covered hill.	C	E
+4853	The snowboarder isn't leaping over white snow.	The snowboarder isn't leaping over white snow.	C	E
+4855	The soccer player is not kicking the ball between somebody's legs.	The soccer player is not kicking the ball between somebody's legs.	C	E
+4857	The south African plane is not flying in a blue sky.	The south African plane is not flying in a blue sky.	C	E
+4859	The squirrel is not running in circles.	The squirrel is not running in circles.	C	E
+4864	The sun is not shining on the face of the girl who is in a yellow dress.	The sun is not shining on the face of the girl who is in a yellow dress.	C	E
+4872	The tan dog is not watching a brown dog that is swimming in a pond.	The tan dog is not watching a brown dog that is swimming in a pond.	C	E
+4880	The turtle isn't following the fish.	The turtle isn't following the fish.	C	E
+4886	The white dog is not wearing reindeer ears and isn't near a brown dog.	The white dog is not wearing reindeer ears and isn't near a brown dog.	C	E
+4891	The white dogs aren't looking curiously at the black llama.	The white dogs aren't looking curiously at the black llama.	C	E
+4896	The woman and the man are not travelling by car.	The woman and the man are not travelling by car.	C	E
+4902	The woman in a red costume is not leaning against a brick wall and is not playing an instrument.	The woman in a red costume is not leaning against a brick wall and is not playing an instrument.	C	E
+4906	The woman in the white sweater is not drawing a tattoo on the hand of a teenager.	The woman in the white sweater is not drawing a tattoo on the hand of a teenager.	C	E
+4941	The woman is not adding sugar to the meat.	The woman is not adding sugar to the meat.	C	E
+4942	The woman is not chopping garlic.	The woman is not chopping garlic.	C	E
+4943	The woman is not cooking something.	The woman is not cooking something.	C	E
+4944	The woman is not cracking two eggs into a glass bowl.	The woman is not cracking two eggs into a glass bowl.	C	E
+4945	The woman is not cutting a carrot.	The woman is not cutting a carrot.	C	E
+4946	The woman is not dancing.	The woman is not dancing.	C	E
+4947	The woman is not dicing garlic.	The woman is not dicing garlic.	C	E
+4948	The woman is not frying a breaded pork chop.	The woman is not frying a breaded pork chop.	C	E
+4949	The woman is not handling a frog.	The woman is not handling a frog.	C	E
+4950	The woman is not penciling on eyeshadow.	The woman is not penciling on eyeshadow.	C	E
+4951	The woman is not picking up a baby kangaroo.	The woman is not picking up a baby kangaroo.	C	E
+4952	The woman is not picking up and holding a baby kangaroo.	The woman is not picking up and holding a baby kangaroo.	C	E
+4953	The woman is not playing an electric guitar.	The woman is not playing an electric guitar.	C	E
+4954	The woman is not playing the flute.	The woman is not playing the flute.	C	E
+4955	The woman is not poking holes in the potato.	The woman is not poking holes in the potato.	C	E
+4956	The woman is not pouring oil into the pan.	The woman is not pouring oil into the pan.	C	E
+4957	The woman is not putting makeup on the man.	The woman is not putting makeup on the man.	C	E
+4958	The woman is not putting pasta into a dish.	The woman is not putting pasta into a dish.	C	E
+4959	The woman is not seasoning the oil.	The woman is not seasoning the oil.	C	E
+4960	The woman is not slicing an onion.	The woman is not slicing an onion.	C	E
+4961	The woman is not slicing an onion with a knife.	The woman is not slicing an onion with a knife.	C	E
+4962	The woman is not slicing herbs.	The woman is not slicing herbs.	C	E
+4963	The woman is not stirring meat in a bowl.	The woman is not stirring meat in a bowl.	C	E
+4964	The woman is not walking the dog.	The woman is not walking the dog.	C	E
+4965	The woman is not waterskiing.	The woman is not waterskiing.	C	E
+4966	The woman is not wearing a red jacket and is not holding a glass in front of the man in a white t-shirt.	The woman is not wearing a red jacket and is not holding a glass in front of the man in a white t-shirt.	C	E
+4967	The woman is not wearing glasses or a headdress.	The woman is not wearing glasses or a headdress.	C	E
+4970	The woman is picking up a baby kangaroo.	The woman is picking up a baby kangaroo.	C	E
+4973	The woman is picking up the kangaroo.	The woman is picking up the kangaroo.	C	E
+4986	The woman is putting down the kangaroo.	The woman is putting down the kangaroo.	C	E
+4991	The woman is removing make-up.	The woman is removing make-up.	C	E
+5021	The woman isn't playing the guitar, which is acoustic, or singing.	The woman isn't playing the guitar, which is acoustic, or singing.	C	E
+5022	The woman isn't pouring oil into a skillet.	The woman isn't pouring oil into a skillet.	C	E
+5023	The woman isn't stirring eggs in a bowl.	The woman isn't stirring eggs in a bowl.	C	E
+5027	The woman wearing silver pants, pink bellbottoms and a pink scarf isn't riding a bike.	The woman wearing silver pants, pink bellbottoms and a pink scarf isn't riding a bike.	C	E
+5031	The woman with the knife is not slicing a pepper.	The woman with the knife is not slicing a pepper.	C	E
+5034	The women are not dancing outside.	The women are not dancing outside.	C	E
+5035	The women are not singing and dancing.	The women are not singing and dancing.	C	E
+5043	The young boy in the blue shirt is not jumping into the water.	The young boy in the blue shirt is not jumping into the water.	C	E
+5045	The young boy is not running through the ocean waves.	The young boy is not running through the ocean waves.	C	E
+5048	The young boys are not posing with a green soccer ball in a park.	The young boys are not posing with a green soccer ball in a park.	C	E
+5061	The young girl with a pink shirt isn't peacefully lying on the grass.	The young girl with a pink shirt isn't peacefully lying on the grass.	C	E
+5065	The young man is not rock climbing.	The young man is not rock climbing.	C	E
+5069	There are no boys kneeling next to each other in front of a ball.	There are no boys kneeling next to each other in front of a ball.	C	E
+5070	There are no children playing and waiting.	There are no children playing and waiting.	C	E
+5071	There are no children playing on a statue.	There are no children playing on a statue.	C	E
+5072	There are no dogs fighting for a frisbee in a lake.	There are no dogs fighting for a frisbee in a lake.	C	E
+5073	There are no dogs of different breeds looking at each other across a street.	There are no dogs of different breeds looking at each other across a street.	C	E
+5074	There are no dogs playing in the snow.	There are no dogs playing in the snow.	C	E
+5075	There are no football players in red and white jumping and hugging each other.	There are no football players in red and white jumping and hugging each other.	C	E
+5076	There are no kids jumping on a trampoline.	There are no kids jumping on a trampoline.	C	E
+5077	There are no little boys playing outside with a soccer ball on the green grass.	There are no little boys playing outside with a soccer ball on the green grass.	C	E
+5078	There are no men fighting.	There are no men fighting.	C	E
+5079	There are no men sawing.	There are no men sawing.	C	E
+5080	There are no men sitting at the table with four beer bottles.	There are no men sitting at the table with four beer bottles.	C	E
+5081	There are no mimes performing.	There are no mimes performing.	C	E
+5082	There are no people driving ATVs.	There are no people driving ATVs.	C	E
+5083	There are no people flipping the tires of a tractor.	There are no people flipping the tires of a tractor.	C	E
+5084	There are no racers running down a track.	There are no racers running down a track.	C	E
+5085	There are no soccer players kicking a soccer ball into the goal.	There are no soccer players kicking a soccer ball into the goal.	C	E
+5086	There are no white dogs running and jumping along a beach.	There are no white dogs running and jumping along a beach.	C	E
+5087	There are no women wearing bikinis on the sandy beach.	There are no women wearing bikinis on the sandy beach.	C	E
+5088	There aren't many people in the ice skating park.	There aren't many people in the ice skating park.	C	E
+5090	There is no Asian woman holding a fur scarf.	There is no Asian woman holding a fur scarf.	C	E
+5091	There is no adult in the amphitheater talking to a boy.	There is no adult in the amphitheater talking to a boy.	C	E
+5092	There is no airplane taking off.	There is no airplane taking off.	C	E
+5093	There is no baby being put into a trash can by a woman.	There is no baby being put into a trash can by a woman.	C	E
+5094	There is no baby playing with a dog.	There is no baby playing with a dog.	C	E
+5095	There is no baby talking.	There is no baby talking.	C	E
+5096	There is no baby tiger playing with a ball.	There is no baby tiger playing with a ball.	C	E
+5097	There is no badger shrewdly digging the earth.	There is no badger shrewdly digging the earth.	C	E
+5098	There is no band playing.	There is no band playing.	C	E
+5099	There is no basketball player on the court floor and no one is grabbing the ball.	There is no basketball player on the court floor and no one is grabbing the ball.	C	E
+5100	There is no bicyclist jumping on a pyramid-shaped ramp.	There is no bicyclist jumping on a pyramid-shaped ramp.	C	E
+5101	There is no biker jumping in the air.	There is no biker jumping in the air.	C	E
+5102	There is no black and white dog jumping for a ball.	There is no black and white dog jumping for a ball.	C	E
+5103	There is no black dog with a red collar putting its face in the water.	There is no black dog with a red collar putting its face in the water.	C	E
+5104	There is no black, red, white and pink dress being worn by a woman.	There is no black, red, white and pink dress being worn by a woman.	C	E
+5105	There is no blond child holding a yellow bottle.	There is no blond child holding a yellow bottle.	C	E
+5106	There is no blonde lady looking at a tower.	There is no blonde lady looking at a tower.	C	E
+5107	There is no bmx biker jumping dirt ramps in front of a body of water.	There is no bmx biker jumping dirt ramps in front of a body of water.	C	E
+5108	There is no boy checking a calendar.	There is no boy checking a calendar.	C	E
+5109	There is no boy cutting grass with scissors.	There is no boy cutting grass with scissors.	C	E
+5110	There is no boy filling a pitcher with water.	There is no boy filling a pitcher with water.	C	E
+5111	There is no boy hanging a fishing rod and running in front of a fish.	There is no boy hanging a fishing rod and running in front of a fish.	C	E
+5112	There is no boy in a swimsuit sitting on top of a circular fountain.	There is no boy in a swimsuit sitting on top of a circular fountain.	C	E
+5113	There is no boy in a white t-shirt splashing in shallow water.	There is no boy in a white t-shirt splashing in shallow water.	C	E
+5114	There is no boy looking at a calendar.	There is no boy looking at a calendar.	C	E
+5115	There is no boy playing a guitar.	There is no boy playing a guitar.	C	E
+5116	There is no boy playing a keyboard.	There is no boy playing a keyboard.	C	E
+5117	There is no boy playing a piano.	There is no boy playing a piano.	C	E
+5118	There is no boy playing guitar.	There is no boy playing guitar.	C	E
+5119	There is no boy playing outdoors and there is no man smiling.	There is no boy playing outdoors and there is no man smiling.	C	E
+5120	There is no boy standing in front of the blue building in the space reserved for handicapped people.	There is no boy standing in front of the blue building in the space reserved for handicapped people.	C	E
+5121	There is no boy walking across a bridge.	There is no boy walking across a bridge.	C	E
+5122	There is no boy wearing red shorts jumping into a paddling pool.	There is no boy wearing red shorts jumping into a paddling pool.	C	E
+5123	There is no brown dog and black dog playing in the sand.	There is no brown dog and black dog playing in the sand.	C	E
+5124	There is no brown dog jumping in the air.	There is no brown dog jumping in the air.	C	E
+5125	There is no brown dog running across the yard with a toy in its mouth.	There is no brown dog running across the yard with a toy in its mouth.	C	E
+5126	There is no brown dog running through tall green grass.	There is no brown dog running through tall green grass.	C	E
+5127	There is no brown dog standing in the water.	There is no brown dog standing in the water.	C	E
+5128	There is no brown dog staring attentively at a brown and white dog.	There is no brown dog staring attentively at a brown and white dog.	C	E
+5129	There is no brown duck with a green head flapping its wings in the water.	There is no brown duck with a green head flapping its wings in the water.	C	E
+5130	There is no bunny playing with a stuffed bunny.	There is no bunny playing with a stuffed bunny.	C	E
+5131	There is no butter being added to the stand mixer.	There is no butter being added to the stand mixer.	C	E
+5132	There is no cat eating corn on the cob.	There is no cat eating corn on the cob.	C	E
+5133	There is no cat hungrily drinking milk.	There is no cat hungrily drinking milk.	C	E
+5134	There is no cat playing a keyboard.	There is no cat playing a keyboard.	C	E
+5135	There is no cat playing keyboards.	There is no cat playing keyboards.	C	E
+5136	There is no cat playing with a device.	There is no cat playing with a device.	C	E
+5137	There is no cat playing with a watermelon.	There is no cat playing with a watermelon.	C	E
+5138	There is no cat sliding upside down under a couch.	There is no cat sliding upside down under a couch.	C	E
+5139	There is no cat swinging on a fan.	There is no cat swinging on a fan.	C	E
+5140	There is no cat walking on a hardwood floor.	There is no cat walking on a hardwood floor.	C	E
+5141	There is no cheetah quickly running behind its prey.	There is no cheetah quickly running behind its prey.	C	E
+5142	There is no chef preparing a meal.	There is no chef preparing a meal.	C	E
+5143	There is no child hanging on a large branch.	There is no child hanging on a large branch.	C	E
+5144	There is no child holding a camera in front of his face.	There is no child holding a camera in front of his face.	C	E
+5145	There is no child holding a squirt gun.	There is no child holding a squirt gun.	C	E
+5146	There is no child holding a water gun or getting sprayed with water.	There is no child holding a water gun or getting sprayed with water.	C	E
+5147	There is no child in a red outfit jumping on a trampoline.	There is no child in a red outfit jumping on a trampoline.	C	E
+5148	There is no child lying in the snow and making snow angels.	There is no child lying in the snow and making snow angels.	C	E
+5149	There is no child playing with a water spout outdoors with the rest of his family watching.	There is no child playing with a water spout outdoors with the rest of his family watching.	C	E
+5150	There is no child sitting in a red and yellow toy car.	There is no child sitting in a red and yellow toy car.	C	E
+5151	There is no child waking up.	There is no child waking up.	C	E
+5152	There is no classroom full of students looking in the same direction inside a bamboo structure.	There is no classroom full of students looking in the same direction inside a bamboo structure.	C	E
+5153	There is no clown singing.	There is no clown singing.	C	E
+5154	There is no clown singing and people are not dancing.	There is no clown singing and people are not dancing.	C	E
+5155	There is no cold cyclist celebrating.	There is no cold cyclist celebrating.	C	E
+5156	There is no cook slicing some bell peppers.	There is no cook slicing some bell peppers.	C	E
+5157	There is no couple running towards the ocean.	There is no couple running towards the ocean.	C	E
+5158	There is no cyclist on a yellow bike airborne.	There is no cyclist on a yellow bike airborne.	C	E
+5159	There is no cyclist performing a jump on a bicycle.	There is no cyclist performing a jump on a bicycle.	C	E
+5160	There is no deer jumping fences.	There is no deer jumping fences.	C	E
+5161	There is no dog barking.	There is no dog barking.	C	E
+5162	There is no dog barking at a ball.	There is no dog barking at a ball.	C	E
+5163	There is no dog bouncing on a trampoline.	There is no dog bouncing on a trampoline.	C	E
+5164	There is no dog catching a ball.	There is no dog catching a ball.	C	E
+5165	There is no dog chasing a ball.	There is no dog chasing a ball.	C	E
+5166	There is no dog chasing a ball in the grass.	There is no dog chasing a ball in the grass.	C	E
+5167	There is no dog chasing another or holding a stick in its mouth.	There is no dog chasing another or holding a stick in its mouth.	C	E
+5168	There is no dog crossing a river on a bridge made from a fallen tree.	There is no dog crossing a river on a bridge made from a fallen tree.	C	E
+5169	There is no dog eating a doll.	There is no dog eating a doll.	C	E
+5170	There is no dog excitedly playing with water in the grass.	There is no dog excitedly playing with water in the grass.	C	E
+5171	There is no dog in a colored coat running across the yard.	There is no dog in a colored coat running across the yard.	C	E
+5172	There is no dog joyfully running on the grass.	There is no dog joyfully running on the grass.	C	E
+5173	There is no dog jumping at a shiny blue soccer ball in a field of dry leaves.	There is no dog jumping at a shiny blue soccer ball in a field of dry leaves.	C	E
+5174	There is no dog jumping for a Frisbee in the snow.	There is no dog jumping for a Frisbee in the snow.	C	E
+5175	There is no dog leaping in the air.	There is no dog leaping in the air.	C	E
+5176	There is no dog leaping through snowy grass and rocks.	There is no dog leaping through snowy grass and rocks.	C	E
+5177	There is no dog licking a baby.	There is no dog licking a baby.	C	E
+5178	There is no dog looking around.	There is no dog looking around.	C	E
+5179	There is no dog playing in a field of brown grass.	There is no dog playing in a field of brown grass.	C	E
+5180	There is no dog playing with a red ball.	There is no dog playing with a red ball.	C	E
+5181	There is no dog playing with a toy.	There is no dog playing with a toy.	C	E
+5182	There is no dog racing on a track.	There is no dog racing on a track.	C	E
+5183	There is no dog riding a skateboard.	There is no dog riding a skateboard.	C	E
+5184	There is no dog rolling from side to side.	There is no dog rolling from side to side.	C	E
+5185	There is no dog running and carrying an object in its mouth.	There is no dog running and carrying an object in its mouth.	C	E
+5186	There is no dog running in the grass.	There is no dog running in the grass.	C	E
+5187	There is no dog running on the beach.	There is no dog running on the beach.	C	E
+5188	There is no dog running on the road.	There is no dog running on the road.	C	E
+5189	There is no dog running through a field and chasing a ball.	There is no dog running through a field and chasing a ball.	C	E
+5190	There is no dog running up a grassy hill.	There is no dog running up a grassy hill.	C	E
+5191	There is no dog running with a volleyball.	There is no dog running with a volleyball.	C	E
+5192	There is no dog standing on one leg and is waiting for a soccer ball.	There is no dog standing on one leg and is waiting for a soccer ball.	C	E
+5193	There is no dog standing on the side of a mountain.	There is no dog standing on the side of a mountain.	C	E
+5194	There is no dog standing with its two front paws on a rock in the field.	There is no dog standing with its two front paws on a rock in the field.	C	E
+5195	There is no dog swimming in a lake with sunshine shining on him.	There is no dog swimming in a lake with sunshine shining on him.	C	E
+5196	There is no dog turning on the grass and pursuing a flying ball.	There is no dog turning on the grass and pursuing a flying ball.	C	E
+5197	There is no dog walking along a snowdrift.	There is no dog walking along a snowdrift.	C	E
+5198	There is no dog which is furry and black in a back yard carrying a basket in its mouth..	There is no dog which is furry and black in a back yard carrying a basket in its mouth..	C	E
+5199	There is no dog with a blue blanket running through the grass.	There is no dog with a blue blanket running through the grass.	C	E
+5200	There is no dog wrestling and hugging.	There is no dog wrestling and hugging.	C	E
+5201	There is no family posing by the mantel and the Christmas tree.	There is no family posing by the mantel and the Christmas tree.	C	E
+5202	There is no famous singer dancing on the ceiling.	There is no famous singer dancing on the ceiling.	C	E
+5203	There is no football player in a purple jersey running with the ball for a touchdown.	There is no football player in a purple jersey running with the ball for a touchdown.	C	E
+5204	There is no girl applying makeup to her face.	There is no girl applying makeup to her face.	C	E
+5205	There is no girl brushing her hair.	There is no girl brushing her hair.	C	E
+5206	There is no girl communicating with sign language.	There is no girl communicating with sign language.	C	E
+5207	There is no girl filing her nails.	There is no girl filing her nails.	C	E
+5208	There is no girl in a brown dress being surrounded by children and closing her eyes.	There is no girl in a brown dress being surrounded by children and closing her eyes.	C	E
+5209	There is no girl in blue jumping in the air.	There is no girl in blue jumping in the air.	C	E
+5210	There is no girl in pink twirling a ribbon.	There is no girl in pink twirling a ribbon.	C	E
+5211	There is no girl in white dancing.	There is no girl in white dancing.	C	E
+5212	There is no girl jumping into the car.	There is no girl jumping into the car.	C	E
+5213	There is no girl laughing and there is no other girl watching.	There is no girl laughing and there is no other girl watching.	C	E
+5214	There is no girl playing a flute.	There is no girl playing a flute.	C	E
+5215	There is no girl playing the piano.	There is no girl playing the piano.	C	E
+5216	There is no girl playing the violin on a beach.	There is no girl playing the violin on a beach.	C	E
+5217	There is no girl riding a horse.	There is no girl riding a horse.	C	E
+5218	There is no girl wearing a t-shirt and keeping her mouth open.	There is no girl wearing a t-shirt and keeping her mouth open.	C	E
+5219	There is no girl wearing jeans and a pink shirt and running.	There is no girl wearing jeans and a pink shirt and running.	C	E
+5220	There is no girl with a black bag on a crowded train.	There is no girl with a black bag on a crowded train.	C	E
+5221	There is no girl with black and orange patches on the cheeks.	There is no girl with black and orange patches on the cheeks.	C	E
+5222	There is no group of people dancing.	There is no group of people dancing.	C	E
+5223	There is no group of people standing together and looking at the camera.	There is no group of people standing together and looking at the camera.	C	E
+5224	There is no group of racing dogs wearing striped uniforms and running down a track.	There is no group of racing dogs wearing striped uniforms and running down a track.	C	E
+5225	There is no guinea pig eating a carrot.	There is no guinea pig eating a carrot.	C	E
+5226	There is no guy leaping into the air in a wooded area.	There is no guy leaping into the air in a wooded area.	C	E
+5227	There is no guy mowing the lawn.	There is no guy mowing the lawn.	C	E
+5228	There is no hamster singing.	There is no hamster singing.	C	E
+5229	There is no hiker dancing on top of the mountain.	There is no hiker dancing on top of the mountain.	C	E
+5230	There is no hockey player in a yellow jersey guarding the goal.	There is no hockey player in a yellow jersey guarding the goal.	C	E
+5231	There is no horse tossing the cowboy in red and blue pants.	There is no horse tossing the cowboy in red and blue pants.	C	E
+5232	There is no karate practitioner kicking at another man who is wearing protective boxing gloves.	There is no karate practitioner kicking at another man who is wearing protective boxing gloves.	C	E
+5233	There is no kid in orange playing outside with a snowball.	There is no kid in orange playing outside with a snowball.	C	E
+5234	There is no kid playing guitar.	There is no kid playing guitar.	C	E
+5235	There is no kitten drinking milk.	There is no kitten drinking milk.	C	E
+5236	There is no lady cutting up some meat.	There is no lady cutting up some meat.	C	E
+5237	There is no lady holding the paintbrush next to the artist's easel.	There is no lady holding the paintbrush next to the artist's easel.	C	E
+5238	There is no lady mixing a meat mixture in a bowl.	There is no lady mixing a meat mixture in a bowl.	C	E
+5239	There is no lady peeling the potato.	There is no lady peeling the potato.	C	E
+5240	There is no lady walking in body paint in front of a crowd.	There is no lady walking in body paint in front of a crowd.	C	E
+5241	There is no large brown dog and small grey dog standing on a rocky surface.	There is no large brown dog and small grey dog standing on a rocky surface.	C	E
+5242	There is no large dog running on the grass with a tennis ball in its mouth.	There is no large dog running on the grass with a tennis ball in its mouth.	C	E
+5243	There is no large group of cheerleaders walking in a parade.	There is no large group of cheerleaders walking in a parade.	C	E
+5244	There is no lemur eating.	There is no lemur eating.	C	E
+5245	There is no lemur hanging on a cord.	There is no lemur hanging on a cord.	C	E
+5246	There is no light brown dog running up a street.	There is no light brown dog running up a street.	C	E
+5247	There is no lion pacing tiredly in a pen.	There is no lion pacing tiredly in a pen.	C	E
+5248	There is no lion walking.	There is no lion walking.	C	E
+5249	There is no little black dog chasing a little brown dog.	There is no little black dog chasing a little brown dog.	C	E
+5250	There is no little boy running on the ground and playing with a little girl.	There is no little boy running on the ground and playing with a little girl.	C	E
+5251	There is no little boy wearing a green soccer strip and running on the grass.	There is no little boy wearing a green soccer strip and running on the grass.	C	E
+5252	There is no little boy with brown hair jumping off of a brown chair onto the floor.	There is no little boy with brown hair jumping off of a brown chair onto the floor.	C	E
+5253	There is no little girl peddling a scooter.	There is no little girl peddling a scooter.	C	E
+5254	There is no little girl playing a grand piano on stage.	There is no little girl playing a grand piano on stage.	C	E
+5255	There is no little girl playing the piano.	There is no little girl playing the piano.	C	E
+5256	There is no little girl with blond hair smiling and sitting on a swing.	There is no little girl with blond hair smiling and sitting on a swing.	C	E
+5257	There is no little kid playing football and falling into the grass.	There is no little kid playing football and falling into the grass.	C	E
+5258	There is no man and child kayaking through gentle waters.	There is no man and child kayaking through gentle waters.	C	E
+5259	There is no man being hit.	There is no man being hit.	C	E
+5260	There is no man breaking a slab of concrete with a sledge hammer.	There is no man breaking a slab of concrete with a sledge hammer.	C	E
+5261	There is no man breaking wooden boards with his hand.	There is no man breaking wooden boards with his hand.	C	E
+5262	There is no man carrying a woman.	There is no man carrying a woman.	C	E
+5263	There is no man chopping a log with an axe.	There is no man chopping a log with an axe.	C	E
+5264	There is no man cooking a snake.	There is no man cooking a snake.	C	E
+5265	There is no man cutting a boot with a sword.	There is no man cutting a boot with a sword.	C	E
+5266	There is no man cutting a box.	There is no man cutting a box.	C	E
+5267	There is no man cutting a fish.	There is no man cutting a fish.	C	E
+5268	There is no man cutting a paper.	There is no man cutting a paper.	C	E
+5269	There is no man cutting a paper plate.	There is no man cutting a paper plate.	C	E
+5270	There is no man cutting a potato.	There is no man cutting a potato.	C	E
+5271	There is no man cutting a rope with a sword.	There is no man cutting a rope with a sword.	C	E
+5272	There is no man cutting an onion.	There is no man cutting an onion.	C	E
+5273	There is no man cutting onions.	There is no man cutting onions.	C	E
+5274	There is no man cutting pieces of butter into a mixing bowl.	There is no man cutting pieces of butter into a mixing bowl.	C	E
+5275	There is no man cutting tomatoes.	There is no man cutting tomatoes.	C	E
+5276	There is no man dancing.	There is no man dancing.	C	E
+5277	There is no man dancing on the road.	There is no man dancing on the road.	C	E
+5278	There is no man dancing upside-down on the ceiling.	There is no man dancing upside-down on the ceiling.	C	E
+5279	There is no man diving off a cliff.	There is no man diving off a cliff.	C	E
+5280	There is no man doing a card trick.	There is no man doing a card trick.	C	E
+5281	There is no man doing back flips on a trampoline.	There is no man doing back flips on a trampoline.	C	E
+5282	There is no man doing pull-ups.	There is no man doing pull-ups.	C	E
+5283	There is no man drawing.	There is no man drawing.	C	E
+5284	There is no man drawing a picture.	There is no man drawing a picture.	C	E
+5285	There is no man dressed in black and riding a green bike.	There is no man dressed in black and riding a green bike.	C	E
+5286	There is no man dressed in black wearing an elaborate black mask.	There is no man dressed in black wearing an elaborate black mask.	C	E
+5287	There is no man drinking orange juice and walking on a sunny day.	There is no man drinking orange juice and walking on a sunny day.	C	E
+5288	There is no man driving a car.	There is no man driving a car.	C	E
+5289	There is no man driving the car.	There is no man driving the car.	C	E
+5290	There is no man dunking the ball at a basketball game.	There is no man dunking the ball at a basketball game.	C	E
+5291	There is no man eating a banana.	There is no man eating a banana.	C	E
+5292	There is no man eating a bowl of cereal.	There is no man eating a bowl of cereal.	C	E
+5293	There is no man eating a pizza.	There is no man eating a pizza.	C	E
+5294	There is no man eating cereal.	There is no man eating cereal.	C	E
+5295	There is no man eating food.	There is no man eating food.	C	E
+5296	There is no man eating some food.	There is no man eating some food.	C	E
+5297	There is no man exercising.	There is no man exercising.	C	E
+5298	There is no man fishing in the river.	There is no man fishing in the river.	C	E
+5299	There is no man fitting a silencer to a pistol.	There is no man fitting a silencer to a pistol.	C	E
+5300	There is no man fixing a silencer to a gun.	There is no man fixing a silencer to a gun.	C	E
+5301	There is no man frying a tortilla.	There is no man frying a tortilla.	C	E
+5302	There is no man holding a frog.	There is no man holding a frog.	C	E
+5303	There is no man holding a mask in his raised hand.	There is no man holding a mask in his raised hand.	C	E
+5304	There is no man holding a sign and seeking money.	There is no man holding a sign and seeking money.	C	E
+5305	There is no man in a black jacket doing tricks on a motorbike.	There is no man in a black jacket doing tricks on a motorbike.	C	E
+5306	There is no man in a grey t-shirt sitting on a rock in front of the waterfall.	There is no man in a grey t-shirt sitting on a rock in front of the waterfall.	C	E
+5307	There is no man in a hat playing a harp.	There is no man in a hat playing a harp.	C	E
+5308	There is no man in a pose being watched by another man.	There is no man in a pose being watched by another man.	C	E
+5309	There is no man in a purple suit standing by a purple case and playing a guitar.	There is no man in a purple suit standing by a purple case and playing a guitar.	C	E
+5310	There is no man in a red jacket standing next to a yellow kayak on some rocks by the ocean.	There is no man in a red jacket standing next to a yellow kayak on some rocks by the ocean.	C	E
+5311	There is no man in a red uniform making a jump in a dirt bike race.	There is no man in a red uniform making a jump in a dirt bike race.	C	E
+5312	There is no man in a suit standing at a microphone and singing.	There is no man in a suit standing at a microphone and singing.	C	E
+5313	There is no man is pushing the buttons of a microwave.	There is no man is pushing the buttons of a microwave.	C	E
+5314	There is no man loading a rifle with bullets.	There is no man loading a rifle with bullets.	C	E
+5315	There is no man making a phone call.	There is no man making a phone call.	C	E
+5316	There is no man massaging a woman.	There is no man massaging a woman.	C	E
+5317	There is no man mixing.	There is no man mixing.	C	E
+5318	There is no man mixing vegetables in a pot.	There is no man mixing vegetables in a pot.	C	E
+5319	There is no man mowing grass.	There is no man mowing grass.	C	E
+5320	There is no man on a bicycle riding on one wheel only.	There is no man on a bicycle riding on one wheel only.	C	E
+5321	There is no man on a bicycle riding on the beach.	There is no man on a bicycle riding on the beach.	C	E
+5322	There is no man on a boat in front of the sunset.	There is no man on a boat in front of the sunset.	C	E
+5323	There is no man on a rock high above some trees standing in a strange position.	There is no man on a rock high above some trees standing in a strange position.	C	E
+5324	There is no man opening a box with a knife.	There is no man opening a box with a knife.	C	E
+5325	There is no man opening a door.	There is no man opening a door.	C	E
+5326	There is no man patting an alligator on the mouth.	There is no man patting an alligator on the mouth.	C	E
+5327	There is no man peeling an onion.	There is no man peeling an onion.	C	E
+5328	There is no man performing a trick on a green bicycle.	There is no man performing a trick on a green bicycle.	C	E
+5329	There is no man playing a bamboo flute.	There is no man playing a bamboo flute.	C	E
+5330	There is no man playing a flute.	There is no man playing a flute.	C	E
+5331	There is no man playing a game on the grass.	There is no man playing a game on the grass.	C	E
+5332	There is no man playing a guitar.	There is no man playing a guitar.	C	E
+5333	There is no man playing a guitar on stage.	There is no man playing a guitar on stage.	C	E
+5334	There is no man playing a harp.	There is no man playing a harp.	C	E
+5335	There is no man playing a keyboard.	There is no man playing a keyboard.	C	E
+5336	There is no man playing a piano.	There is no man playing a piano.	C	E
+5337	There is no man playing a violin.	There is no man playing a violin.	C	E
+5338	There is no man playing a wooden flute.	There is no man playing a wooden flute.	C	E
+5339	There is no man playing an electronic keyboard.	There is no man playing an electronic keyboard.	C	E
+5340	There is no man playing flute.	There is no man playing flute.	C	E
+5341	There is no man playing guitar.	There is no man playing guitar.	C	E
+5342	There is no man playing guitar next to a drummer.	There is no man playing guitar next to a drummer.	C	E
+5343	There is no man playing soccer.	There is no man playing soccer.	C	E
+5344	There is no man playing the drums.	There is no man playing the drums.	C	E
+5345	There is no man playing the guitar.	There is no man playing the guitar.	C	E
+5346	There is no man playing the guitar loudly.	There is no man playing the guitar loudly.	C	E
+5347	There is no man playing the piano.	There is no man playing the piano.	C	E
+5348	There is no man playing the piano with his nose.	There is no man playing the piano with his nose.	C	E
+5349	There is no man playing two keyboards.	There is no man playing two keyboards.	C	E
+5350	There is no man playing with a skull.	There is no man playing with a skull.	C	E
+5351	There is no man pointing at a car.	There is no man pointing at a car.	C	E
+5352	There is no man pouring cleaner into the sink.	There is no man pouring cleaner into the sink.	C	E
+5353	There is no man pouring liquid into a pot.	There is no man pouring liquid into a pot.	C	E
+5354	There is no man pouring oil into a pan.	There is no man pouring oil into a pan.	C	E
+5355	There is no man pouring some oil on the tomatoes.	There is no man pouring some oil on the tomatoes.	C	E
+5356	There is no man praying.	There is no man praying.	C	E
+5357	There is no man putting some cheese on a pizza.	There is no man putting some cheese on a pizza.	C	E
+5358	There is no man rapidly chopping some mushrooms with a knife.	There is no man rapidly chopping some mushrooms with a knife.	C	E
+5359	There is no man reading an email.	There is no man reading an email.	C	E
+5360	There is no man reading the email.	There is no man reading the email.	C	E
+5361	There is no man recklessly riding a horse.	There is no man recklessly riding a horse.	C	E
+5362	There is no man riding a horse.	There is no man riding a horse.	C	E
+5363	There is no man riding a mechanical bull.	There is no man riding a mechanical bull.	C	E
+5364	There is no man riding a motorcycle.	There is no man riding a motorcycle.	C	E
+5365	There is no man riding a motorcycle through the town.	There is no man riding a motorcycle through the town.	C	E
+5366	There is no man riding a water toy in the water.	There is no man riding a water toy in the water.	C	E
+5367	There is no man riding an electric bicycle.	There is no man riding an electric bicycle.	C	E
+5368	There is no man running down the road.	There is no man running down the road.	C	E
+5369	There is no man running on the road.	There is no man running on the road.	C	E
+5370	There is no man running, jumping and kicking near a vending machine.	There is no man running, jumping and kicking near a vending machine.	C	E
+5371	There is no man screaming.	There is no man screaming.	C	E
+5372	There is no man screwing a piece of wood to a wall.	There is no man screwing a piece of wood to a wall.	C	E
+5373	There is no man shaking a container over a sink in the kitchen.	There is no man shaking a container over a sink in the kitchen.	C	E
+5374	There is no man sharpening a knife.	There is no man sharpening a knife.	C	E
+5375	There is no man shooting a shotgun.	There is no man shooting a shotgun.	C	E
+5376	There is no man shooting guns.	There is no man shooting guns.	C	E
+5377	There is no man singing and playing a guitar.	There is no man singing and playing a guitar.	C	E
+5378	There is no man singing and playing the guitar.	There is no man singing and playing the guitar.	C	E
+5379	There is no man singing to a woman.	There is no man singing to a woman.	C	E
+5380	There is no man sitting on a chair and rubbing his eyes.	There is no man sitting on a chair and rubbing his eyes.	C	E
+5381	There is no man sitting on the chair.	There is no man sitting on the chair.	C	E
+5382	There is no man sitting on the floor and playing a guitar.	There is no man sitting on the floor and playing a guitar.	C	E
+5383	There is no man skiing down a snowy hill.	There is no man skiing down a snowy hill.	C	E
+5384	There is no man slicing a bun.	There is no man slicing a bun.	C	E
+5385	There is no man slicing a potato.	There is no man slicing a potato.	C	E
+5386	There is no man slicing a potato into pieces.	There is no man slicing a potato into pieces.	C	E
+5387	There is no man slicing a tomato.	There is no man slicing a tomato.	C	E
+5388	There is no man slicing an onion.	There is no man slicing an onion.	C	E
+5389	There is no man slicing potatoes.	There is no man slicing potatoes.	C	E
+5390	There is no man slicing some bread.	There is no man slicing some bread.	C	E
+5391	There is no man speaking.	There is no man speaking.	C	E
+5392	There is no man speaking on a podium.	There is no man speaking on a podium.	C	E
+5393	There is no man speaking on a stage.	There is no man speaking on a stage.	C	E
+5394	There is no man spitting.	There is no man spitting.	C	E
+5395	There is no man spraying a super soaker into the mouth of a dog.	There is no man spraying a super soaker into the mouth of a dog.	C	E
+5396	There is no man sprinkling cheese on the pizza.	There is no man sprinkling cheese on the pizza.	C	E
+5397	There is no man sprinkling seasoning on several sliced and buttered loaves of bread.	There is no man sprinkling seasoning on several sliced and buttered loaves of bread.	C	E
+5398	There is no man sprinkling shredded cheese on a pizza.	There is no man sprinkling shredded cheese on a pizza.	C	E
+5399	There is no man squatting in brush and taking a photograph.	There is no man squatting in brush and taking a photograph.	C	E
+5400	There is no man squirting water into the mouth of a white dog with a squirt gun.	There is no man squirting water into the mouth of a white dog with a squirt gun.	C	E
+5401	There is no man standing beside a large and colorful birdcage.	There is no man standing beside a large and colorful birdcage.	C	E
+5402	There is no man standing in the middle of a gym and is wearing a jersey.	There is no man standing in the middle of a gym and is wearing a jersey.	C	E
+5403	There is no man standing near the water and holding fishing poles.	There is no man standing near the water and holding fishing poles.	C	E
+5404	There is no man standing next to a bus.	There is no man standing next to a bus.	C	E
+5405	There is no man standing on a roof top and playing a violin.	There is no man standing on a roof top and playing a violin.	C	E
+5406	There is no man thinking.	There is no man thinking.	C	E
+5407	There is no man tying a shoe.	There is no man tying a shoe.	C	E
+5408	There is no man walking along a path through a wilderness.	There is no man walking along a path through a wilderness.	C	E
+5409	There is no man walking in the rain.	There is no man walking in the rain.	C	E
+5410	There is no man walking outside.	There is no man walking outside.	C	E
+5411	There is no man wearing a black helmet and pushing a bicycle.	There is no man wearing a black helmet and pushing a bicycle.	C	E
+5412	There is no man wearing a long sleeved blue shirt and jeans and riding a unicycle down a street.	There is no man wearing a long sleeved blue shirt and jeans and riding a unicycle down a street.	C	E
+5413	There is no man wearing a shirt dyed black, sitting at the table and laughing.	There is no man wearing a shirt dyed black, sitting at the table and laughing.	C	E
+5414	There is no man wearing a straw hat who is smoking a cigarette.	There is no man wearing a straw hat who is smoking a cigarette.	C	E
+5415	There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something.	There is no man wearing clothes that are covered with paint or is sitting outside in a busy area writing something.	C	E
+5416	There is no man wiping the edge of a bowl.	There is no man wiping the edge of a bowl.	C	E
+5417	There is no man with a camera studying the subject.	There is no man with a camera studying the subject.	C	E
+5418	There is no man with a hard hat dancing.	There is no man with a hard hat dancing.	C	E
+5419	There is no man working on the laptop.	There is no man working on the laptop.	C	E
+5420	There is no man writing a note near a bike.	There is no man writing a note near a bike.	C	E
+5421	There is no milk being drunk by a cat.	There is no milk being drunk by a cat.	C	E
+5422	There is no monkey brushing the dog.	There is no monkey brushing the dog.	C	E
+5423	There is no monkey kicking a person.	There is no monkey kicking a person.	C	E
+5424	There is no monkey kicking at the gloved hand of a person.	There is no monkey kicking at the gloved hand of a person.	C	E
+5425	There is no monkey practicing martial arts.	There is no monkey practicing martial arts.	C	E
+5426	There is no monkey pulling a dog's tail.	There is no monkey pulling a dog's tail.	C	E
+5427	There is no monkey riding a bike.	There is no monkey riding a bike.	C	E
+5428	There is no monkey teasing a dog at the zoo.	There is no monkey teasing a dog at the zoo.	C	E
+5429	There is no monkey wading through a marsh.	There is no monkey wading through a marsh.	C	E
+5430	There is no motorcyclist on a bike leaning into a sharp corner.	There is no motorcyclist on a bike leaning into a sharp corner.	C	E
+5431	There is no motorcyclist riding a motorbike along a roadway.	There is no motorcyclist riding a motorbike along a roadway.	C	E
+5432	There is no one banging a camera lens against a nail.	There is no one banging a camera lens against a nail.	C	E
+5433	There is no one climbing on the grotto with a pink interior.	There is no one climbing on the grotto with a pink interior.	C	E
+5434	There is no one cutting a tomato.	There is no one cutting a tomato.	C	E
+5435	There is no one on the shore.	There is no one on the shore.	C	E
+5436	There is no one peeling a banana.	There is no one peeling a banana.	C	E
+5437	There is no one playing a piano.	There is no one playing a piano.	C	E
+5438	There is no one playing the guitar.	There is no one playing the guitar.	C	E
+5439	There is no one sitting in lawn chairs and reading books.	There is no one sitting in lawn chairs and reading books.	C	E
+5440	There is no one typing.	There is no one typing.	C	E
+5441	There is no panda bear eating some bamboo.	There is no panda bear eating some bamboo.	C	E
+5442	There is no panda climbing.	There is no panda climbing.	C	E
+5443	There is no paper being cut with scissors.	There is no paper being cut with scissors.	C	E
+5444	There is no parrot speaking.	There is no parrot speaking.	C	E
+5445	There is no person boiling noodles.	There is no person boiling noodles.	C	E
+5446	There is no person buttering a tray.	There is no person buttering a tray.	C	E
+5447	There is no person cutting an onion.	There is no person cutting an onion.	C	E
+5448	There is no person cutting some ginger.	There is no person cutting some ginger.	C	E
+5449	There is no person cutting some mushrooms.	There is no person cutting some mushrooms.	C	E
+5450	There is no person in bike gear standing steadily in front of the mountains.	There is no person in bike gear standing steadily in front of the mountains.	C	E
+5451	There is no person kicking a soccer ball between somebody's feet.	There is no person kicking a soccer ball between somebody's feet.	C	E
+5452	There is no person on a bike jumping through the air with the sun flaring through the bike frame.	There is no person on a bike jumping through the air with the sun flaring through the bike frame.	C	E
+5453	There is no person peeling a potato.	There is no person peeling a potato.	C	E
+5454	There is no person peeling an onion.	There is no person peeling an onion.	C	E
+5455	There is no person playing a piano.	There is no person playing a piano.	C	E
+5456	There is no person pouring olive oil into a pot on the stove.	There is no person pouring olive oil into a pot on the stove.	C	E
+5457	There is no person riding a bike.	There is no person riding a bike.	C	E
+5458	There is no person riding a bike along a muddy trail.	There is no person riding a bike along a muddy trail.	C	E
+5459	There is no person riding a jetski in the waves.	There is no person riding a jetski in the waves.	C	E
+5460	There is no person riding a motorbike in the event related to motocross.	There is no person riding a motorbike in the event related to motocross.	C	E
+5461	There is no person setting fire to the cameras.	There is no person setting fire to the cameras.	C	E
+5462	There is no person singing and playing the guitar.	There is no person singing and playing the guitar.	C	E
+5463	There is no person slicing a carrot into pieces.	There is no person slicing a carrot into pieces.	C	E
+5464	There is no person slicing a potato.	There is no person slicing a potato.	C	E
+5465	There is no person slicing an onion.	There is no person slicing an onion.	C	E
+5466	There is no person standing in a vast field of glacial ice.	There is no person standing in a vast field of glacial ice.	C	E
+5467	There is no person throwing a cat at the ceiling.	There is no person throwing a cat at the ceiling.	C	E
+5468	There is no person wearing a hat and sitting on the grass.	There is no person wearing a hat and sitting on the grass.	C	E
+5469	There is no person wearing grey pants who is airborne on a snowboard.	There is no person wearing grey pants who is airborne on a snowboard.	C	E
+5470	There is no person wearing jeans sitting on top of a horse saddle.	There is no person wearing jeans sitting on top of a horse saddle.	C	E
+5471	There is no person with a blue backpack hiking in rocky area.	There is no person with a blue backpack hiking in rocky area.	C	E
+5472	There is no person writing.	There is no person writing.	C	E
+5473	There is no pet dog standing on the bank and looking at another brown dog in the pond.	There is no pet dog standing on the bank and looking at another brown dog in the pond.	C	E
+5474	There is no policewoman singing at karaoke.	There is no policewoman singing at karaoke.	C	E
+5475	There is no puppy rolling.	There is no puppy rolling.	C	E
+5476	There is no rabbit playing with a toy rabbit.	There is no rabbit playing with a toy rabbit.	C	E
+5477	There is no rhino grazing in a field.	There is no rhino grazing in a field.	C	E
+5478	There is no rhino grazing on the grass.	There is no rhino grazing on the grass.	C	E
+5479	There is no rope being climbed by a man.	There is no rope being climbed by a man.	C	E
+5480	There is no seabird flying over some rocks.	There is no seabird flying over some rocks.	C	E
+5481	There is no seated woman singing a song and playing the guitar.	There is no seated woman singing a song and playing the guitar.	C	E
+5482	There is no small bee landing on a bunch of yellow flowers.	There is no small bee landing on a bunch of yellow flowers.	C	E
+5483	There is no small boy in a yellow shirt laughing on the beach.	There is no small boy in a yellow shirt laughing on the beach.	C	E
+5484	There is no small child in a pink sweater climbing a concrete staircase.	There is no small child in a pink sweater climbing a concrete staircase.	C	E
+5485	There is no small dog chasing a large brown cow.	There is no small dog chasing a large brown cow.	C	E
+5486	There is no small guinea pig gnawing and eating a piece of carrot on the floor.	There is no small guinea pig gnawing and eating a piece of carrot on the floor.	C	E
+5487	There is no snowboarder doing a flip over a mound of snow.	There is no snowboarder doing a flip over a mound of snow.	C	E
+5488	There is no snowboarder grinding down a long concrete rail.	There is no snowboarder grinding down a long concrete rail.	C	E
+5489	There is no snowboarder jumping off the snow.	There is no snowboarder jumping off the snow.	C	E
+5490	There is no soccer player who is being tackled by an opponent.	There is no soccer player who is being tackled by an opponent.	C	E
+5491	There is no squirrel spinning around in circles.	There is no squirrel spinning around in circles.	C	E
+5492	There is no surfer leaning on a surfboard.	There is no surfer leaning on a surfboard.	C	E
+5493	There is no surfer riding the wave.	There is no surfer riding the wave.	C	E
+5494	There is no tan dog jumping up and catching a tennis ball.	There is no tan dog jumping up and catching a tennis ball.	C	E
+5495	There is no tan skinned child looking at the camera.	There is no tan skinned child looking at the camera.	C	E
+5496	There is no team playing soccer.	There is no team playing soccer.	C	E
+5497	There is no tennis player lunging to the left.	There is no tennis player lunging to the left.	C	E
+5498	There is no tiger cub making a sound.	There is no tiger cub making a sound.	C	E
+5499	There is no topless woman covered in mud.	There is no topless woman covered in mud.	C	E
+5500	There is no toy train striking a toy car.	There is no toy train striking a toy car.	C	E
+5501	There is no veteran showing things from a war to some people.	There is no veteran showing things from a war to some people.	C	E
+5502	There is no water being drunk by a cat.	There is no water being drunk by a cat.	C	E
+5503	There is no white and brown dog pacing with through the water difficulty.	There is no white and brown dog pacing with through the water difficulty.	C	E
+5504	There is no white car being driven by the man.	There is no white car being driven by the man.	C	E
+5505	There is no white cat perched on a small wooden cabinet looking outside the window.	There is no white cat perched on a small wooden cabinet looking outside the window.	C	E
+5506	There is no white dog standing on the leaves on the ground.	There is no white dog standing on the leaves on the ground.	C	E
+5507	There is no white dog wearing a Christmas reindeer headband and playing with a brown dog in the grass.	There is no white dog wearing a Christmas reindeer headband and playing with a brown dog in the grass.	C	E
+5508	There is no white dog with beige spots running through a field.	There is no white dog with beige spots running through a field.	C	E
+5509	There is no white race car driving through a puddle.	There is no white race car driving through a puddle.	C	E
+5510	There is no window being cleaned by a man.	There is no window being cleaned by a man.	C	E
+5511	There is no woman adding spices to some meat.	There is no woman adding spices to some meat.	C	E
+5512	There is no woman beating two eggs in a bowl and using a whisk made of wire.	There is no woman beating two eggs in a bowl and using a whisk made of wire.	C	E
+5513	There is no woman being kissed by a man.	There is no woman being kissed by a man.	C	E
+5514	There is no woman breaking eggs in a bowl.	There is no woman breaking eggs in a bowl.	C	E
+5515	There is no woman chopping up an octopus.	There is no woman chopping up an octopus.	C	E
+5516	There is no woman cleaning a shrimp.	There is no woman cleaning a shrimp.	C	E
+5517	There is no woman coating a pork chop.	There is no woman coating a pork chop.	C	E
+5518	There is no woman combing her hair.	There is no woman combing her hair.	C	E
+5519	There is no woman cooking a breaded pork chop.	There is no woman cooking a breaded pork chop.	C	E
+5520	There is no woman cooking eggs.	There is no woman cooking eggs.	C	E
+5521	There is no woman cooking fish.	There is no woman cooking fish.	C	E
+5522	There is no woman cracking an egg into a bowl.	There is no woman cracking an egg into a bowl.	C	E
+5523	There is no woman cutting a potato.	There is no woman cutting a potato.	C	E
+5524	There is no woman cutting a vegetable.	There is no woman cutting a vegetable.	C	E
+5525	There is no woman cutting an onion.	There is no woman cutting an onion.	C	E
+5526	There is no woman cutting broccoli.	There is no woman cutting broccoli.	C	E
+5527	There is no woman cutting onions.	There is no woman cutting onions.	C	E
+5528	There is no woman cutting potatoes.	There is no woman cutting potatoes.	C	E
+5529	There is no woman dancing.	There is no woman dancing.	C	E
+5530	There is no woman dancing and singing in the rain.	There is no woman dancing and singing in the rain.	C	E
+5531	There is no woman dancing in a cage.	There is no woman dancing in a cage.	C	E
+5532	There is no woman dancing near a fire.	There is no woman dancing near a fire.	C	E
+5533	There is no woman deep frying food.	There is no woman deep frying food.	C	E
+5534	There is no woman dipping a shrimp in batter.	There is no woman dipping a shrimp in batter.	C	E
+5535	There is no woman driving a car and talking to the man seated beside her.	There is no woman driving a car and talking to the man seated beside her.	C	E
+5536	There is no woman exercising.	There is no woman exercising.	C	E
+5537	There is no woman firing a rifle.	There is no woman firing a rifle.	C	E
+5538	There is no woman frying something.	There is no woman frying something.	C	E
+5539	There is no woman frying something in a pan.	There is no woman frying something in a pan.	C	E
+5540	There is no woman in a purple top walking a bicycle between two stone columns.	There is no woman in a purple top walking a bicycle between two stone columns.	C	E
+5541	There is no woman in a yellow shirt surfing on a pink surfboard.	There is no woman in a yellow shirt surfing on a pink surfboard.	C	E
+5542	There is no woman mixing eggs.	There is no woman mixing eggs.	C	E
+5543	There is no woman peeling a potato.	There is no woman peeling a potato.	C	E
+5544	There is no woman penciling on eyeshadow.	There is no woman penciling on eyeshadow.	C	E
+5545	There is no woman placing skewers onto a rack.	There is no woman placing skewers onto a rack.	C	E
+5546	There is no woman playing a flute.	There is no woman playing a flute.	C	E
+5547	There is no woman playing a guitar.	There is no woman playing a guitar.	C	E
+5548	There is no woman playing an electric guitar.	There is no woman playing an electric guitar.	C	E
+5549	There is no woman playing the violin.	There is no woman playing the violin.	C	E
+5550	There is no woman playing with two young boys at a park.	There is no woman playing with two young boys at a park.	C	E
+5551	There is no woman pouring ingredients into a bowl.	There is no woman pouring ingredients into a bowl.	C	E
+5552	There is no woman preparing an egg in a skillet.	There is no woman preparing an egg in a skillet.	C	E
+5553	There is no woman putting a child in a waste bin.	There is no woman putting a child in a waste bin.	C	E
+5554	There is no woman putting meat in a pan.	There is no woman putting meat in a pan.	C	E
+5555	There is no woman putting on lipstick.	There is no woman putting on lipstick.	C	E
+5556	There is no woman putting on makeup.	There is no woman putting on makeup.	C	E
+5557	There is no woman riding a horse.	There is no woman riding a horse.	C	E
+5558	There is no woman riding a water scooter.	There is no woman riding a water scooter.	C	E
+5559	There is no woman riding on an elephant.	There is no woman riding on an elephant.	C	E
+5560	There is no woman scrubbing a zucchini with a vegetable brush.	There is no woman scrubbing a zucchini with a vegetable brush.	C	E
+5561	There is no woman slicing a carrot.	There is no woman slicing a carrot.	C	E
+5562	There is no woman slicing a clove of garlic.	There is no woman slicing a clove of garlic.	C	E
+5563	There is no woman slicing a fish.	There is no woman slicing a fish.	C	E
+5564	There is no woman slicing a green pepper.	There is no woman slicing a green pepper.	C	E
+5565	There is no woman slicing a potato.	There is no woman slicing a potato.	C	E
+5566	There is no woman slicing a tomato.	There is no woman slicing a tomato.	C	E
+5567	There is no woman slicing an eggplant.	There is no woman slicing an eggplant.	C	E
+5568	There is no woman slicing an onion.	There is no woman slicing an onion.	C	E
+5569	There is no woman slicing meat with a knife.	There is no woman slicing meat with a knife.	C	E
+5570	There is no woman slicing potatoes.	There is no woman slicing potatoes.	C	E
+5571	There is no woman slicing tofu.	There is no woman slicing tofu.	C	E
+5572	There is no woman snowboarding down an incline and there is no other woman standing behind her.	There is no woman snowboarding down an incline and there is no other woman standing behind her.	C	E
+5573	There is no woman squeezing juice out of a lemon.	There is no woman squeezing juice out of a lemon.	C	E
+5574	There is no woman standing near three children.	There is no woman standing near three children.	C	E
+5575	There is no woman stroking a lemur.	There is no woman stroking a lemur.	C	E
+5576	There is no woman tapping her fingers.	There is no woman tapping her fingers.	C	E
+5577	There is no woman using a sewing machine.	There is no woman using a sewing machine.	C	E
+5578	There is no woman using an eye pencil and applying eye liner to her eyelid.	There is no woman using an eye pencil and applying eye liner to her eyelid.	C	E
+5579	There is no woman wearing a blue helmet and riding a bicycle in a parking lot.	There is no woman wearing a blue helmet and riding a bicycle in a parking lot.	C	E
+5580	There is no woman wearing a blue shirt with a white vest and a white cap, talking and marching.	There is no woman wearing a blue shirt with a white vest and a white cap, talking and marching.	C	E
+5581	There is no woman wearing sunglasses of large size and holding newspapers in both hands.	There is no woman wearing sunglasses of large size and holding newspapers in both hands.	C	E
+5582	There is no woman with black hair standing in front of a plywood wall.	There is no woman with black hair standing in front of a plywood wall.	C	E
+5583	There is no young Asian woman with pink gloves standing in the snow.	There is no young Asian woman with pink gloves standing in the snow.	C	E
+5584	There is no young boy covered in grass jumping near a wooden fence.	There is no young boy covered in grass jumping near a wooden fence.	C	E
+5585	There is no young boy jumping in the air with his knees bent and arms spread.	There is no young boy jumping in the air with his knees bent and arms spread.	C	E
+5586	There is no young boy playing a wind instrument.	There is no young boy playing a wind instrument.	C	E
+5587	There is no young boy playing in the park with his mother.	There is no young boy playing in the park with his mother.	C	E
+5588	There is no young boy riding a dirt bike through the mud.	There is no young boy riding a dirt bike through the mud.	C	E
+5589	There is no young boy singing and playing a guitar.	There is no young boy singing and playing a guitar.	C	E
+5590	There is no young child dressed for cold weather standing outside.	There is no young child dressed for cold weather standing outside.	C	E
+5591	There is no young child running outside over the fallen leaves.	There is no young child running outside over the fallen leaves.	C	E
+5592	There is no young child splashing in the water.	There is no young child splashing in the water.	C	E
+5593	There is no young child standing in front of some trees.	There is no young child standing in front of some trees.	C	E
+5594	There is no young child wearing a white coat and playing a game.	There is no young child wearing a white coat and playing a game.	C	E
+5595	There is no young girl in a blue shirt walking on the sidewalk and holding up a pink sign.	There is no young girl in a blue shirt walking on the sidewalk and holding up a pink sign.	C	E
+5596	There is no young girl in a winter coat jumping off a boulder into the sand at a beach.	There is no young girl in a winter coat jumping off a boulder into the sand at a beach.	C	E
+5597	There is no young lady with light brown hair wearing a red necklace, a sweatshirt and earrings and smiling.	There is no young lady with light brown hair wearing a red necklace, a sweatshirt and earrings and smiling.	C	E
+5598	There is no young man with brown hair and sunglasses sitting in front of some cans of soda.	There is no young man with brown hair and sunglasses sitting in front of some cans of soda.	C	E
+5599	There is nobody jumping in the air on a board.	There is nobody jumping in the air on a board.	C	E
+5603	Three Asian kids are dancing and there is no man looking.	Three Asian kids are dancing and there is no man looking.	C	E
+5611	Three boys in karate costumes aren't fighting.	Three boys in karate costumes aren't fighting.	C	E
+5641	Three men are not staring at the big green hills in the distance.	Three men are not staring at the big green hills in the distance.	C	E
+5675	Tofu isn't being sliced by a woman.	Tofu isn't being sliced by a woman.	C	E
+5676	Two adults are not standing on a scooter in a field of yellow flowers.	Two adults are not standing on a scooter in a field of yellow flowers.	C	E
+5701	Two boys are not talking on the phone.	Two boys are not talking on the phone.	C	E
+5729	Two children and an adult are not standing next to a tree limb.	Two children and an adult are not standing next to a tree limb.	C	E
+5739	Two children are not playing in the surf.	Two children are not playing in the surf.	C	E
+5740	Two children are not playing soccer in the park.	Two children are not playing soccer in the park.	C	E
+5748	Two children are rolling in clean water.	Two children are rolling in clean water.	C	E
+5820	Two girls are not playing inside the jumper house.	Two girls are not playing inside the jumper house.	C	E
+5834	Two kids are not sticking out blue and green colored tongues.	Two kids are not sticking out blue and green colored tongues.	C	E
+5851	Two large persons are standing near a park bench and they have nothing between them.	Two large persons are standing near a park bench and they have nothing between them.	C	E
+5852	Two little boys are not wearing tuxedos.	Two little boys are not wearing tuxedos.	C	E
+5856	Two males are standing on a cliff edge and no one is jumping into the water.	Two males are standing on a cliff edge and no one is jumping into the water.	C	E
+5887	Two men are not fighting.	Two men are not fighting.	C	E
+5888	Two men are not holding fishing poles.	Two men are not holding fishing poles.	C	E
+5889	Two men are not taking a break from construction.	Two men are not taking a break from construction.	C	E
+5893	Two men are playing table football.	Two men are playing table football.	C	E
+5900	Two men are standing in deep water.	Two men are standing in deep water.	C	E
+5906	Two men are swimming in deep water.	Two men are swimming in deep water.	C	E
+5929	Two pandas are not lying together.	Two pandas are not lying together.	C	E
+5939	Two people are ignoring the nearby gold statue.	Two people are ignoring the nearby gold statue.	C	E
+5941	Two people are in the snow not wearing clothes, which provides camouflage..	Two people are in the snow not wearing clothes, which provides camouflage..	C	E
+5943	Two people are kickboxing and spectators are not watching.	Two people are kickboxing and spectators are not watching.	C	E
+5948	Two people are not riding motorbikes.	Two people are not riding motorbikes.	C	E
+5983	Two people wearing helmets are not riding over the yellow and white flowers.	Two people wearing helmets are not riding over the yellow and white flowers.	C	E
+5999	Two sumo ringers are not fighting.	Two sumo ringers are not fighting.	C	E
+6017	Two white dogs and one brown dog are not chasing a ball.	Two white dogs and one brown dog are not chasing a ball.	C	E
+6018	Two white dogs are not running together.	Two white dogs are not running together.	C	E
+6032	Two women are not dancing.	Two women are not dancing.	C	E
+6059	Two young women are not sparring in a kickboxing fight.	Two young women are not sparring in a kickboxing fight.	C	E
+6072	Women are not wearing bunny ears and race numbers and are not pointing at something in the distance.	Women are not wearing bunny ears and race numbers and are not pointing at something in the distance.	C	E
